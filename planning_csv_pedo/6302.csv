@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6302
+Année,6A
+Type,3
+Groupe,G3_02
+Vacations Poly (total),60
+Détail,normal:33 examen:7 rattrap:13 débord:7
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4302+4303,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4302+4303,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,Pédo-soin (PEDO-A1),—,—,cours/indispo promo (C),Poly trinome avec 4302+4303,—,—,cours/indispo promo (C),—,—
+40,1,Pédo-soin (PEDO-A1),—,—,—,Poly trinome avec 4302+4303,—,—,—,—,—
+41,1,Pédo-soin (PEDO-A1),—,—,—,Poly trinome avec 4302+4303,—,Poly trinome avec 4302+4303,—,—,—
+42,1,Pédo-soin (PEDO-A1),—,—,—,Poly trinome avec 4302+4303,—,—,—,—,—
+43,1,Pédo-soin (PEDO-A1),—,—,—,Poly trinome avec 4302+4303,—,—,—,—,—
+44,1,Pédo-soin (PEDO-A1),—,—,—,Poly trinome avec 4302+4303,—,—,—,—,—
+45,2,S,S,S,S,S,S,S,S,S,S
+46,2,S,S,S,S,S,S,S,S,S,S
+47,2,S,S,S,S,S,S,S,S,S,S
+48,2,S,S,S,S,S,S,S,S,S,S
+49,2,S,S,S,S,S,S,S,S,S,S
+50,2,S,S,S,S,S,S,S,S,S,S
+51,2,S,S,S,S,S,S,S,S,S,S
+52,2,—,—,—,—,Poly trinome avec 4302+4303 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,—,Poly trinome avec 4302+4303 (examen),—,Poly 6A seul (examen),—,—,—,Pédo-soin (PEDO-6A-B-venM),—
+3,3,—,—,—,—,—,Poly trinome avec 4302+4303,—,—,Pédo-soin (PEDO-6A-B-venM),—
+4,3,—,—,—,—,—,Poly trinome avec 4302+4303,—,—,Pédo-soin (PEDO-6A-B-venM),—
+5,3,—,—,—,—,—,Poly trinome avec 4302+4303,—,—,Pédo-soin (PEDO-6A-B-venM),—
+6,3,—,—,—,—,—,Poly trinome avec 4302+4303 (rattrap),—,Poly trinome avec 4302+4303 (rattrap),Pédo-soin (PEDO-6A-B-venM),—
+7,3,—,—,—,—,—,Poly trinome avec 4302+4303,Poly trinome avec 4302+4303,—,Pédo-soin (PEDO-6A-B-venM),—
+8,3,—,—,—,—,—,Poly trinome avec 4302+4303,—,—,Pédo-soin (PEDO-6A-B-venM),—
+9,4,—,—,—,—,—,—,Poly trinome avec 4302+4303 (rattrap),—,Pédo-soin (PEDO-B2),—
+10,4,—,—,—,—,—,—,Poly trinome avec 4302+4303 (rattrap),—,Pédo-soin (PEDO-B2),—
+11,4,—,—,—,—,Poly trinome avec 4302+4303 (rattrap),—,Poly trinome avec 4302+4303 (rattrap),—,Pédo-soin (PEDO-B2),—
+12,4,—,—,—,—,—,—,Poly trinome avec 4302+4303 (rattrap),—,Pédo-soin (PEDO-B2),—
+13,4,—,—,—,—,—,—,Poly trinome avec 4302+4303 (rattrap),—,Pédo-soin (PEDO-B2),—
+14,4,cours/indispo promo (F),cours/indispo promo (F),—,—,Poly trinome avec 4302+4303,—,—,—,Pédo-soin (PEDO-B2),—
+15,4,—,—,—,—,Poly trinome avec 4302+4303 (rattrap),—,Poly trinome avec 4302+4303 (rattrap),—,Pédo-soin (PEDO-B2),—
+16,4,—,—,—,—,Poly trinome avec 4302+4303,—,Poly trinome avec 4302+4303,—,Pédo-soin (PEDO-B2),—
+17,4,—,—,—,—,Poly trinome avec 4302+4303,Poly trinome avec 4302+4303 (débord),—,—,Pédo-soin (PEDO-B2),—
+18,5,—,Poly trinome avec 4302+4303 (examen),Poly trinome avec 4302+4303 (examen),—,—,—,—,—,—,—
+19,5,—,—,—,Poly 6A seul (examen),Poly 6A seul (examen),—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,—,—,—,Poly trinome avec 4302+4303,—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,Poly trinome avec 4302+4303 (examen),Poly trinome avec 4302+4303,—,—,—,—,—
+22,5,—,—,—,—,Poly trinome avec 4302+4303,Poly trinome avec 4302+4303 (débord),—,—,—,—
+23,5,—,—,—,—,Poly trinome avec 4302+4303,Poly trinome avec 4302+4303 (débord),—,—,—,—
+24,5,—,—,—,—,Poly trinome avec 4302+4303,—,—,—,—,—
+25,5,—,—,—,—,Poly trinome avec 4302+4303,—,Poly trinome avec 4302+4303,—,—,—
+26,5,—,—,—,—,Poly trinome avec 4302+4303,—,—,Poly trinome avec 4302+4303 (débord),—,—
+27,5,—,—,—,—,Poly trinome avec 4302+4303,—,—,Poly trinome avec 4302+4303 (débord),—,—
+28,6,—,—,—,—,Poly trinome avec 4302+4303,—,—,—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4302+4303 (rattrap),Poly trinome avec 4302+4303 (rattrap),—,—
+30,6,—,—,—,—,Poly trinome avec 4302+4303,—,—,Poly trinome avec 4302+4303 (débord),—,—
+31,6,—,—,—,—,Poly trinome avec 4302+4303,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,Poly trinome avec 4302+4303,Poly trinome avec 4302+4303 (débord),—,—,—,—
+35,6,—,—,—,—,Poly trinome avec 4302+4303,—,—,—,—,—

@@ -1,0 +1,20 @@
+============================================================
+  RAPPORT D'ALERTES — Génération du planning Poly
+  2026-08-03 11:23:46
+============================================================
+
+ALERTES DE SCÉNARIO (0)
+------------------------------------------------------------
+  Aucune
+
+DÉPASSEMENTS DE CAPACITÉ APRÈS ROULEMENT (0)
+------------------------------------------------------------
+  Aucun
+
+ÉQUITÉ DES VACATIONS (groupes 4/6)
+------------------------------------------------------------
+  Min     : 38 vacations
+  Max     : 51 vacations
+  Écart   : 13 vacations
+  Moyenne : 45.9 vacations
+

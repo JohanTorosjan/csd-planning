@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6211
+Année,6A
+Type,2
+Groupe,G2_07
+Vacations Poly (total),59
+Détail,normal:41 examen:7 rattrap:4 débord:7
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,Poly 4/6 avec 4210,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,Poly 4/6 avec 4210,cours/indispo promo (C),Poly 4/6 avec 4210,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,—,Poly 4/6 avec 4210,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—,—
+40,1,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—
+41,1,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—
+42,1,—,—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,—,—,—,—,—
+43,1,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—
+44,1,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—
+45,2,—,—,—,Poly 4/6 avec 4210 (rattrap),—,—,Pédo-soin (PEDO-A3),—,—,—
+46,2,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-A3),—,—,—
+47,2,—,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210,—,Pédo-soin (PEDO-A3),—,—,—
+48,2,—,—,—,Poly 4/6 avec 4210,—,—,Pédo-soin (PEDO-A3),—,—,—
+49,2,—,—,—,Poly 4/6 avec 4210,—,—,Pédo-soin (PEDO-A3),—,—,—
+50,2,—,—,Poly 6A seul,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),—,—
+51,2,—,—,—,Poly 4/6 avec 4210,—,—,Pédo-soin (PEDO-A3),—,—,—
+52,2,—,—,—,—,Poly 4/6 avec 4210 (rattrap),Poly 4/6 avec 4210 (rattrap),Pédo-soin (PEDO-A3),cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,—,Poly 4/6 avec 4210 (examen),Poly 4/6 avec 4210 (examen),—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+3,3,—,—,—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+4,3,—,—,—,Poly 4/6 avec 4210,—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+5,3,—,—,—,Poly 4/6 avec 4210,—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+6,3,—,—,—,Poly 4/6 avec 4210 (rattrap),—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+7,3,—,—,—,Poly 4/6 avec 4210,—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+8,3,—,—,—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+9,4,S,S,S,S,S,S,S,S,S,S
+10,4,S,S,S,S,S,S,S,S,S,S
+11,4,S,S,S,S,S,S,S,S,S,S
+12,4,S,S,S,S,S,S,S,S,S,S
+13,4,S,S,S,S,S,S,S,S,S,S
+14,4,S,S,S,S,S,S,S,S,S,S
+15,4,S,S,S,S,S,S,S,S,S,S
+16,4,Pédo-soin (PEDO-6A-B-lunM) [remplissage],—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,—,—,—,—
+17,4,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—
+18,5,—,Poly 4/6 avec 4210 (examen),Poly 4/6 avec 4210 (examen),—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+19,5,—,—,Poly 6A seul (examen),Poly 6A seul (examen),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4210 (examen),—,Poly 4/6 avec 4210,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+22,5,—,—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+23,5,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—
+24,5,—,—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,—,—,—,—,—
+25,5,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+26,5,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,—,—,—,—
+27,5,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+28,6,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-56-jeuM),—,—,—
+30,6,—,—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,—,—,—,—,—
+31,6,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+35,6,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—

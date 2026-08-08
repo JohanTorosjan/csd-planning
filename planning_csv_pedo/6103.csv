@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6103
+Année,6A
+Type,1
+Groupe,G1_02
+Vacations Poly (total),60
+Détail,normal:41 examen:11 rattrap:5 débord:3
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),Poly trinome avec 4103+4104,—,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),Poly trinome avec 4103+4104,Poly trinome avec 4103+4104,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,Poly trinome avec 4103+4104,—,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),—,—
+40,1,—,Poly trinome avec 4103+4104,Poly trinome avec 4103+4104,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+41,1,—,Poly trinome avec 4103+4104,—,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+42,1,—,Poly trinome avec 4103+4104,Poly trinome avec 4103+4104,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+43,1,—,Poly trinome avec 4103+4104,—,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+44,1,—,Poly trinome avec 4103+4104,Poly trinome avec 4103+4104,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+45,2,S,S,S,S,S,S,S,S,S,S
+46,2,S,S,S,S,S,S,S,S,S,S
+47,2,S,S,S,S,S,S,S,S,S,S
+48,2,S,S,S,S,S,S,S,S,S,S
+49,2,S,S,S,S,S,S,S,S,S,S
+50,2,S,S,S,S,S,S,S,S,S,S
+51,2,S,S,S,S,S,S,S,S,S,S
+52,2,Poly trinome avec 4103+4104 (rattrap),Poly trinome avec 4103+4104 (rattrap),—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,Poly trinome avec 4103+4104 (examen),Poly trinome avec 4103+4104 (examen),—,—,—,Pédo-soin (PEDO-B2),—,—,—,—
+3,3,—,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,Pédo-soin (PEDO-B2),—,—,—,—
+4,3,—,Poly trinome avec 4103+4104,—,—,—,Pédo-soin (PEDO-B2),—,—,—,—
+5,3,—,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,Pédo-soin (PEDO-B2),—,—,—,—
+6,3,—,Poly trinome avec 4103+4104 (rattrap),—,—,—,Pédo-soin (PEDO-B2),—,—,—,—
+7,3,—,Poly trinome avec 4103+4104,—,—,—,Pédo-soin (PEDO-B2),—,—,—,—
+8,3,—,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,Pédo-soin (PEDO-B2),—,—,—,—
+9,4,X,X,X,X,X,X,X,X,X,X
+10,4,X,X,X,X,X,X,X,X,X,X
+11,4,X,X,X,X,X,X,X,X,X,X
+12,4,X,X,X,X,X,X,X,X,X,X
+13,4,X,X,X,X,X,X,X,X,X,X
+14,4,X,X,X,X,X,X,X,X,X,X
+15,4,X,X,X,X,X,X,X,X,X,X
+16,4,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,Pédo-soin (PEDO-6A-B-merM) [remplissage],—,—,—,—,—
+17,4,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,—,—,—,—,—,—
+18,5,Poly trinome avec 4103+4104 (examen),Poly trinome avec 4103+4104 (examen),—,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+19,5,Poly 6A seul (examen),Poly 6A seul (examen),—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4103+4104 (examen),Poly trinome avec 4103+4104 (examen),—,—,—,—,—,—
+22,5,Poly trinome avec 4103+4104 (examen),Poly trinome avec 4103+4104 (examen),—,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+23,5,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,—,—,—,—,—,—
+24,5,Poly trinome avec 4103+4104,Poly trinome avec 4103+4104 (débord),—,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+25,5,Poly trinome avec 4103+4104,Poly trinome avec 4103+4104 (débord),—,—,—,—,—,—,—,—
+26,5,Poly trinome avec 4103+4104,Poly trinome avec 4103+4104 (débord),—,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+27,5,Poly trinome avec 4103+4104 (examen),—,Poly trinome avec 4103+4104,—,—,—,—,—,—,—
+28,6,Poly trinome avec 4103+4104,—,—,—,—,—,—,—,—,—
+29,6,Poly trinome avec 4103+4104 (rattrap),Poly trinome avec 4103+4104 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+31,6,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,—,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+35,6,Poly trinome avec 4103+4104,—,Poly trinome avec 4103+4104,—,—,—,—,—,—,—

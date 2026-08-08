@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6114
+Année,6A
+Type,1
+Groupe,G1_11
+Vacations Poly (total),70
+Détail,normal:46 examen:11 rattrap:8 débord:5
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),Poly 4/6 avec 4114,Poly 4/6 avec 4114,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),Poly 4/6 avec 4114,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,Poly 4/6 avec 4114,Poly 4/6 avec 4114,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—,—
+40,1,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—,—
+41,1,—,Poly 4/6 avec 4114,Poly 4/6 avec 4114,—,—,—,—,—,—,—
+42,1,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—,—
+43,1,—,Poly 4/6 avec 4114,Poly 4/6 avec 4114,—,—,—,—,—,—,—
+44,1,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—,—
+45,2,Poly 4/6 avec 4114 (rattrap),Poly 4/6 avec 4114 (rattrap),—,—,—,—,—,—,—,—
+46,2,Poly 4/6 avec 4114 (rattrap),Poly 4/6 avec 4114 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+47,2,—,Poly 4/6 avec 4114,—,Poly 4/6 avec 4114,—,—,—,—,—,—
+48,2,—,Poly 4/6 avec 4114,—,Poly 4/6 avec 4114,—,—,—,—,—,—
+49,2,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—,—
+50,2,Poly 4/6 avec 4114,—,Poly 6A seul,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),—,—
+51,2,—,Poly 4/6 avec 4114,—,Poly 4/6 avec 4114,—,—,—,—,—,—
+52,2,Poly 4/6 avec 4114 (rattrap),Poly 4/6 avec 4114 (rattrap),—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,Poly 4/6 avec 4114 (examen),Poly 4/6 avec 4114 (examen),—,—,—,—,—,—,—,—
+3,3,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—,—
+4,3,—,Poly 4/6 avec 4114,—,Poly 4/6 avec 4114,—,—,—,—,—,—
+5,3,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—,—
+6,3,—,Poly 4/6 avec 4114 (rattrap),—,—,—,—,—,—,—,—
+7,3,—,Poly 4/6 avec 4114,—,Poly 4/6 avec 4114,—,—,—,—,—,—
+8,3,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—,—
+9,4,S,S,S,S,S,S,S,S,S,S
+10,4,S,S,S,S,S,S,S,S,S,S
+11,4,S,S,S,S,S,S,S,S,S,S
+12,4,S,S,S,S,S,S,S,S,S,S
+13,4,S,S,S,S,S,S,S,S,S,S
+14,4,S,S,S,S,S,S,S,S,S,S
+15,4,S,S,S,S,S,S,S,S,S,S
+16,4,Poly 4/6 avec 4114,Poly 4/6 avec 4114 (débord),—,—,—,—,—,—,—,—
+17,4,Poly 4/6 avec 4114,Poly 4/6 avec 4114 (débord),—,—,—,—,—,—,—,—
+18,5,Poly 4/6 avec 4114 (examen),Poly 4/6 avec 4114 (examen),—,—,—,—,—,—,—,—
+19,5,Poly 6A seul (examen),Poly 6A seul (examen),—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,Poly 4/6 avec 4114,—,—,—,—,—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4114 (examen),Poly 4/6 avec 4114 (examen),—,—,—,—,—,—
+22,5,Poly 4/6 avec 4114 (examen),—,Poly 4/6 avec 4114,—,—,—,—,—,—,—
+23,5,Poly 4/6 avec 4114,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—
+24,5,Poly 4/6 avec 4114,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—
+25,5,Poly 4/6 avec 4114,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—
+26,5,Poly 4/6 avec 4114,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—
+27,5,Poly 4/6 avec 4114 (examen),Poly 4/6 avec 4114 (examen),—,—,—,—,—,—,—,—
+28,6,Poly 4/6 avec 4114,Poly 4/6 avec 4114 (débord),—,—,—,—,—,—,—,—
+29,6,—,Poly 4/6 avec 4114 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,Poly 4/6 avec 4114,Poly 4/6 avec 4114 (débord),—,—,—,—,—,—,—,—
+31,6,Poly 4/6 avec 4114,Poly 4/6 avec 4114 (débord),—,—,—,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Poly 4/6 avec 4114,—,—,—,—,—,—,—,—,—
+35,6,Poly 4/6 avec 4114,—,Poly 4/6 avec 4114,—,—,—,—,—,—,—

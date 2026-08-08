@@ -1,0 +1,116 @@
+
+======================================================================
+  PÉRIODE 1  (semaines 36–44, 9 sem.)
+======================================================================
+
+  lundi     M    |  remplissage moyen/sem : 5A=8.0  6A=8.0  4A=0.0  (total 16.0/20)
+       5A absents (sem 40) : 41 libre (dispo mais non placé), 28 Poly
+       6A absents (sem 40) : 53 libre (dispo mais non placé)
+       4A absents (sem 40) : 84 cours (C)
+
+  mercredi  M    |  remplissage moyen/sem : 5A=12.0  6A=3.6  4A=3.6  (total 19.1/20)
+       5A absents (sem 40) : 65 libre (dispo mais non placé)
+       6A absents (sem 40) : 42 libre (dispo mais non placé), 19 Poly
+       4A absents (sem 40) : 57 libre (dispo mais non placé), 23 Poly
+
+  mercredi  AM   |  remplissage moyen/sem : 5A=8.0  6A=7.1  4A=3.6  (total 18.7/20)
+       5A absents (sem 40) : 36 libre (dispo mais non placé), 33 Poly
+       6A absents (sem 40) : 57 libre (dispo mais non placé)
+       4A absents (sem 40) : 80 libre (dispo mais non placé)
+
+  jeudi     M    |  remplissage moyen/sem : 5A=0.0  6A=14.2  4A=0.0  (total 14.2/20)
+       5A absents (sem 40) : 77 cours (C)
+       6A absents (sem 40) : 30 libre (dispo mais non placé), 19 Poly
+       4A absents (sem 40) : 53 libre (dispo mais non placé), 23 Poly, 8 service sanitaire
+
+  vendredi  M    |  remplissage moyen/sem : 5A=11.0  6A=6.0  4A=0.0  (total 17.0/20)
+       5A absents (sem 40) : 34 libre (dispo mais non placé), 32 Poly
+       6A absents (sem 40) : 56 libre (dispo mais non placé)
+       4A absents (sem 40) : 84 cours (C)
+
+======================================================================
+  PÉRIODE 2  (semaines 45–1, 9 sem.)
+======================================================================
+
+  lundi     M    |  remplissage moyen/sem : 5A=9.8  6A=4.4  4A=3.6  (total 17.8/20)
+       5A absents (sem 49) : 38 libre (dispo mais non placé), 28 Poly
+       6A absents (sem 49) : 35 libre (dispo mais non placé), 25 stage/absence (6A)
+       4A absents (sem 49) : 72 libre (dispo mais non placé), 8 service sanitaire
+
+  mercredi  M    |  remplissage moyen/sem : 5A=0.0  6A=10.0  4A=0.6  (total 10.6/20)
+       5A absents (sem 49) : 77 cours (C)
+       6A absents (sem 49) : 25 stage/absence (6A), 14 libre (dispo mais non placé), 11 Poly
+       4A absents (sem 49) : 62 libre (dispo mais non placé), 22 Poly
+
+  mercredi  AM   |  remplissage moyen/sem : 5A=6.2  6A=5.3  4A=1.3  (total 12.9/20)
+       5A absents (sem 49) : 36 libre (dispo mais non placé), 33 Poly
+       6A absents (sem 49) : 32 libre (dispo mais non placé), 25 stage/absence (6A)
+       4A absents (sem 49) : 84 cours (C)
+
+  jeudi     M    |  remplissage moyen/sem : 5A=7.1  6A=6.2  4A=3.6  (total 16.9/20)
+       5A absents (sem 49) : 69 libre (dispo mais non placé)
+       6A absents (sem 49) : 25 stage/absence (6A), 19 libre (dispo mais non placé), 13 Poly
+       4A absents (sem 49) : 49 libre (dispo mais non placé), 23 Poly, 8 service sanitaire
+
+  vendredi  M    |  remplissage moyen/sem : 5A=9.3  6A=3.1  4A=2.7  (total 15.1/20)
+       5A absents (sem 49) : 65 libre (dispo mais non placé)
+       6A absents (sem 49) : 26 libre (dispo mais non placé), 25 stage/absence (6A), 10 Poly
+       4A absents (sem 49) : 44 libre (dispo mais non placé), 28 Poly, 8 service sanitaire
+
+======================================================================
+  PÉRIODE 3  (semaines 2–8, 7 sem.)
+======================================================================
+
+  lundi     M    |  remplissage moyen/sem : 5A=9.3  6A=3.0  4A=2.9  (total 15.1/20)
+       5A absents (sem 5) : 36 libre (dispo mais non placé), 28 Poly
+       6A absents (sem 5) : 37 libre (dispo mais non placé), 25 stage/absence (6A)
+       4A absents (sem 5) : 72 libre (dispo mais non placé), 8 service sanitaire
+
+  mercredi  M    |  remplissage moyen/sem : 5A=11.1  6A=7.0  4A=0.0  (total 18.1/20)
+       5A absents (sem 5) : 33 Poly, 31 libre (dispo mais non placé)
+       6A absents (sem 5) : 33 libre (dispo mais non placé), 25 stage/absence (6A)
+       4A absents (sem 5) : 84 cours (C)
+
+  mercredi  AM   |  remplissage moyen/sem : 5A=8.6  6A=4.0  4A=2.9  (total 15.4/20)
+       5A absents (sem 5) : 65 libre (dispo mais non placé)
+       6A absents (sem 5) : 25 stage/absence (6A), 24 libre (dispo mais non placé), 12 Poly
+       4A absents (sem 5) : 57 libre (dispo mais non placé), 23 Poly
+
+  jeudi     M    |  remplissage moyen/sem : 5A=0.0  6A=13.0  4A=0.0  (total 13.0/20)
+       5A absents (sem 5) : 77 cours (C)
+       6A absents (sem 5) : 25 stage/absence (6A), 17 libre (dispo mais non placé), 10 Poly
+       4A absents (sem 5) : 56 libre (dispo mais non placé), 22 Poly, 6 service sanitaire
+
+  vendredi  M    |  remplissage moyen/sem : 5A=0.0  6A=13.0  4A=0.0  (total 13.0/20)
+       5A absents (sem 5) : 45 libre (dispo mais non placé), 32 Poly
+       6A absents (sem 5) : 27 libre (dispo mais non placé), 25 stage/absence (6A)
+       4A absents (sem 5) : 84 cours (C)
+
+======================================================================
+  PÉRIODE 4  (semaines 9–17, 9 sem.)
+======================================================================
+
+  lundi     M    |  remplissage moyen/sem : 5A=0.0  6A=6.7  4A=2.2  (total 8.9/20)
+       5A absents (sem 13) : 77 cours (C)
+       6A absents (sem 13) : 29 stage/absence (6A), 26 libre (dispo mais non placé)
+       4A absents (sem 13) : 76 libre (dispo mais non placé), 8 service sanitaire
+
+  mercredi  M    |  remplissage moyen/sem : 5A=0.0  6A=13.1  4A=0.9  (total 14.0/20)
+       5A absents (sem 13) : 77 cours (C)
+       6A absents (sem 13) : 29 stage/absence (6A), 15 Poly, 5 libre (dispo mais non placé)
+       4A absents (sem 13) : 60 libre (dispo mais non placé), 24 Poly
+
+  mercredi  AM   |  remplissage moyen/sem : 5A=13.0  6A=2.8  4A=1.3  (total 17.1/20)
+       5A absents (sem 13) : 33 Poly, 31 libre (dispo mais non placé)
+       6A absents (sem 13) : 33 libre (dispo mais non placé), 29 stage/absence (6A)
+       4A absents (sem 13) : 84 cours (C)
+
+  jeudi     M    |  remplissage moyen/sem : 5A=13.0  6A=2.8  4A=4.0  (total 19.8/20)
+       5A absents (sem 13) : 64 libre (dispo mais non placé)
+       6A absents (sem 13) : 29 stage/absence (6A), 19 libre (dispo mais non placé), 14 Poly
+       4A absents (sem 13) : 51 libre (dispo mais non placé), 23 Poly, 6 service sanitaire
+
+  vendredi  M    |  remplissage moyen/sem : 5A=12.0  6A=3.8  4A=0.9  (total 16.7/20)
+       5A absents (sem 13) : 33 libre (dispo mais non placé), 32 Poly
+       6A absents (sem 13) : 32 libre (dispo mais non placé), 29 stage/absence (6A)
+       4A absents (sem 13) : 84 cours (C)

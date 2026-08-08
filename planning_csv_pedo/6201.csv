@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6201
+Année,6A
+Type,2
+Groupe,G2_01
+Vacations Poly (total),51
+Détail,normal:37 examen:8 rattrap:1 débord:5
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,Poly 4/6 avec 4201,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,Poly 4/6 avec 4201,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,—,Poly 4/6 avec 4201,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),—,—
+40,1,—,—,Poly 4/6 avec 4201,—,Poly 4/6 avec 4201,Pédo-soin (PEDO-A3),—,—,—,—
+41,1,—,—,Poly 4/6 avec 4201,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+42,1,—,—,Poly 4/6 avec 4201,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+43,1,—,—,Poly 4/6 avec 4201,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+44,1,—,—,Poly 4/6 avec 4201,—,Poly 4/6 avec 4201,Pédo-soin (PEDO-A3),—,—,—,—
+45,2,S,S,S,S,S,S,S,S,S,S
+46,2,S,S,S,S,S,S,S,S,S,S
+47,2,S,S,S,S,S,S,S,S,S,S
+48,2,S,S,S,S,S,S,S,S,S,S
+49,2,S,S,S,S,S,S,S,S,S,S
+50,2,S,S,S,S,S,S,S,S,S,S
+51,2,S,S,S,S,S,S,S,S,S,S
+52,2,—,—,—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,Poly 4/6 avec 4201 (examen),Poly 4/6 avec 4201 (examen),—,Pédo-soin (PEDO-B3),—,—,—,—,—
+3,3,—,—,—,Poly 4/6 avec 4201,Pédo-soin (PEDO-B3),—,—,—,—,—
+4,3,—,—,—,Poly 4/6 avec 4201,Pédo-soin (PEDO-B3),—,—,—,—,—
+5,3,—,—,—,Poly 4/6 avec 4201,Pédo-soin (PEDO-B3),Poly 4/6 avec 4201,—,—,—,—
+6,3,—,—,—,Poly 4/6 avec 4201 (rattrap),Pédo-soin (PEDO-B3),—,—,—,—,—
+7,3,—,—,—,Poly 4/6 avec 4201,Pédo-soin (PEDO-B3),—,—,—,—,—
+8,3,—,—,—,Poly 4/6 avec 4201,Pédo-soin (PEDO-B3),—,—,—,—,—
+9,4,X,X,X,X,X,X,X,X,X,X
+10,4,X,X,X,X,X,X,X,X,X,X
+11,4,X,X,X,X,X,X,X,X,X,X
+12,4,X,X,X,X,X,X,X,X,X,X
+13,4,X,X,X,X,X,X,X,X,X,X
+14,4,X,X,X,X,X,X,X,X,X,X
+15,4,X,X,X,X,X,X,X,X,X,X
+16,4,Pédo-soin (PEDO-6A-B-lunM) [remplissage],—,Poly 4/6 avec 4201,—,Poly 4/6 avec 4201,—,—,—,—,—
+17,4,—,—,Poly 4/6 avec 4201,—,Poly 4/6 avec 4201,—,—,—,—,—
+18,5,Pédo-soin (PEDO-56-lunM),Poly 4/6 avec 4201 (examen),Poly 4/6 avec 4201 (examen),—,—,—,—,—,—,—
+19,5,Pédo-soin (PEDO-56-lunM),—,Poly 6A seul (examen),Poly 6A seul (examen),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,Pédo-soin (PEDO-56-lunM),—,Poly 4/6 avec 4201,—,Poly 4/6 avec 4201,—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4201 (examen),Poly 4/6 avec 4201 (examen),—,—,—,—,—,—
+22,5,Pédo-soin (PEDO-56-lunM),—,Poly 4/6 avec 4201,Poly 4/6 avec 4201 (débord),—,—,—,—,—,—
+23,5,—,—,Poly 4/6 avec 4201,—,Poly 4/6 avec 4201,—,—,—,—,—
+24,5,—,—,Poly 4/6 avec 4201,Poly 4/6 avec 4201 (débord),—,—,—,—,—,—
+25,5,—,—,Poly 4/6 avec 4201,—,—,—,—,—,—,—
+26,5,Pédo-soin (PEDO-56-lunM),—,Poly 4/6 avec 4201,—,Poly 4/6 avec 4201,—,—,—,—,—
+27,5,—,—,Poly 4/6 avec 4201,—,Poly 4/6 avec 4201,—,—,—,—,—
+28,6,—,—,Poly 4/6 avec 4201,Poly 4/6 avec 4201 (débord),—,—,—,—,—,—
+29,6,Pédo-soin (PEDO-56-lunM),—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,—,—,Poly 4/6 avec 4201,Poly 4/6 avec 4201 (débord),—,—,—,—,—,—
+31,6,—,—,Poly 4/6 avec 4201,—,—,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Pédo-soin (PEDO-56-lunM),—,Poly 4/6 avec 4201,—,Poly 4/6 avec 4201,—,—,—,—,—
+35,6,—,—,Poly 4/6 avec 4201,Poly 4/6 avec 4201 (débord),—,—,—,—,—,—

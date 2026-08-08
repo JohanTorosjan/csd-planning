@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6304
+Année,6A
+Type,3
+Groupe,G3_04
+Vacations Poly (total),50
+Détail,normal:31 examen:8 rattrap:4 débord:7
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 4306,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 4306,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,—,—,cours/indispo promo (C),Poly 4/6 avec 4306,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),—,—
+40,1,—,—,—,—,Poly 4/6 avec 4306,Pédo-soin (PEDO-A3),—,—,—,—
+41,1,—,—,—,—,Poly 4/6 avec 4306,Pédo-soin (PEDO-A3),Poly 4/6 avec 4306,—,—,—
+42,1,—,—,—,—,Poly 4/6 avec 4306,Pédo-soin (PEDO-A3),—,—,—,—
+43,1,—,—,—,—,Poly 4/6 avec 4306,Pédo-soin (PEDO-A3),—,—,—,—
+44,1,—,—,—,—,Poly 4/6 avec 4306,Pédo-soin (PEDO-A3),—,—,—,—
+45,2,S,S,S,S,S,S,S,S,S,S
+46,2,S,S,S,S,S,S,S,S,S,S
+47,2,S,S,S,S,S,S,S,S,S,S
+48,2,S,S,S,S,S,S,S,S,S,S
+49,2,S,S,S,S,S,S,S,S,S,S
+50,2,S,S,S,S,S,S,S,S,S,S
+51,2,S,S,S,S,S,S,S,S,S,S
+52,2,—,—,—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,Poly 4/6 avec 4306 (examen),—,—,Poly 4/6 avec 4306 (examen),Pédo-soin (PEDO-B3),—,—,—,—,—
+3,3,—,—,—,—,Pédo-soin (PEDO-B3),Poly 4/6 avec 4306,—,—,—,—
+4,3,—,—,—,—,Pédo-soin (PEDO-B3),Poly 4/6 avec 4306,—,—,—,—
+5,3,—,—,—,—,Pédo-soin (PEDO-B3),Poly 4/6 avec 4306,Poly 4/6 avec 4306,—,—,—
+6,3,—,—,—,—,Pédo-soin (PEDO-B3),Poly 4/6 avec 4306 (rattrap),—,Poly 4/6 avec 4306 (rattrap),—,—
+7,3,—,—,—,—,Pédo-soin (PEDO-B3),Poly 4/6 avec 4306,—,—,—,—
+8,3,—,—,—,—,Pédo-soin (PEDO-B3),Poly 4/6 avec 4306,—,—,—,—
+9,4,X,X,X,X,X,X,X,X,X,X
+10,4,X,X,X,X,X,X,X,X,X,X
+11,4,X,X,X,X,X,X,X,X,X,X
+12,4,X,X,X,X,X,X,X,X,X,X
+13,4,X,X,X,X,X,X,X,X,X,X
+14,4,X,X,X,X,X,X,X,X,X,X
+15,4,X,X,X,X,X,X,X,X,X,X
+16,4,Pédo-soin (PEDO-6A-B-lunM) [remplissage],—,—,—,Poly 4/6 avec 4306,Poly 4/6 avec 4306 (débord),—,—,—,—
+17,4,—,—,—,—,Poly 4/6 avec 4306,—,—,Poly 4/6 avec 4306 (débord),—,—
+18,5,Poly 4/6 avec 4306 (examen),Poly 4/6 avec 4306 (examen),—,—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+19,5,—,—,Poly 6A seul (examen),—,Poly 6A seul (examen),—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,—,—,—,Poly 4/6 avec 4306,—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4306 (examen),—,Poly 4/6 avec 4306,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+22,5,—,—,—,—,Poly 4/6 avec 4306,—,—,Poly 4/6 avec 4306 (débord),—,—
+23,5,—,—,—,—,Poly 4/6 avec 4306,Poly 4/6 avec 4306 (débord),Pédo-soin (PEDO-56-jeuM),—,—,—
+24,5,—,—,—,—,Poly 4/6 avec 4306,—,—,—,—,—
+25,5,—,—,—,—,Poly 4/6 avec 4306,Poly 4/6 avec 4306 (débord),—,—,—,—
+26,5,—,—,—,—,Poly 4/6 avec 4306,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+27,5,—,Poly 4/6 avec 4306 (examen),—,—,Poly 4/6 avec 4306,—,—,—,—,—
+28,6,—,—,—,—,Poly 4/6 avec 4306,—,Poly 4/6 avec 4306,—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4306 (rattrap),Poly 4/6 avec 4306 (rattrap),—,—
+30,6,—,—,—,—,Poly 4/6 avec 4306,—,Pédo-soin (PEDO-56-jeuM),Poly 4/6 avec 4306 (débord),—,—
+31,6,—,—,—,—,Poly 4/6 avec 4306,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,Poly 4/6 avec 4306,—,—,Poly 4/6 avec 4306 (débord),—,—
+35,6,—,—,—,—,Poly 4/6 avec 4306,—,Pédo-soin (PEDO-56-jeuM),—,—,—

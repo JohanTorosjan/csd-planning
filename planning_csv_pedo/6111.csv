@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6111
+Année,6A
+Type,1
+Groupe,G1_08
+Vacations Poly (total),70
+Détail,normal:37 examen:11 rattrap:17 débord:5
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),Poly 4/6 avec 4111,Poly 4/6 avec 4111,cours/indispo promo (C),—,—,Pédo-soin (PEDO-6A-A-jeuM),cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),Poly 4/6 avec 4111,—,cours/indispo promo (C),—,—,Pédo-soin (PEDO-6A-A-jeuM),cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,Poly 4/6 avec 4111,Poly 4/6 avec 4111,cours/indispo promo (C),—,—,Pédo-soin (PEDO-6A-A-jeuM),cours/indispo promo (C),—,—
+40,1,—,Poly 4/6 avec 4111,—,—,—,—,Pédo-soin (PEDO-6A-A-jeuM),—,—,—
+41,1,—,Poly 4/6 avec 4111,Poly 4/6 avec 4111,—,—,—,Pédo-soin (PEDO-6A-A-jeuM),—,—,—
+42,1,—,Poly 4/6 avec 4111,—,—,—,—,Pédo-soin (PEDO-6A-A-jeuM),—,—,—
+43,1,—,Poly 4/6 avec 4111,Poly 4/6 avec 4111,—,—,—,Pédo-soin (PEDO-6A-A-jeuM),—,—,—
+44,1,—,Poly 4/6 avec 4111,—,—,—,—,Pédo-soin (PEDO-6A-A-jeuM),—,—,—
+45,2,Poly 4/6 avec 4111 (rattrap),Poly 4/6 avec 4111 (rattrap),—,—,—,Pédo-soin (PEDO-A1),—,—,—,—
+46,2,Poly 4/6 avec 4111 (rattrap),Poly 4/6 avec 4111 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+47,2,—,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,Pédo-soin (PEDO-A1),—,—,—,—
+48,2,—,Poly 4/6 avec 4111,—,—,—,Pédo-soin (PEDO-A1),—,—,—,—
+49,2,—,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,Pédo-soin (PEDO-A1),—,—,—,—
+50,2,Poly 4/6 avec 4111,—,Poly 6A seul,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),—,—
+51,2,—,Poly 4/6 avec 4111,—,—,—,Pédo-soin (PEDO-A1),—,—,—,—
+52,2,Poly 4/6 avec 4111 (rattrap),Poly 4/6 avec 4111 (rattrap),—,—,—,Pédo-soin (PEDO-A1),—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,S,S,S,S,S,S,S,S,S,S
+3,3,S,S,S,S,S,S,S,S,S,S
+4,3,S,S,S,S,S,S,S,S,S,S
+5,3,S,S,S,S,S,S,S,S,S,S
+6,3,S,S,S,S,S,S,S,S,S,S
+7,3,S,S,S,S,S,S,S,S,S,S
+8,3,S,S,S,S,S,S,S,S,S,S
+9,4,—,Poly 4/6 avec 4111 (rattrap),—,Poly 4/6 avec 4111 (rattrap),Pédo-soin (PEDO-6A-B-merM),—,—,—,—,—
+10,4,Poly 4/6 avec 4111 (rattrap),Poly 4/6 avec 4111 (rattrap),—,—,Pédo-soin (PEDO-6A-B-merM),—,—,—,—,—
+11,4,—,Poly 4/6 avec 4111 (rattrap),—,—,Pédo-soin (PEDO-6A-B-merM),—,—,—,—,—
+12,4,Poly 4/6 avec 4111 (rattrap),Poly 4/6 avec 4111 (rattrap),—,—,Pédo-soin (PEDO-6A-B-merM),—,—,—,—,—
+13,4,—,Poly 4/6 avec 4111 (rattrap),—,—,Pédo-soin (PEDO-6A-B-merM),—,—,—,—,—
+14,4,cours/indispo promo (F),cours/indispo promo (F),—,Poly 4/6 avec 4111 (examen),Pédo-soin (PEDO-6A-B-merM),—,—,—,—,—
+15,4,Poly 4/6 avec 4111 (rattrap),Poly 4/6 avec 4111 (rattrap),—,—,Pédo-soin (PEDO-6A-B-merM),—,—,—,—,—
+16,4,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,Pédo-soin (PEDO-6A-B-merM),—,—,—,—,—
+17,4,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),—,—,Pédo-soin (PEDO-6A-B-merM),—,—,—,—,—
+18,5,Poly 4/6 avec 4111 (examen),Poly 4/6 avec 4111 (examen),—,—,—,—,—,—,—,—
+19,5,Poly 6A seul (examen),Poly 6A seul (examen),—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),—,—,—,—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4111 (examen),Poly 4/6 avec 4111 (examen),—,—,—,—,—,—
+22,5,Poly 4/6 avec 4111 (examen),Poly 4/6 avec 4111 (examen),—,—,—,—,—,—,—,—
+23,5,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),—,—,—,—,—,—,—,—
+24,5,Poly 4/6 avec 4111,—,—,—,—,—,—,—,—,—
+25,5,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,—,—,—,—,—,—
+26,5,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,—,—,—,—,—,—
+27,5,Poly 4/6 avec 4111 (examen),Poly 4/6 avec 4111 (examen),—,—,—,—,—,—,—,—
+28,6,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,—,—,—,—,—,—
+29,6,Poly 4/6 avec 4111 (rattrap),—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,—,—,—,—,—,—
+31,6,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),—,—,—,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),—,—,—,—,—,—,—,—
+35,6,Poly 4/6 avec 4111,—,—,—,—,—,—,—,—,—

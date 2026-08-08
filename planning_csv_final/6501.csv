@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6501
+Année,6A
+Type,5
+Groupe,G5_01
+Vacations Poly (total),60
+Détail,normal:49 examen:6 rattrap:4 débord:1
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4501+4502
+38,1,cours/indispo promo (C),Poly trinome avec 4501+4502,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4501+4502
+39,1,—,—,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—,Poly trinome avec 4501+4502
+40,1,—,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502
+41,1,—,—,—,—,—,—,—,—,—,Poly trinome avec 4501+4502
+42,1,—,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502
+43,1,—,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502
+44,1,—,—,—,—,—,—,—,—,—,Poly trinome avec 4501+4502
+45,2,S,S,S,S,S,S,S,S,S,S
+46,2,S,S,S,S,S,S,S,S,S,S
+47,2,S,S,S,S,S,S,S,S,S,S
+48,2,S,S,S,S,S,S,S,S,S,S
+49,2,S,S,S,S,S,S,S,S,S,S
+50,2,S,S,S,S,S,S,S,S,S,S
+51,2,S,S,S,S,S,S,S,S,S,S
+52,2,—,Poly trinome avec 4501+4502 (rattrap),—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,Poly trinome avec 4501+4502 (examen),Poly trinome avec 4501+4502 (examen),—,—,—,—,—,—,—,—
+3,3,—,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502
+4,3,—,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502
+5,3,—,—,—,—,—,—,—,—,—,Poly trinome avec 4501+4502
+6,3,—,—,—,—,—,—,—,—,—,Poly trinome avec 4501+4502 (rattrap)
+7,3,—,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502
+8,3,—,—,—,—,—,—,—,—,—,Poly trinome avec 4501+4502
+9,4,X,X,X,X,X,X,X,X,X,X
+10,4,X,X,X,X,X,X,X,X,X,X
+11,4,X,X,X,X,X,X,X,X,X,X
+12,4,X,X,X,X,X,X,X,X,X,X
+13,4,X,X,X,X,X,X,X,X,X,X
+14,4,X,X,X,X,X,X,X,X,X,X
+15,4,X,X,X,X,X,X,X,X,X,X
+16,4,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+17,4,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+18,5,Poly trinome avec 4501+4502 (examen),—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+19,5,Poly 6A seul (examen),—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4501+4502,—
+20,5,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—,—,—,Poly trinome avec 4501+4502,Poly trinome avec 4501+4502 (débord)
+22,5,Poly trinome avec 4501+4502 (examen),—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+23,5,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+24,5,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+25,5,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+26,5,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+27,5,Poly trinome avec 4501+4502 (examen),—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+28,6,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+29,6,Poly trinome avec 4501+4502 (rattrap),Poly trinome avec 4501+4502 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+31,6,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—
+35,6,Poly trinome avec 4501+4502,—,—,—,—,—,—,—,Poly trinome avec 4501+4502,—

@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,4302
+Année,4A
+Type,3
+Groupe,G3_02
+Vacations Poly (total),68
+Détail,normal:38 examen:6 rattrap:17 débord:7
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 6302+4303,—,Pédo-soin (PEDO-6A-A-jeuM),cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),Service sanitaire (SS-P1G1),Service sanitaire (SS-P1G1),cours/indispo promo (C),Poly trinome avec 6302+4303,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,cours/indispo promo (C),Service sanitaire (SS-P1G1),Service sanitaire (SS-P1G1),cours/indispo promo (C),Poly trinome avec 6302+4303,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+40,1,cours/indispo promo (C),Service sanitaire (SS-P1G1),Service sanitaire (SS-P1G1),cours/indispo promo (C),Poly trinome avec 6302+4303,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+41,1,cours/indispo promo (C),Service sanitaire (SS-P1G1),Service sanitaire (SS-P1G1),cours/indispo promo (C),Poly trinome avec 6302+4303,—,Poly trinome avec 6302+4303,cours/indispo promo (C),cours/indispo promo (C),—
+42,1,cours/indispo promo (C),Service sanitaire (SS-P1G1),Service sanitaire (SS-P1G1),cours/indispo promo (C),Poly trinome avec 6302+4303,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+43,1,cours/indispo promo (C),Service sanitaire (SS-P1G1),Service sanitaire (SS-P1G1),cours/indispo promo (C),Poly trinome avec 6302+4303,—,Pédo-soin (PEDO-6A-A-jeuM),cours/indispo promo (C),cours/indispo promo (C),—
+44,1,cours/indispo promo (C),Service sanitaire (SS-P1G1),Service sanitaire (SS-P1G1),cours/indispo promo (C),Poly trinome avec 6302+4303,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+45,2,—,—,cours/indispo promo (C),—,Poly 6A absent avec 4303 (rattrap),cours/indispo promo (C),Poly 6A absent avec 4303 (rattrap),—,cours/indispo promo (C),cours/indispo promo (C)
+46,2,—,—,cours/indispo promo (C),—,cours/indispo promo (F),cours/indispo promo (F),Poly 6A absent avec 4303 (rattrap),Poly 6A absent avec 4303 (rattrap),—,cours/indispo promo (C)
+47,2,—,—,cours/indispo promo (C),—,Poly 6A absent avec 4303,cours/indispo promo (C),—,—,—,cours/indispo promo (C)
+48,2,—,—,cours/indispo promo (C),—,Poly 6A absent avec 4303,cours/indispo promo (C),—,—,—,cours/indispo promo (C)
+49,2,—,—,cours/indispo promo (C),—,Poly 6A absent avec 4303,cours/indispo promo (C),Poly 6A absent avec 4303,—,—,cours/indispo promo (C)
+50,2,Pédo-soin (PEDO-A4),—,cours/indispo promo (C),—,—,Poly 6A absent avec 4303 (examen),—,Poly 6A absent avec 4303 (examen),—,cours/indispo promo (C)
+51,2,—,—,cours/indispo promo (C),—,Poly 6A absent avec 4303,—,—,—,—,cours/indispo promo (C)
+52,2,—,—,—,—,Poly trinome avec 6302+4303 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,—,Poly trinome avec 6302+4303 (examen),—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),Poly trinome avec 6302+4303,—,—,cours/indispo promo (C),—
+4,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),Poly trinome avec 6302+4303,—,—,cours/indispo promo (C),—
+5,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),Poly trinome avec 6302+4303,—,—,cours/indispo promo (C),—
+6,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),Poly trinome avec 6302+4303 (rattrap),—,Poly trinome avec 6302+4303 (rattrap),cours/indispo promo (C),—
+7,3,Pédo-soin (PEDO-B1),—,cours/indispo promo (C),—,cours/indispo promo (C),Poly trinome avec 6302+4303,Poly trinome avec 6302+4303,—,cours/indispo promo (C),—
+8,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),Poly trinome avec 6302+4303,—,—,cours/indispo promo (C),—
+9,4,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 6302+4303 (rattrap),—,cours/indispo promo (C),—
+10,4,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 6302+4303 (rattrap),—,cours/indispo promo (C),—
+11,4,Pédo-soin (PEDO-6A-B-lunM),—,cours/indispo promo (C),—,Poly trinome avec 6302+4303 (rattrap),cours/indispo promo (C),Poly trinome avec 6302+4303 (rattrap),—,cours/indispo promo (C),—
+12,4,Pédo-soin (PEDO-6A-B-lunM),—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 6302+4303 (rattrap),—,cours/indispo promo (C),—
+13,4,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 6302+4303 (rattrap),—,cours/indispo promo (C),—
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (C),—,Poly trinome avec 6302+4303,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+15,4,Pédo-soin (PEDO-6A-B-lunM),—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 6302+4303 (rattrap),—,Poly trinome avec 6302+4303 (rattrap),—,cours/indispo promo (C),—
+16,4,—,—,—,—,Poly trinome avec 6302+4303,—,Poly trinome avec 6302+4303,—,—,—
+17,4,Pédo-soin (PEDO-6A-B-lunM),—,—,—,Poly trinome avec 6302+4303,Poly trinome avec 6302+4303 (débord),—,—,—,—
+18,5,—,Poly trinome avec 6302+4303 (examen),Poly trinome avec 6302+4303 (examen),—,—,—,—,—,—,—
+19,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,—,—,—,Poly trinome avec 6302+4303,—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,Poly trinome avec 6302+4303 (examen),Poly trinome avec 6302+4303,—,—,—,—,—
+22,5,—,—,—,—,Poly trinome avec 6302+4303,Poly trinome avec 6302+4303 (débord),—,—,—,—
+23,5,—,—,—,—,Poly trinome avec 6302+4303,Poly trinome avec 6302+4303 (débord),—,—,—,—
+24,5,—,—,—,—,Poly trinome avec 6302+4303,—,—,—,—,—
+25,5,Pédo-soin (PEDO-56-lunM),—,—,—,Poly trinome avec 6302+4303,—,Poly trinome avec 6302+4303,—,—,—
+26,5,Pédo-soin (PEDO-56-lunM),—,—,—,Poly trinome avec 6302+4303,—,—,Poly trinome avec 6302+4303 (débord),—,—
+27,5,—,—,—,—,Poly trinome avec 6302+4303,—,—,Poly trinome avec 6302+4303 (débord),—,—
+28,6,Pédo-soin (PEDO-56-lunM),—,—,—,Poly trinome avec 6302+4303,—,—,—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 6302+4303 (rattrap),Poly trinome avec 6302+4303 (rattrap),—,—
+30,6,Pédo-soin (PEDO-56-lunM),—,—,—,Poly trinome avec 6302+4303,—,—,Poly trinome avec 6302+4303 (débord),—,—
+31,6,—,—,—,—,Poly trinome avec 6302+4303,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Pédo-soin (PEDO-56-lunM),—,—,—,Poly trinome avec 6302+4303,Poly trinome avec 6302+4303 (débord),—,—,—,—
+35,6,—,—,—,—,Poly trinome avec 6302+4303,—,—,—,—,—

@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,4115
+Année,4A
+Type,1
+Groupe,G1_12
+Vacations Poly (total),77
+Détail,normal:46 examen:5 rattrap:22 débord:4
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A)
+37,1,cours/indispo promo (C),Poly 4/6 avec 6115,Poly 4/6 avec 6115,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),Poly 4/6 avec 6115,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,cours/indispo promo (C),Poly 4/6 avec 6115,Poly 4/6 avec 6115,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+40,1,cours/indispo promo (C),Poly 4/6 avec 6115,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+41,1,cours/indispo promo (C),Poly 4/6 avec 6115,Poly 4/6 avec 6115,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+42,1,cours/indispo promo (C),Poly 4/6 avec 6115,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+43,1,cours/indispo promo (C),Poly 4/6 avec 6115,Poly 4/6 avec 6115,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+44,1,cours/indispo promo (C),Poly 4/6 avec 6115,Poly 4/6 avec 6115,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+45,2,Poly 6A absent (rattrap),Poly 6A absent (rattrap),cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),cours/indispo promo (C)
+46,2,Poly 6A absent (rattrap),Poly 6A absent (rattrap),cours/indispo promo (C),—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,cours/indispo promo (C)
+47,2,—,Poly 6A absent,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C)
+48,2,—,Poly 6A absent,cours/indispo promo (C),Poly 6A absent,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C)
+49,2,—,Poly 6A absent,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C)
+50,2,Poly 6A absent,—,cours/indispo promo (C),—,—,—,—,—,—,cours/indispo promo (C)
+51,2,—,Poly 6A absent,cours/indispo promo (C),Poly 6A absent,—,—,—,—,—,cours/indispo promo (C)
+52,2,Poly 4/6 avec 6115 (rattrap),Poly 4/6 avec 6115 (rattrap),—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,Poly 4/6 avec 6115 (examen),Poly 4/6 avec 6115 (examen),—,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,—,Poly 4/6 avec 6115,cours/indispo promo (C),—,cours/indispo promo (C),—,Service sanitaire (SS-P3G3),—,cours/indispo promo (C),Service sanitaire (SS-P3G3)
+4,3,—,Poly 4/6 avec 6115,cours/indispo promo (C),Poly 4/6 avec 6115,cours/indispo promo (C),—,Service sanitaire (SS-P3G3),—,cours/indispo promo (C),Service sanitaire (SS-P3G3)
+5,3,—,Poly 4/6 avec 6115,cours/indispo promo (C),—,cours/indispo promo (C),—,Service sanitaire (SS-P3G3),—,cours/indispo promo (C),Service sanitaire (SS-P3G3)
+6,3,—,Poly 4/6 avec 6115 (rattrap),cours/indispo promo (C),Poly 4/6 avec 6115 (rattrap),cours/indispo promo (C),—,Service sanitaire (SS-P3G3),—,cours/indispo promo (C),Service sanitaire (SS-P3G3)
+7,3,—,Poly 4/6 avec 6115,cours/indispo promo (C),Poly 4/6 avec 6115,cours/indispo promo (C),—,Service sanitaire (SS-P3G3),—,cours/indispo promo (C),Service sanitaire (SS-P3G3)
+8,3,—,Poly 4/6 avec 6115,cours/indispo promo (C),—,cours/indispo promo (C),—,Service sanitaire (SS-P3G3),—,cours/indispo promo (C),Service sanitaire (SS-P3G3)
+9,4,—,Poly 4/6 avec 6115 (rattrap),cours/indispo promo (C),Poly 4/6 avec 6115 (rattrap),—,cours/indispo promo (C),Service sanitaire (SS-P3G3),—,cours/indispo promo (C),Service sanitaire (SS-P3G3)
+10,4,Poly 4/6 avec 6115 (rattrap),Poly 4/6 avec 6115 (rattrap),cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+11,4,—,Poly 4/6 avec 6115 (rattrap),cours/indispo promo (C),Poly 4/6 avec 6115 (rattrap),—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+12,4,Poly 4/6 avec 6115 (rattrap),Poly 4/6 avec 6115 (rattrap),cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+13,4,—,Poly 4/6 avec 6115 (rattrap),cours/indispo promo (C),Poly 4/6 avec 6115 (rattrap),—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (C),Poly 4/6 avec 6115 (examen),—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+15,4,Poly 4/6 avec 6115 (rattrap),Poly 4/6 avec 6115 (rattrap),cours/indispo promo (C),cours/indispo promo (C),—,—,—,—,cours/indispo promo (C),—
+16,4,Poly 6A absent,Poly 6A absent (débord),—,—,—,—,—,—,—,—
+17,4,Poly 6A absent,Poly 6A absent (débord),—,—,—,—,—,—,—,—
+18,5,—,—,—,—,—,—,—,—,—,—
+19,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,Poly 6A absent,—,—,—,—,—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—,—,—,—,—
+22,5,—,—,Poly 6A absent,—,—,—,—,—,—,—
+23,5,Poly 4/6 avec 6115,—,Poly 4/6 avec 6115,—,—,—,—,—,—,—
+24,5,Poly 4/6 avec 6115,—,Poly 4/6 avec 6115,—,—,—,—,—,—,—
+25,5,Poly 4/6 avec 6115,—,Poly 4/6 avec 6115,—,—,—,—,—,—,—
+26,5,Poly 4/6 avec 6115,—,Poly 4/6 avec 6115,—,—,—,—,—,—,—
+27,5,Poly 4/6 avec 6115 (examen),Poly 4/6 avec 6115 (examen),—,—,—,—,—,—,—,—
+28,6,Poly 4/6 avec 6115,Poly 4/6 avec 6115 (débord),—,—,—,—,—,—,—,—
+29,6,Poly 4/6 avec 6115 (rattrap),Poly 4/6 avec 6115 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,Poly 4/6 avec 6115,Poly 4/6 avec 6115 (débord),—,—,—,—,—,—,—,—
+31,6,Poly 4/6 avec 6115,—,—,—,—,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Poly 4/6 avec 6115,—,Poly 4/6 avec 6115,—,—,—,—,—,—,—
+35,6,Poly 4/6 avec 6115,—,Poly 4/6 avec 6115,—,—,—,—,—,—,—

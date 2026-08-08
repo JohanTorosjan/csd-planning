@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6203
+Année,6A
+Type,2
+Groupe,G2_02
+Vacations Poly (total),59
+Détail,normal:36 examen:10 rattrap:8 débord:5
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,Poly 4/6 avec 4202,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,Poly 4/6 avec 4202,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,—,Poly 4/6 avec 4202,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—,—
+40,1,—,—,Poly 4/6 avec 4202,—,Poly 4/6 avec 4202,—,—,—,—,—
+41,1,—,—,Poly 4/6 avec 4202,—,—,—,—,—,—,—
+42,1,—,—,Poly 4/6 avec 4202,—,—,—,—,—,—,—
+43,1,—,—,Poly 4/6 avec 4202,—,Poly 4/6 avec 4202,—,—,—,—,—
+44,1,—,—,Poly 4/6 avec 4202,—,—,—,—,—,—,—
+45,2,S,S,S,S,S,S,S,S,S,S
+46,2,S,S,S,S,S,S,S,S,S,S
+47,2,S,S,S,S,S,S,S,S,S,S
+48,2,S,S,S,S,S,S,S,S,S,S
+49,2,S,S,S,S,S,S,S,S,S,S
+50,2,S,S,S,S,S,S,S,S,S,S
+51,2,S,S,S,S,S,S,S,S,S,S
+52,2,—,—,—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,Poly 4/6 avec 4202 (examen),Poly 4/6 avec 4202 (examen),—,—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+3,3,—,—,—,Poly 4/6 avec 4202,—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+4,3,—,—,—,Poly 4/6 avec 4202,—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+5,3,—,—,—,Poly 4/6 avec 4202,—,Poly 4/6 avec 4202,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+6,3,—,—,—,Poly 4/6 avec 4202 (rattrap),—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+7,3,—,—,—,Poly 4/6 avec 4202,—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+8,3,—,—,—,Poly 4/6 avec 4202,—,—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+9,4,—,—,—,Poly 4/6 avec 4202 (rattrap),—,—,Pédo-soin (PEDO-B1),—,—,—
+10,4,—,—,—,—,Poly 4/6 avec 4202 (rattrap),—,Pédo-soin (PEDO-B1),—,—,—
+11,4,—,—,—,Poly 4/6 avec 4202 (rattrap),—,—,Pédo-soin (PEDO-B1),—,—,—
+12,4,—,—,—,—,Poly 4/6 avec 4202 (rattrap),—,Pédo-soin (PEDO-B1),—,—,—
+13,4,—,—,—,Poly 4/6 avec 4202 (rattrap),Poly 4/6 avec 4202 (rattrap),—,Pédo-soin (PEDO-B1),—,—,—
+14,4,cours/indispo promo (F),cours/indispo promo (F),—,Poly 4/6 avec 4202 (examen),—,—,Pédo-soin (PEDO-B1),—,—,—
+15,4,—,—,—,—,Poly 4/6 avec 4202 (rattrap),—,Pédo-soin (PEDO-B1),—,—,—
+16,4,—,—,Poly 4/6 avec 4202,—,Poly 4/6 avec 4202,—,Pédo-soin (PEDO-B1),—,—,—
+17,4,—,—,Poly 4/6 avec 4202,—,Poly 4/6 avec 4202,—,Pédo-soin (PEDO-B1),—,—,—
+18,5,Poly 4/6 avec 4202 (examen),—,Poly 4/6 avec 4202 (examen),—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+19,5,—,—,Poly 6A seul (examen),Poly 6A seul (examen),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,—,Poly 4/6 avec 4202,—,Poly 4/6 avec 4202,—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4202 (examen),Poly 4/6 avec 4202 (examen),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+22,5,Poly 4/6 avec 4202 (examen),—,Poly 4/6 avec 4202,—,—,—,—,—,—,—
+23,5,—,—,Poly 4/6 avec 4202,Poly 4/6 avec 4202 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+24,5,—,—,Poly 4/6 avec 4202,Poly 4/6 avec 4202 (débord),—,—,—,—,—,—
+25,5,—,—,Poly 4/6 avec 4202,—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+26,5,—,—,Poly 4/6 avec 4202,—,Poly 4/6 avec 4202,—,—,—,—,—
+27,5,—,—,Poly 4/6 avec 4202,—,Poly 4/6 avec 4202,—,—,—,—,—
+28,6,—,—,Poly 4/6 avec 4202,Poly 4/6 avec 4202 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,—,—,Poly 4/6 avec 4202,Poly 4/6 avec 4202 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+31,6,—,—,Poly 4/6 avec 4202,—,—,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,Poly 4/6 avec 4202,—,Poly 4/6 avec 4202,—,—,—,—,—
+35,6,—,—,Poly 4/6 avec 4202,Poly 4/6 avec 4202 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—

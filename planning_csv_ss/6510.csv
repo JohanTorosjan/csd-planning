@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6510
+Année,6A
+Type,5
+Groupe,G5_07
+Vacations Poly (total),69
+Détail,normal:45 examen:3 rattrap:6 débord:15
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),Poly trinome avec 4512+4513,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4512+4513
+38,1,cours/indispo promo (C),Poly trinome avec 4512+4513,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4512+4513
+39,1,—,—,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—,Poly trinome avec 4512+4513
+40,1,—,Poly trinome avec 4512+4513,—,—,—,—,—,—,—,Poly trinome avec 4512+4513
+41,1,—,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513
+42,1,—,Poly trinome avec 4512+4513,—,—,—,—,—,—,—,Poly trinome avec 4512+4513
+43,1,—,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513
+44,1,—,Poly trinome avec 4512+4513,—,—,—,—,—,—,—,Poly trinome avec 4512+4513
+45,2,Poly trinome avec 4512+4513 (rattrap),Poly trinome avec 4512+4513 (rattrap),—,—,—,—,—,—,—,—
+46,2,—,Poly trinome avec 4512+4513 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+47,2,—,Poly trinome avec 4512+4513,—,—,—,—,—,—,Poly trinome avec 4512+4513,—
+48,2,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,—
+49,2,—,Poly trinome avec 4512+4513,—,—,—,—,—,—,Poly trinome avec 4512+4513,—
+50,2,—,—,—,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),Poly trinome avec 4512+4513,—
+51,2,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,—
+52,2,—,Poly trinome avec 4512+4513 (rattrap),—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,Poly trinome avec 4512+4513 (examen),Poly trinome avec 4512+4513 (examen),—,—,—,—,—,—,—,—
+3,3,—,Poly trinome avec 4512+4513,—,—,—,—,—,—,—,Poly trinome avec 4512+4513
+4,3,—,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513
+5,3,—,Poly trinome avec 4512+4513,—,—,—,—,—,—,—,Poly trinome avec 4512+4513
+6,3,—,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513 (rattrap)
+7,3,—,Poly trinome avec 4512+4513,—,—,—,—,—,—,—,Poly trinome avec 4512+4513
+8,3,—,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513
+9,4,S,S,S,S,S,S,S,S,S,S
+10,4,S,S,S,S,S,S,S,S,S,S
+11,4,S,S,S,S,S,S,S,S,S,S
+12,4,S,S,S,S,S,S,S,S,S,S
+13,4,S,S,S,S,S,S,S,S,S,S
+14,4,S,S,S,S,S,S,S,S,S,S
+15,4,S,S,S,S,S,S,S,S,S,S
+16,4,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+17,4,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+18,5,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+19,5,—,Poly 6A seul (examen),—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4512+4513,—
+20,5,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+22,5,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+23,5,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+24,5,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+25,5,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+26,5,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+27,5,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+28,6,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+29,6,Poly trinome avec 4512+4513 (rattrap),—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+31,6,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,Poly trinome avec 4512+4513 (débord)
+35,6,—,—,—,—,—,—,—,—,Poly trinome avec 4512+4513,—

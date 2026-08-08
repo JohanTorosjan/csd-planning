@@ -1,0 +1,60 @@
+RÉSUMÉ ÉTUDIANT
+Code,4502
+Année,4A
+Type,5
+Groupe,G5_01
+Vacations Poly (total),50
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage))
+37,1,cours/indispo promo,—,—,cours/indispo promo,—,—,—,cours/indispo promo,cours/indispo promo,Poly trinome avec 4501+6501
+38,1,cours/indispo promo,Poly trinome avec 4501+6501,—,cours/indispo promo,—,—,—,cours/indispo promo,cours/indispo promo,Poly trinome avec 4501+6501
+39,1,cours/indispo promo,—,—,cours/indispo promo,—,—,—,cours/indispo promo,cours/indispo promo,Poly trinome avec 4501+6501
+40,1,cours/indispo promo,Poly trinome avec 4501+6501,—,cours/indispo promo,—,—,—,cours/indispo promo,cours/indispo promo,Poly trinome avec 4501+6501
+41,1,cours/indispo promo,—,—,cours/indispo promo,—,—,—,cours/indispo promo,cours/indispo promo,Poly trinome avec 4501+6501
+42,1,cours/indispo promo,Poly trinome avec 4501+6501,—,cours/indispo promo,—,—,—,cours/indispo promo,cours/indispo promo,Poly trinome avec 4501+6501
+43,1,cours/indispo promo,Poly trinome avec 4501+6501,—,cours/indispo promo,—,—,—,cours/indispo promo,cours/indispo promo,Poly trinome avec 4501+6501
+44,1,cours/indispo promo,—,—,cours/indispo promo,—,—,—,cours/indispo promo,cours/indispo promo,Poly trinome avec 4501+6501
+45,2,Poly 6A absent avec 4501 (rattrap),Poly 6A absent avec 4501 (rattrap),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage))
+46,2,Poly 6A absent avec 4501 (rattrap),Poly 6A absent avec 4501 (rattrap),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE)
+47,2,—,Poly 6A absent avec 4501,cours/indispo promo,—,—,cours/indispo promo,—,—,Poly 6A absent avec 4501,cours/indispo promo
+48,2,—,—,cours/indispo promo,—,—,cours/indispo promo,—,—,Poly 6A absent avec 4501,cours/indispo promo
+49,2,—,Poly 6A absent avec 4501,cours/indispo promo,—,—,cours/indispo promo,—,—,Poly 6A absent avec 4501,cours/indispo promo
+50,2,A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),Poly 6A absent avec 4501,A INTERVENIR (EXAMEN)
+51,2,—,—,cours/indispo promo,—,—,—,—,—,Poly 6A absent avec 4501,cours/indispo promo
+52,2,A INTERVENIR (JOUR BLOQUE),Poly trinome avec 4501+6501 (rattrap),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE)
+1,2,A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE)
+2,3,Poly trinome avec 4501+6501 (examen),Poly trinome avec 4501+6501 (examen),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN)
+3,3,—,Poly trinome avec 4501+6501,cours/indispo promo,—,cours/indispo promo,—,—,—,cours/indispo promo,Poly trinome avec 4501+6501
+4,3,—,Poly trinome avec 4501+6501,cours/indispo promo,—,cours/indispo promo,—,—,—,cours/indispo promo,Poly trinome avec 4501+6501
+5,3,—,—,cours/indispo promo,—,cours/indispo promo,—,—,—,cours/indispo promo,Poly trinome avec 4501+6501
+6,3,A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),Poly trinome avec 4501+6501 (rattrap)
+7,3,—,Poly trinome avec 4501+6501,cours/indispo promo,—,cours/indispo promo,—,—,—,cours/indispo promo,Poly trinome avec 4501+6501
+8,3,—,—,cours/indispo promo,—,cours/indispo promo,—,—,—,cours/indispo promo,Poly trinome avec 4501+6501
+9,4,A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),Poly 6A absent avec 4501 (rattrap)
+10,4,A INTERVENIR (CONFLIT (couplage)),Poly 6A absent avec 4501 (rattrap),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage))
+11,4,A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),Poly 6A absent avec 4501 (rattrap)
+12,4,A INTERVENIR (CONFLIT (couplage)),Poly 6A absent avec 4501 (rattrap),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage))
+13,4,A INTERVENIR (CONFLIT (couplage)),Poly 6A absent avec 4501 (rattrap),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage))
+14,4,A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN)
+15,4,Poly 6A absent avec 4501 (rattrap),Poly 6A absent avec 4501 (rattrap),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage)),A INTERVENIR (CONFLIT (couplage))
+16,4,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+17,4,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+18,5,Poly trinome avec 4501+6501 (examen),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),Poly trinome avec 4501+6501,A INTERVENIR (EXAMEN)
+19,5,A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),Poly trinome avec 4501+6501,A INTERVENIR (EXAMEN)
+20,5,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+21,5,A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),Poly trinome avec 4501+6501,Poly trinome avec 4501+6501 (débord)
+22,5,Poly trinome avec 4501+6501 (examen),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),Poly trinome avec 4501+6501,A INTERVENIR (EXAMEN)
+23,5,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+24,5,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+25,5,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+26,5,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+27,5,Poly trinome avec 4501+6501 (examen),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),A INTERVENIR (EXAMEN),Poly trinome avec 4501+6501,A INTERVENIR (EXAMEN)
+28,6,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+29,6,Poly trinome avec 4501+6501 (rattrap),Poly trinome avec 4501+6501 (rattrap),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE),A INTERVENIR (JOUR BLOQUE)
+30,6,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+31,6,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+32,6,A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE)
+33,6,A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE),A INTERVENIR (VACANCES/FERMETURE)
+34,6,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—
+35,6,Poly trinome avec 4501+6501,—,—,—,—,—,—,—,Poly trinome avec 4501+6501,—

@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6109
+Année,6A
+Type,1
+Groupe,G1_06
+Vacations Poly (total),60
+Détail,normal:34 examen:2 rattrap:20 débord:4
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),Poly 4/6 avec 4109,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),Poly 4/6 avec 4109,Poly 4/6 avec 4109,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,Poly 4/6 avec 4109,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—,—
+40,1,—,Poly 4/6 avec 4109,Poly 4/6 avec 4109,—,—,—,—,—,—,—
+41,1,—,Poly 4/6 avec 4109,Poly 4/6 avec 4109,—,—,—,—,—,—,—
+42,1,—,Poly 4/6 avec 4109,—,—,—,—,—,—,—,—
+43,1,—,Poly 4/6 avec 4109,Poly 4/6 avec 4109,—,—,—,—,—,—,—
+44,1,—,Poly 4/6 avec 4109,—,—,—,—,—,—,—,—
+45,2,Poly 4/6 avec 4109 (rattrap),Poly 4/6 avec 4109 (rattrap),—,—,—,—,—,—,—,—
+46,2,Poly 4/6 avec 4109 (rattrap),Poly 4/6 avec 4109 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+47,2,—,Poly 4/6 avec 4109,—,Poly 4/6 avec 4109,—,—,—,—,—,—
+48,2,—,Poly 4/6 avec 4109,—,—,—,—,—,—,—,—
+49,2,—,Poly 4/6 avec 4109,—,Poly 4/6 avec 4109,—,—,—,—,—,—
+50,2,Poly 4/6 avec 4109,—,Poly 6A seul,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),—,—
+51,2,—,Poly 4/6 avec 4109,—,—,—,—,—,—,—,—
+52,2,Poly 4/6 avec 4109 (rattrap),Poly 4/6 avec 4109 (rattrap),—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,S,S,S,S,S,S,S,S,S,S
+3,3,S,S,S,S,S,S,S,S,S,S
+4,3,S,S,S,S,S,S,S,S,S,S
+5,3,S,S,S,S,S,S,S,S,S,S
+6,3,S,S,S,S,S,S,S,S,S,S
+7,3,S,S,S,S,S,S,S,S,S,S
+8,3,S,S,S,S,S,S,S,S,S,S
+9,4,—,Poly 4/6 avec 4109 (rattrap),—,Poly 4/6 avec 4109 (rattrap),—,—,—,—,—,—
+10,4,Poly 4/6 avec 4109 (rattrap),Poly 4/6 avec 4109 (rattrap),—,—,—,—,—,—,—,—
+11,4,—,Poly 4/6 avec 4109 (rattrap),—,Poly 4/6 avec 4109 (rattrap),—,—,—,—,—,—
+12,4,Poly 4/6 avec 4109 (rattrap),Poly 4/6 avec 4109 (rattrap),—,—,—,—,—,—,—,—
+13,4,—,Poly 4/6 avec 4109 (rattrap),—,Poly 4/6 avec 4109 (rattrap),—,—,—,—,—,—
+14,4,cours/indispo promo (F),cours/indispo promo (F),—,Poly 4/6 avec 4109 (examen),—,—,—,—,—,—
+15,4,Poly 4/6 avec 4109 (rattrap),Poly 4/6 avec 4109 (rattrap),—,—,—,—,—,—,—,—
+16,4,X,X,X,X,X,X,X,X,X,X
+17,4,X,X,X,X,X,X,X,X,X,X
+18,5,X,X,X,X,X,X,X,X,X,X
+19,5,X,X,X,X,X,X,X,X,X,X
+20,5,X,X,X,X,X,X,X,X,X,X
+21,5,X,X,X,X,X,X,X,X,X,X
+22,5,X,X,X,X,X,X,X,X,X,X
+23,5,Poly 4/6 avec 4109,Poly 4/6 avec 4109 (débord),—,—,—,—,—,—,—,—
+24,5,Poly 4/6 avec 4109,Poly 4/6 avec 4109 (débord),—,—,—,—,—,—,—,—
+25,5,Poly 4/6 avec 4109,—,—,—,—,—,—,—,—,—
+26,5,Poly 4/6 avec 4109,—,Poly 4/6 avec 4109,—,—,—,—,—,—,—
+27,5,Poly 4/6 avec 4109 (examen),—,Poly 4/6 avec 4109,—,—,—,—,—,—,—
+28,6,Poly 4/6 avec 4109,—,Poly 4/6 avec 4109,—,—,—,—,—,—,—
+29,6,Poly 4/6 avec 4109 (rattrap),Poly 4/6 avec 4109 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,Poly 4/6 avec 4109,—,Poly 4/6 avec 4109,—,—,—,—,—,—,—
+31,6,Poly 4/6 avec 4109,—,Poly 4/6 avec 4109,—,—,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Poly 4/6 avec 4109,Poly 4/6 avec 4109 (débord),—,—,—,—,—,—,—,—
+35,6,Poly 4/6 avec 4109,Poly 4/6 avec 4109 (débord),—,—,—,—,—,—,—,—

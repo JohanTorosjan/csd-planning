@@ -1,0 +1,130 @@
+(base) johantorosjan@Air-de-Johan src % python3 pedo_moitie.py
+====================================================================
+  DÉCOUPAGE DES 5A EN DEUX MOITIÉS
+====================================================================
+
+  5 types, 77 étudiants
+
+              type 1  type 2  type 3  type 4  type 5   total
+  moitié A        6      8      9      8      8      39
+  moitié B        6      8      8      8      8      38
+
+  moitié A -> périodes 1+2      moitié B -> périodes 3+4
+
+====================================================================
+  MOITIÉ A — périodes 1+2 — 39 étudiants
+====================================================================
+
+  Séances possibles pour un groupe MONO-TYPE de cette moitié
+  (mesuré sur les membres réels, pas sur les 15 du type)
+
+                  lunM      merM     merAM      jeuM      venM
+    type 1          5        10        16         9        16   (6 étudiants)
+    type 2         17        10         3         9        16   (8 étudiants)
+    type 3         17        10         2         7        16   (9 étudiants)
+    type 4         17        10        16         7         6   (8 étudiants)
+    type 5          5        10        16         9         5   (8 étudiants)
+
+  Période 1 : 5 créneau(x) exploitable(s)
+    lundi     M   : 9 sem ouvertes   t1:1 t2:9 t3:9 t4:9 t5:1
+    mercredi  M   : 9 sem ouvertes   t1:9 t2:9 t3:9 t4:9 t5:9
+    mercredi  AM  : 9 sem ouvertes   t1:9 t2:1 t3:1 t4:9 t5:9
+    jeudi     M   : 1 sem ouvertes   t1:1 t2:1 t3:0 t4:0 t5:1
+    vendredi  M   : 9 sem ouvertes   t1:9 t2:9 t3:9 t4:1 t5:0
+
+  Période 2 : 5 créneau(x) exploitable(s)
+    lundi     M   : 8 sem ouvertes   t1:4 t2:8 t3:8 t4:8 t5:4
+    mercredi  M   : 1 sem ouvertes   t1:1 t2:1 t3:1 t4:1 t5:1
+    mercredi  AM  : 7 sem ouvertes   t1:7 t2:2 t3:1 t4:7 t5:7
+    jeudi     M   : 8 sem ouvertes   t1:8 t2:8 t3:7 t4:7 t5:8
+    vendredi  M   : 7 sem ouvertes   t1:7 t2:7 t3:7 t4:5 t5:5
+
+====================================================================
+  MOITIÉ B — périodes 3+4 — 38 étudiants
+====================================================================
+
+  Séances possibles pour un groupe MONO-TYPE de cette moitié
+  (mesuré sur les membres réels, pas sur les 15 du type)
+
+                  lunM      merM     merAM      jeuM      venM
+    type 1          2         7        14         9        14   (6 étudiants)
+    type 2          7         2         8        10        14   (8 étudiants)
+    type 3          7         2         6        10        14   (8 étudiants)
+    type 4          7         8        15         9         3   (8 étudiants)
+    type 5          2         8        15         9         3   (8 étudiants)
+
+  Période 3 : 5 créneau(x) exploitable(s)
+    lundi     M   : 5 sem ouvertes   t1:0 t2:5 t3:5 t4:5 t5:0
+    mercredi  M   : 6 sem ouvertes   t1:5 t2:0 t3:0 t4:6 t5:6
+    mercredi  AM  : 6 sem ouvertes   t1:5 t2:5 t3:5 t4:6 t5:6
+    jeudi     M   : 1 sem ouvertes   t1:0 t2:1 t3:1 t4:0 t5:0
+    vendredi  M   : 5 sem ouvertes   t1:5 t2:5 t3:5 t4:0 t5:0
+
+  Période 4 : 5 créneau(x) exploitable(s)
+    lundi     M   : 2 sem ouvertes   t1:2 t2:2 t3:2 t4:2 t5:2
+    mercredi  M   : 2 sem ouvertes   t1:2 t2:2 t3:2 t4:2 t5:2
+    mercredi  AM  : 9 sem ouvertes   t1:9 t2:3 t3:1 t4:9 t5:9
+    jeudi     M   : 9 sem ouvertes   t1:9 t2:9 t3:9 t4:9 t5:9
+    vendredi  M   : 9 sem ouvertes   t1:9 t2:9 t3:9 t4:3 t5:3
+
+====================================================================
+  SYNTHÈSE
+====================================================================
+
+  Moitié A — meilleur créneau unique, par type :
+    type 1 : 16 séances   OK
+    type 2 : 17 séances   OK
+    type 3 : 17 séances   OK
+    type 4 : 17 séances   OK
+    type 5 : 16 séances   OK
+    -> le changement de créneau entre les 2 périodes peut améliorer ces chiffres
+
+  Moitié B — meilleur créneau unique, par type :
+    type 1 : 14 séances   sous le quota (2 manquante(s))
+    type 2 : 14 séances   sous le quota (2 manquante(s))
+    type 3 : 14 séances   sous le quota (2 manquante(s))
+    type 4 : 15 séances   sous le quota (1 manquante(s))
+    type 5 : 15 séances   sous le quota (1 manquante(s))
+    -> le changement de créneau entre les 2 périodes peut améliorer ces chiffres
+(base) johantorosjan@Air-de-Johan src % python3 pedo_groupes.py 
+======================================================================
+  PÉDO-SOIN — COMPOSITION DES GROUPES DE 5A
+======================================================================
+  moitié A : 39 étudiants  {1: 6, 2: 8, 3: 9, 4: 8, 5: 8}   -> 4 groupes de 9 en moyenne
+  moitié B : 38 étudiants  {1: 6, 2: 8, 3: 8, 4: 8, 5: 8}   -> 3 groupes de 12 en moyenne
+
+  Contrainte : 8 à 12 5A par groupe
+
+======================================================================
+  MOITIÉ A — périodes 1+2 — 4 groupes
+======================================================================
+  14400 configurations testées, 432 faisables
+  Séances du groupe le plus mal loti : 16  (quota 16)
+
+  Groupe 1 :  8 étudiants   16 séances  [OK]
+      composition : t4:8
+      P1 : lundi     M   ->  9 séances (36, 37, 38, 39, 40, 41, 42, 43, ...)
+      P2 : mercredi  AM  ->  7 séances (45, 47, 48, 49, 50, 51, 52)
+
+  Groupe 2 : 12 étudiants   16 séances  [OK]
+      composition : t1:6  t2:2  t3:4
+      P1 : mercredi  M   ->  9 séances (36, 37, 38, 39, 40, 41, 42, 43, ...)
+      P2 : vendredi  M   ->  7 séances (45, 46, 47, 48, 49, 50, 51)
+
+  Groupe 3 :  8 étudiants   17 séances  [OK]
+      composition : t5:8
+      P1 : mercredi  AM  ->  9 séances (36, 37, 38, 39, 40, 41, 42, 43, ...)
+      P2 : jeudi     M   ->  8 séances (45, 46, 47, 48, 49, 50, 51, 52)
+
+  Groupe 4 : 11 étudiants   17 séances  [OK]
+      composition : t2:6  t3:5
+      P1 : vendredi  M   ->  9 séances (36, 37, 38, 39, 40, 41, 42, 43, ...)
+      P2 : lundi     M   ->  8 séances (45, 46, 47, 48, 49, 50, 51, 52)
+
+
+======================================================================
+  MOITIÉ B — périodes 3+4 — 3 groupes
+======================================================================
+  3600 configurations testées, aucune faisable.
+  Aucune répartition ne donne 8-12 étudiants par groupe.
+(base) johantorosjan@Air-de-Johan src % 
