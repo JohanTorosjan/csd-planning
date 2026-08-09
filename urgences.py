@@ -96,11 +96,16 @@ def _ordre(s):
 JOUR_OFFSET = {"lundi": 0, "mardi": 1, "mercredi": 2, "jeudi": 3,
                "vendredi": 4, "samedi": 5, "dimanche": 6}
 
+# séquence chronologique réelle des semaines (36→52 puis 1→35), pour
+# mesurer les écarts sans le saut artificiel du passage d'année.
+_SEQUENCE = list(range(36, 53)) + list(range(1, 36))
+_POSITION = {s: i for i, s in enumerate(_SEQUENCE)}
+
 
 def instant(sem, col):
     """Position temporelle absolue d'une vacation (en demi-journées)."""
     jour, moment = col
-    base = _ordre(sem) * 14                     # 14 demi-journées/semaine
+    base = _POSITION.get(sem, _ordre(sem)) * 14             # 14 demi-journées/semaine
     base += JOUR_OFFSET.get(jour, 0) * 2
     base += 1 if moment == "AM" else 0
     return base

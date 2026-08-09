@@ -184,3 +184,6 @@ PERIODES_PEDO = [
     (18, 27),
     (28, 35),
 ]
+
+
+SEMAINE_FIN_OCCLUSO = 22

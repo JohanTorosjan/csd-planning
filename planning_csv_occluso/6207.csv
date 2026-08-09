@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6207
+Année,6A
+Type,2
+Groupe,G2_05
+Vacations Poly (total),58
+Détail,normal:34 examen:6 rattrap:11 débord:7
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,Poly trinome avec 4206+4207,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,Poly trinome avec 4206+4207,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,Urgences (6/5),—,Poly trinome avec 4206+4207,cours/indispo promo (C),Poly trinome avec 4206+4207,—,—,cours/indispo promo (C),—,—
+40,1,—,—,Poly trinome avec 4206+4207,—,—,—,—,—,—,Urgences (6/5/4)
+41,1,—,—,Poly trinome avec 4206+4207,—,—,—,—,—,—,—
+42,1,—,—,Poly trinome avec 4206+4207,—,Poly trinome avec 4206+4207,—,Urgences (6/4),—,—,—
+43,1,—,—,Poly trinome avec 4206+4207,—,—,—,—,—,—,—
+44,1,—,—,Poly trinome avec 4206+4207,Urgences (6/5),—,—,—,—,—,—
+45,2,—,—,—,Poly trinome avec 4206+4207 (rattrap),Urgences (6/4),—,Pédo-soin (PEDO-A3),—,—,—
+46,2,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-A3),—,Urgences (6/5/4),—
+47,2,—,—,—,Poly trinome avec 4206+4207,—,—,Pédo-soin (PEDO-A3),—,—,—
+48,2,Urgences (6/5/4),—,—,Poly trinome avec 4206+4207,Poly trinome avec 4206+4207,—,Pédo-soin (PEDO-A3),—,—,—
+49,2,—,Urgences (6/4),—,Poly trinome avec 4206+4207,—,—,Pédo-soin (PEDO-A3),—,—,—
+50,2,—,Urgences (6/4),Poly 6A seul,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),—,—
+51,2,—,—,—,Poly trinome avec 4206+4207,Urgences (6/4),—,Pédo-soin (PEDO-A3),—,—,—
+52,2,—,—,—,—,Poly trinome avec 4206+4207 (rattrap),Poly trinome avec 4206+4207 (rattrap),Pédo-soin (PEDO-A3),cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,S,S,S,S,S,S,S,S,S,S
+3,3,S,S,S,S,S,S,S,S,S,S
+4,3,S,S,S,S,S,S,S,S,S,S
+5,3,S,S,S,S,S,S,S,S,S,S
+6,3,S,S,S,S,S,S,S,S,S,S
+7,3,S,S,S,S,S,S,S,S,S,S
+8,3,S,S,S,S,S,S,S,S,S,S
+9,4,—,—,Urgences (6/5),Poly trinome avec 4206+4207 (rattrap),Poly trinome avec 4206+4207 (rattrap),—,Pédo-soin (PEDO-B1),—,—,Urgences (6/4)
+10,4,—,—,—,—,Poly trinome avec 4206+4207 (rattrap),—,Pédo-soin (PEDO-B1),Urgences (6/4),—,—
+11,4,—,—,—,Poly trinome avec 4206+4207 (rattrap),Urgences (6/4),—,Pédo-soin (PEDO-B1),—,—,—
+12,4,Urgences (6/4),—,—,—,Poly trinome avec 4206+4207 (rattrap),—,Pédo-soin (PEDO-B1),—,Urgences (6/5),—
+13,4,—,—,—,Poly trinome avec 4206+4207 (rattrap),Poly trinome avec 4206+4207 (rattrap),—,Pédo-soin (PEDO-B1),—,Urgences (6/5),—
+14,4,cours/indispo promo (F),cours/indispo promo (F),—,Poly trinome avec 4206+4207 (examen),Urgences (6/4),—,Pédo-soin (PEDO-B1),—,—,—
+15,4,—,—,—,Urgences (6/5),Poly trinome avec 4206+4207 (rattrap),—,Pédo-soin (PEDO-B1),—,—,—
+16,4,—,—,Poly trinome avec 4206+4207,Poly trinome avec 4206+4207 (débord),—,—,Pédo-soin (PEDO-B1),—,—,—
+17,4,—,—,Poly trinome avec 4206+4207,Poly trinome avec 4206+4207 (débord),—,—,Pédo-soin (PEDO-B1),—,—,—
+18,5,—,Poly trinome avec 4206+4207 (examen),Poly trinome avec 4206+4207 (examen),—,—,—,—,—,—,—
+19,5,—,—,Poly 6A seul (examen),Poly 6A seul (examen),—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-56-venM),—
+20,5,—,—,Poly trinome avec 4206+4207,—,—,—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4206+4207 (examen),Urgences (6/4),Poly trinome avec 4206+4207,—,—,—,Pédo-soin (PEDO-56-venM),—
+22,5,—,—,Poly trinome avec 4206+4207,—,Poly trinome avec 4206+4207,Urgences (6/4),—,—,—,—
+23,5,—,—,Poly trinome avec 4206+4207,Poly trinome avec 4206+4207 (débord),—,—,—,—,Pédo-soin (PEDO-56-venM),—
+24,5,—,—,Poly trinome avec 4206+4207,—,—,—,—,—,—,—
+25,5,—,—,Poly trinome avec 4206+4207,—,Poly trinome avec 4206+4207,—,—,—,Pédo-soin (PEDO-56-venM),—
+26,5,—,Urgences (6/4),Poly trinome avec 4206+4207,Poly trinome avec 4206+4207 (débord),—,—,—,—,—,—
+27,5,—,—,Poly trinome avec 4206+4207,Poly trinome avec 4206+4207 (débord),—,—,—,—,Pédo-soin (PEDO-56-venM),—
+28,6,—,—,Poly trinome avec 4206+4207,Poly trinome avec 4206+4207 (débord),Urgences (6/4),—,—,—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,Pédo-soin (PEDO-56-venM),—
+30,6,—,—,Poly trinome avec 4206+4207,—,—,—,—,—,—,—
+31,6,Urgences (6/4),—,Poly trinome avec 4206+4207,—,Poly trinome avec 4206+4207,—,—,—,Pédo-soin (PEDO-56-venM),—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,Poly trinome avec 4206+4207,Poly trinome avec 4206+4207 (débord),—,—,—,—,Pédo-soin (PEDO-56-venM),—
+35,6,—,—,Poly trinome avec 4206+4207,—,Urgences (6/4),—,—,—,Pédo-soin (PEDO-56-venM),—
