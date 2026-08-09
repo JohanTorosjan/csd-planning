@@ -1,0 +1,925 @@
+
+██████████████████████████████████████████████████████████████████████
+  VALIDATION GLOBALE — POLY + PÉDO + URGENCES
+██████████████████████████████████████████████████████████████████████
+  Dossier analysé : planning_csv_urgences/ (229 fichiers)
+  (ce dossier contient tout l'empilement de la pipeline)
+
+██████████████████████████████████████████████████████████████████████
+  1. VALIDATION POLY (+ service sanitaire)
+██████████████████████████████████████████████████████████████████████
+
+Analyse de 'planning_csv_urgences'  (229 fichiers)
+
+==================================================================
+  1. CAPACITÉ (max 19 box par créneau)
+==================================================================
+  Créneaux Poly analysés : 458
+  Maximum de box sur un créneau : 19 (limite 19)
+  ✅ OK : aucun dépassement de capacité
+
+==================================================================
+  2. ÉQUITÉ (vacations Poly par promo et type)
+==================================================================
+
+  4A : n=84 min=64 max=79 moy=71.8 σ=4.77
+    type 1 : n=18 min=75 max=79 moy=76.6 σ=0.83
+    type 2 : n=15 min=64 max=67 moy=64.4 σ=0.80
+    type 3 : n=19 min=68 max=71 moy=68.8 σ=1.27
+    type 4 : n=19 min=70 max=77 moy=73.3 σ=2.90
+    type 5 : n=13 min=75 max=77 moy=76.2 σ=0.66
+
+  5A : n=77 min=83 max=94 moy=87.8 σ=3.87
+    type 1 : n=12 min=83 max=83 moy=83.0 σ=0.00
+    type 2 : n=16 min=91 max=91 moy=91.0 σ=0.00
+    type 3 : n=17 min=84 max=87 moy=86.2 σ=0.94
+    type 4 : n=16 min=93 max=94 moy=93.2 σ=0.43
+    type 5 : n=16 min=84 max=85 moy=84.5 σ=0.50
+
+  6A : n=65 min=48 max=72 moy=58.4 σ=6.38
+    type 1 : n=15 min=49 max=72 moy=63.5 σ=6.32  ⚠️ dispersion (stages)
+    type 2 : n=11 min=48 max=59 moy=53.1 σ=4.23  ⚠️ dispersion (stages)
+    type 3 : n=16 min=50 max=60 moy=54.8 σ=4.17  ⚠️ dispersion (stages)
+    type 4 : n=16 min=48 max=66 moy=59.1 σ=4.94  ⚠️ dispersion (stages)
+    type 5 : n=7 min=60 max=70 moy=62.9 σ=4.22  ⚠️ dispersion (stages)
+
+  ✅ OK : 4A/5A équitables. Dispersion 6A = stages (attendue, pas un défaut).
+
+==================================================================
+  3. COHÉRENCE DES BINÔMES (réciprocité Poly)
+==================================================================
+  Liens de partenariat vérifiés : 19934
+  ✅ OK : tous les binômes sont réciproques
+
+==================================================================
+  4. ABSENCES RESPECTÉES (pas de Poly sur un stage/absence)
+==================================================================
+  Étudiants avec absences : 68
+  ✅ OK : aucune vacation Poly ne tombe sur une absence
+
+==================================================================
+  5. SERVICE SANITAIRE (semaines par 4A, cohérence)
+==================================================================
+  4A avec service sanitaire : 84
+    32 étudiant(s) avec 6 semaines
+    52 étudiant(s) avec 7 semaines
+  ✅ OK : chaque 4A a 6-7 semaines sur 2 créneaux cohérents
+
+==================================================================
+  6. EXEMPLES CONCRETS (3 étudiants au hasard)
+==================================================================
+
+  4402 — EL MESNAOUI Noussaiba (4A type 4)
+     Semaine 37 :
+        lundi     M   : cours/indispo promo (C)
+        mardi     AM  : cours/indispo promo (C)
+        mercredi  M   : Pédo-soin (PEDO-A2)
+        jeudi     M   : Poly trinome avec 4401+6401
+        jeudi     AM  : cours/indispo promo (C)
+        vendredi  M   : cours/indispo promo (C)
+     Total : 71 vacations Poly, 14 demi-journées SS
+
+  4206 — BLEIN Lisa (4A type 2)
+     Semaine 37 :
+        lundi     M   : cours/indispo promo (C)
+        mardi     M   : Poly trinome avec 6207+4207
+        mardi     AM  : cours/indispo promo (C)
+        jeudi     AM  : cours/indispo promo (C)
+        vendredi  M   : cours/indispo promo (C)
+     Total : 64 vacations Poly, 14 demi-journées SS
+
+  5401 — SOCKEEL Mahe (5A type 4)
+     Semaine 36 :
+        lundi     M   : Pédo-soin (PEDO-A1)
+        jeudi     M   : Poly 5/5 avec 5402 (rattrap)
+        jeudi     AM  : Poly 5/5 avec 5402 (rattrap)
+        vendredi  M   : Urgences (5)
+     Total : 94 vacations Poly, 0 demi-journées SS
+
+==================================================================
+  VERDICT GLOBAL
+==================================================================
+  ✅ capacité
+  ✅ équité
+  ✅ binômes
+  ✅ absences
+  ✅ service sanitaire
+
+  ✅ Tous les contrôles passent.
+
+──────────────────────────────────────────────────────────────────────
+  EXPLORATION POLY — cas par cas
+──────────────────────────────────────────────────────────────────────
+
+  ── PROMO 4A ──
+     4106 (FRAMERY Victoria, type 1) : cours/indispo:125, poly:77, urgences:14, service sanitaire:14, pédo:14
+     4212 (SALA Tali, type 2) : cours/indispo:125, poly:67, urgences:14, service sanitaire:14, pédo:12
+
+  ── PROMO 5A ──
+     5101 (AZEDE Sophyane, type 1) : cours/indispo:114, poly:83, urgences:26, pédo:25
+     5203 (BELAID Yanis, type 2) : cours/indispo:114, poly:91, pédo:26, urgences:26
+
+  ── PROMO 6A ──
+     6116 (MENARD_Salomé, type 1) : stage:140, poly:60, cours/indispo:27, urgences:24, pédo:22
+     6201 (BOGAERT_William, type 2) : stage:140, poly:51, cours/indispo:29, pédo:24, urgences:24
+
+██████████████████████████████████████████████████████████████████████
+  2. VALIDATION PÉDO
+██████████████████████████████████████████████████████████████████████
+======================================================================
+  VOLET 1 — EXEMPLES INDIVIDUELS (parcours Pédo dans l'année)
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  PROMO 4A
+──────────────────────────────────────────────────────────────────────
+
+  ● 4108 (type 1, UDINO Aubin) — 13 séances Pédo
+      P1 (1 séances) : PEDO-6A-A-jeuM
+         s39:jeuM
+      P2 (3 séances) : PEDO-A3
+         s45:jeuM  s48:jeuM  s50:jeuM
+      P4 (1 séances) : PEDO-B2
+         s17:venM
+      P5 (6 séances) : PEDO-56-merAM
+         s18:merAM  s20:merAM  s21:merAM  s22:merAM  s25:merAM  s27:merAM
+      P6 (2 séances) : PEDO-56-merAM
+         s30:merAM  s34:merAM
+
+  ● 4107 (type 1, DANEY DE MARCILLAC Pierre-François) — 13 séances Pédo
+      P1 (1 séances) : PEDO-6A-A-jeuM
+         s39:jeuM
+      P2 (3 séances) : PEDO-6A-A-merM
+         s45:merM  s48:merM  s51:merM
+      P4 (1 séances) : PEDO-B2
+         s17:venM
+      P5 (5 séances) : PEDO-56-jeuM
+         s18:jeuM  s21:jeuM  s22:jeuM  s24:jeuM  s26:jeuM
+      P6 (3 séances) : PEDO-56-jeuM
+         s28:jeuM  s31:jeuM  s35:jeuM
+
+  ● 4208 (type 2, BAYA Louloua) — 13 séances Pédo
+      P1 (1 séances) : PEDO-A3
+         s41:merAM
+      P2 (1 séances) : PEDO-A1
+         s51:merAM
+      P3 (2 séances) : PEDO-6A-B-jeuM
+         s4:jeuM  s7:jeuM
+      P4 (3 séances) : PEDO-B1
+         s10:jeuM  s12:jeuM  s17:jeuM
+      P5 (4 séances) : PEDO-56-merAM
+         s22:merAM  s23:merAM  s25:merAM  s27:merAM
+      P6 (2 séances) : PEDO-56-merAM
+         s31:merAM  s35:merAM
+
+  ● 4204 (type 2, PASTOR Fanny) — 14 séances Pédo
+      P1 (1 séances) : PEDO-A3
+         s41:merAM
+      P2 (3 séances) : PEDO-A4
+         s45:lunM  s46:lunM  s52:lunM
+      P4 (1 séances) : PEDO-B3
+         s17:merAM
+      P5 (6 séances) : PEDO-56-lunM
+         s18:lunM  s20:lunM  s22:lunM  s23:lunM  s25:lunM  s27:lunM
+      P6 (3 séances) : PEDO-56-lunM
+         s29:lunM  s31:lunM  s35:lunM
+
+  ● 4303 (type 3, DOUEK Jessica) — 14 séances Pédo
+      P1 (2 séances) : PEDO-6A-A-jeuM
+         s37:jeuM  s43:jeuM
+      P2 (1 séances) : PEDO-6A-A-merM
+         s50:merM
+      P3 (1 séances) : PEDO-6A-B-jeuM
+         s8:jeuM
+      P5 (7 séances) : PEDO-56-lunM
+         s18:lunM  s20:lunM  s22:lunM  s23:lunM  s24:lunM  s25:lunM  s27:lunM
+      P6 (3 séances) : PEDO-56-lunM
+         s29:lunM  s31:lunM  s35:lunM
+
+  ● 4310 (type 3, LEDRU Louise) — 14 séances Pédo
+      P1 (2 séances) : PEDO-A3
+         s38:merAM  s44:merAM
+      P3 (2 séances) : PEDO-6A-B-jeuM
+         s5:jeuM  s7:jeuM
+      P5 (7 séances) : PEDO-56-lunM
+         s18:lunM  s20:lunM  s22:lunM  s23:lunM  s24:lunM  s25:lunM  s27:lunM
+      P6 (3 séances) : PEDO-56-lunM
+         s29:lunM  s31:lunM  s35:lunM
+
+  ● 4417 (type 4, BUU Juliette) — 13 séances Pédo
+      P1 (1 séances) : PEDO-A3
+         s40:merAM
+      P2 (1 séances) : PEDO-A1
+         s52:merAM
+      P4 (7 séances) : PEDO-6A-B-lunM
+         s9:lunM  s10:lunM  s11:lunM  s12:lunM  s13:lunM  s15:lunM  s17:lunM
+      P5 (2 séances) : PEDO-56-merM
+         s25:merM  s27:merM
+      P6 (2 séances) : PEDO-56-merM
+         s30:merM  s34:merM
+
+  ● 4405 (type 4, COLOME Joseph) — 13 séances Pédo
+      P1 (2 séances) : PEDO-A2
+         s38:merM  s44:merM
+      P3 (1 séances) : PEDO-6A-B-jeuM
+         s6:jeuM
+      P4 (6 séances) : PEDO-6A-B-lunM
+         s9:lunM  s10:lunM  s12:lunM  s13:lunM  s16:lunM  s17:lunM
+      P5 (1 séances) : PEDO-56-merAM
+         s26:merAM
+      P6 (3 séances) : PEDO-56-merAM
+         s28:merAM  s31:merAM  s35:merAM
+
+  ● 4508 (type 5, Transf_horsUE 2) — 13 séances Pédo
+      P1 (1 séances) : PEDO-A2
+         s43:merM
+      P3 (3 séances) : PEDO-B2
+         s3:merAM  s4:merAM  s6:merAM
+      P4 (1 séances) : PEDO-B3
+         s16:merAM
+      P5 (6 séances) : PEDO-56-merAM
+         s18:merAM  s20:merAM  s21:merAM  s23:merAM  s25:merAM  s27:merAM
+      P6 (2 séances) : PEDO-56-merAM
+         s30:merAM  s34:merAM
+
+  ● 4504 (type 5, TOUAHRI Issam) — 14 séances Pédo
+      P1 (1 séances) : PEDO-6A-A-jeuM
+         s42:jeuM
+      P3 (4 séances) : PEDO-B1
+         s3:lunM  s4:lunM  s5:lunM  s8:lunM
+      P4 (2 séances) : PEDO-6A-B-merM
+         s14:merM  s16:merM
+      P5 (4 séances) : PEDO-56-merM
+         s22:merM  s23:merM  s25:merM  s26:merM
+      P6 (3 séances) : PEDO-56-merM
+         s28:merM  s31:merM  s35:merM
+
+──────────────────────────────────────────────────────────────────────
+  PROMO 5A
+──────────────────────────────────────────────────────────────────────
+
+  ● 5112 (type 1, SAFA  Chloé) — 26 séances Pédo
+      P1 (1 séances) : PEDO-A1 [rempl.]
+         s36:lunM
+      P2 (1 séances) : PEDO-A2 [rempl.]
+         s45:venM
+      P3 (5 séances) : PEDO-B2
+         s3:merAM  s4:merAM  s5:merAM  s7:merAM  s8:merAM
+      P4 (9 séances) : PEDO-B2
+         s9:venM  s10:venM  s11:venM  s12:venM  s13:venM  s14:venM  s15:venM  s16:venM  s17:venM
+      P5 (7 séances) : PEDO-56-venM
+         s18:venM  s19:venM  s20:venM  s22:venM  s24:venM  s25:venM  s27:venM
+      P6 (3 séances) : PEDO-56-venM
+         s29:venM  s31:venM  s35:venM
+
+  ● 5110 (type 1, SENTISSI_Mohamed) — 25 séances Pédo
+      P1 (1 séances) : PEDO-A1 [rempl.]
+         s36:lunM
+      P2 (1 séances) : PEDO-A2 [rempl.]
+         s45:venM
+      P3 (5 séances) : PEDO-B2
+         s3:merAM  s4:merAM  s5:merAM  s7:merAM  s8:merAM
+      P4 (9 séances) : PEDO-B2
+         s9:venM  s10:venM  s11:venM  s12:venM  s13:venM  s14:venM  s15:venM  s16:venM  s17:venM
+      P5 (6 séances) : PEDO-56-jeuM
+         s18:jeuM  s20:jeuM  s21:jeuM  s23:jeuM  s24:jeuM  s26:jeuM
+      P6 (3 séances) : PEDO-56-jeuM
+         s28:jeuM  s30:jeuM  s34:jeuM
+
+  ● 5212 (type 2, RAJAONARIVELO Eulalie) — 26 séances Pédo
+      P1 (1 séances) : PEDO-A1 [rempl.]
+         s36:lunM
+      P2 (1 séances) : PEDO-A1 [rempl.]
+         s50:merAM
+      P3 (5 séances) : PEDO-B2
+         s3:merAM  s4:merAM  s5:merAM  s7:merAM  s8:merAM
+      P4 (9 séances) : PEDO-B2
+         s9:venM  s10:venM  s11:venM  s12:venM  s13:venM  s14:venM  s15:venM  s16:venM  s17:venM
+      P5 (6 séances) : PEDO-56-venM
+         s18:venM  s19:venM  s20:venM  s22:venM  s24:venM  s26:venM
+      P6 (4 séances) : PEDO-56-venM
+         s28:venM  s29:venM  s31:venM  s35:venM
+
+  ● 5216 (type 2, EE2_GOUDEZEUNE Mathieu) — 26 séances Pédo
+      P1 (1 séances) : PEDO-A2 [rempl.]
+         s36:merM
+      P2 (1 séances) : PEDO-A1 [rempl.]
+         s50:merAM
+      P3 (5 séances) : PEDO-B2
+         s3:merAM  s4:merAM  s5:merAM  s7:merAM  s8:merAM
+      P4 (9 séances) : PEDO-B2
+         s9:venM  s10:venM  s11:venM  s12:venM  s13:venM  s14:venM  s15:venM  s16:venM  s17:venM
+      P5 (6 séances) : PEDO-56-venM
+         s18:venM  s19:venM  s20:venM  s22:venM  s24:venM  s26:venM
+      P6 (4 séances) : PEDO-56-venM
+         s28:venM  s30:venM  s31:venM  s35:venM
+
+  ● 5307 (type 3, DURAND_Quentin) — 25 séances Pédo
+      P1 (9 séances) : PEDO-A2
+         s36:merM  s37:merM  s38:merM  s39:merM  s40:merM  s41:merM  s42:merM  s43:merM  s44:merM
+      P2 (7 séances) : PEDO-A2
+         s45:venM  s46:venM  s47:venM  s48:venM  s49:venM  s50:venM  s51:venM
+      P3 (1 séances) : PEDO-6A-B-venM [rempl.]
+         s3:venM
+      P4 (1 séances) : PEDO-B2 [rempl.]
+         s10:venM
+      P5 (4 séances) : PEDO-56-venM
+         s21:venM  s23:venM  s25:venM  s27:venM
+      P6 (3 séances) : PEDO-56-venM
+         s29:venM  s30:venM  s34:venM
+
+  ● 5306 (type 3, LARTIGUE Chloe) — 26 séances Pédo
+      P1 (1 séances) : PEDO-A2 [rempl.]
+         s36:merM
+      P2 (1 séances) : PEDO-A3 [rempl.]
+         s50:jeuM
+      P3 (5 séances) : PEDO-B1
+         s3:lunM  s4:lunM  s5:lunM  s7:lunM  s8:lunM
+      P4 (9 séances) : PEDO-B1
+         s9:jeuM  s10:jeuM  s11:jeuM  s12:jeuM  s13:jeuM  s14:jeuM  s15:jeuM  s16:jeuM  s17:jeuM
+      P5 (6 séances) : PEDO-56-venM
+         s18:venM  s19:venM  s20:venM  s22:venM  s24:venM  s26:venM
+      P6 (4 séances) : PEDO-56-venM
+         s28:venM  s30:venM  s34:venM  s35:venM
+
+  ● 5404 (type 4, GUICHE  Karim) — 26 séances Pédo
+      P1 (1 séances) : PEDO-A3 [rempl.]
+         s36:merAM
+      P2 (1 séances) : PEDO-A1 [rempl.]
+         s47:merAM
+      P3 (5 séances) : PEDO-B1
+         s3:lunM  s4:lunM  s5:lunM  s7:lunM  s8:lunM
+      P4 (9 séances) : PEDO-B1
+         s9:jeuM  s10:jeuM  s11:jeuM  s12:jeuM  s13:jeuM  s14:jeuM  s15:jeuM  s16:jeuM  s17:jeuM
+      P5 (7 séances) : PEDO-56-merAM
+         s20:merAM  s21:merAM  s22:merAM  s23:merAM  s24:merAM  s25:merAM  s27:merAM
+      P6 (3 séances) : PEDO-56-merAM
+         s30:merAM  s31:merAM  s35:merAM
+
+  ● 5407 (type 4, BOUSQUET_Romane) — 25 séances Pédo
+      P1 (9 séances) : PEDO-A1
+         s36:lunM  s37:lunM  s38:lunM  s39:lunM  s40:lunM  s41:lunM  s42:lunM  s43:lunM  s44:lunM
+      P2 (7 séances) : PEDO-A1
+         s45:merAM  s47:merAM  s48:merAM  s49:merAM  s50:merAM  s51:merAM  s52:merAM
+      P3 (1 séances) : PEDO-B2 [rempl.]
+         s2:merAM
+      P4 (1 séances) : PEDO-B3 [rempl.]
+         s10:merAM
+      P5 (4 séances) : PEDO-56-merAM
+         s19:merAM  s22:merAM  s24:merAM  s26:merAM
+      P6 (3 séances) : PEDO-56-merAM
+         s28:merAM  s31:merAM  s34:merAM
+
+  ● 5502 (type 5, LAKHSSASSI_Sofia) — 27 séances Pédo
+      P1 (1 séances) : PEDO-A3 [rempl.]
+         s36:merAM
+      P3 (6 séances) : PEDO-B3
+         s2:merM  s3:merM  s4:merM  s5:merM  s7:merM  s8:merM
+      P4 (9 séances) : PEDO-B3
+         s9:merAM  s10:merAM  s11:merAM  s12:merAM  s13:merAM  s14:merAM  s15:merAM  s16:merAM  s17:merAM
+      P5 (7 séances) : PEDO-56-merM
+         s19:merM  s20:merM  s21:merM  s22:merM  s23:merM  s25:merM  s26:merM
+      P6 (4 séances) : PEDO-56-merM
+         s28:merM  s30:merM  s34:merM  s35:merM
+
+  ● 5504 (type 5, KRAMY Assya) — 26 séances Pédo
+      P1 (1 séances) : PEDO-A3 [rempl.]
+         s36:merAM
+      P3 (6 séances) : PEDO-B3
+         s2:merM  s3:merM  s4:merM  s5:merM  s7:merM  s8:merM
+      P4 (9 séances) : PEDO-B3
+         s9:merAM  s10:merAM  s11:merAM  s12:merAM  s13:merAM  s14:merAM  s15:merAM  s16:merAM  s17:merAM
+      P5 (7 séances) : PEDO-56-merM
+         s19:merM  s20:merM  s21:merM  s22:merM  s23:merM  s25:merM  s26:merM
+      P6 (3 séances) : PEDO-56-merM
+         s28:merM  s30:merM  s34:merM
+
+──────────────────────────────────────────────────────────────────────
+  PROMO 6A
+──────────────────────────────────────────────────────────────────────
+
+  ● 6113 (type 1, YAZBEK_Rayan) — 22 séances Pédo
+      P1 (8 séances) : PEDO-6A-A-jeuM
+         s37:jeuM  s38:jeuM  s39:jeuM  s40:jeuM  s41:jeuM  s42:jeuM  s43:jeuM  s44:jeuM
+      P2 (6 séances) : PEDO-A1
+         s45:merAM  s47:merAM  s48:merAM  s49:merAM  s51:merAM  s52:merAM
+      P3 (7 séances) : PEDO-6A-B-jeuM
+         s2:jeuM  s3:jeuM  s4:jeuM  s5:jeuM  s6:jeuM  s7:jeuM  s8:jeuM
+      P4 (1 séances) : PEDO-B2 [rempl.]
+         s16:venM
+
+  ● 6101 (type 1, SUBIAS_Clémence) — 25 séances Pédo
+      P1 (8 séances) : PEDO-A3
+         s37:merAM  s38:merAM  s39:merAM  s40:merAM  s41:merAM  s42:merAM  s43:merAM  s44:merAM
+      P3 (7 séances) : PEDO-B2
+         s2:merAM  s3:merAM  s4:merAM  s5:merAM  s6:merAM  s7:merAM  s8:merAM
+      P4 (1 séances) : PEDO-6A-B-merM [rempl.]
+         s16:merM
+      P5 (5 séances) : PEDO-56-venM
+         s18:venM  s21:venM  s23:venM  s25:venM  s27:venM
+      P6 (4 séances) : PEDO-56-venM
+         s29:venM  s30:venM  s34:venM  s35:venM
+
+  ● 6201 (type 2, BOGAERT_William) — 24 séances Pédo
+      P1 (8 séances) : PEDO-A3
+         s37:merAM  s38:merAM  s39:merAM  s40:merAM  s41:merAM  s42:merAM  s43:merAM  s44:merAM
+      P3 (7 séances) : PEDO-B3
+         s2:merM  s3:merM  s4:merM  s5:merM  s6:merM  s7:merM  s8:merM
+      P4 (1 séances) : PEDO-6A-B-lunM [rempl.]
+         s16:lunM
+      P5 (4 séances) : PEDO-56-lunM
+         s18:lunM  s20:lunM  s22:lunM  s25:lunM
+      P6 (4 séances) : PEDO-56-lunM
+         s28:lunM  s30:lunM  s34:lunM  s35:lunM
+
+  ● 6203 (type 2, LANFREY_Victoria) — 23 séances Pédo
+      P3 (7 séances) : PEDO-6A-B-jeuM
+         s2:jeuM  s3:jeuM  s4:jeuM  s5:jeuM  s6:jeuM  s7:jeuM  s8:jeuM
+      P4 (9 séances) : PEDO-B1
+         s9:jeuM  s10:jeuM  s11:jeuM  s12:jeuM  s13:jeuM  s14:jeuM  s15:jeuM  s16:jeuM  s17:jeuM
+      P5 (5 séances) : PEDO-56-merAM
+         s18:merAM  s20:merAM  s22:merAM  s24:merAM  s27:merAM
+      P6 (2 séances) : PEDO-56-merAM
+         s30:merAM  s35:merAM
+
+  ● 6312 (type 3, POUJOL_Oriane) — 24 séances Pédo
+      P1 (8 séances) : PEDO-A3
+         s37:merAM  s38:merAM  s39:merAM  s40:merAM  s41:merAM  s42:merAM  s43:merAM  s44:merAM
+      P3 (7 séances) : PEDO-B3
+         s2:merM  s3:merM  s4:merM  s5:merM  s6:merM  s7:merM  s8:merM
+      P4 (1 séances) : PEDO-6A-B-lunM [rempl.]
+         s16:lunM
+      P5 (4 séances) : PEDO-56-venM
+         s20:venM  s22:venM  s24:venM  s26:venM
+      P6 (4 séances) : PEDO-56-venM
+         s28:venM  s30:venM  s31:venM  s34:venM
+
+  ● 6309 (type 3, PULLARA_Zoé) — 22 séances Pédo
+      P1 (6 séances) : PEDO-A1
+         s39:lunM  s40:lunM  s41:lunM  s42:lunM  s43:lunM  s44:lunM
+      P2 (7 séances) : PEDO-A2
+         s45:venM  s46:venM  s47:venM  s48:venM  s49:venM  s50:venM  s51:venM
+      P4 (9 séances) : PEDO-B2
+         s9:venM  s10:venM  s11:venM  s12:venM  s13:venM  s14:venM  s15:venM  s16:venM  s17:venM
+
+  ● 6418 (type 4, MEJEAN_Tom) — 19 séances Pédo
+      P1 (6 séances) : PEDO-A4
+         s39:venM  s40:venM  s41:venM  s42:venM  s43:venM  s44:venM
+      P2 (6 séances) : PEDO-6A-A-merM
+         s45:merM  s47:merM  s48:merM  s49:merM  s51:merM  s52:merM
+      P4 (7 séances) : PEDO-6A-B-merM
+         s9:merM  s10:merM  s11:merM  s12:merM  s13:merM  s14:merM  s15:merM
+
+  ● 6414 (type 4, LECHAT_Cléa) — 20 séances Pédo
+      P1 (6 séances) : PEDO-A4
+         s39:venM  s40:venM  s41:venM  s42:venM  s43:venM  s44:venM
+      P2 (6 séances) : PEDO-A1
+         s45:merAM  s47:merAM  s48:merAM  s49:merAM  s51:merAM  s52:merAM
+      P3 (7 séances) : PEDO-6A-B-venM
+         s2:venM  s3:venM  s4:venM  s5:venM  s6:venM  s7:venM  s8:venM
+      P4 (1 séances) : PEDO-B3 [rempl.]
+         s16:merAM
+
+  ● 6506 (type 5, GOUJILI_Othmane) — 22 séances Pédo
+      P1 (8 séances) : PEDO-6A-A-jeuM
+         s37:jeuM  s38:jeuM  s39:jeuM  s40:jeuM  s41:jeuM  s42:jeuM  s43:jeuM  s44:jeuM
+      P3 (7 séances) : PEDO-B3
+         s2:merM  s3:merM  s4:merM  s5:merM  s6:merM  s7:merM  s8:merM
+      P4 (1 séances) : PEDO-6A-B-merM [rempl.]
+         s16:merM
+      P5 (4 séances) : PEDO-56-jeuM
+         s20:jeuM  s21:jeuM  s22:jeuM  s26:jeuM
+      P6 (2 séances) : PEDO-56-jeuM
+         s30:jeuM  s34:jeuM
+
+  ● 6501 (type 5, MICHEL_Mélodie) — 22 séances Pédo
+      P1 (8 séances) : PEDO-6A-A-jeuM
+         s37:jeuM  s38:jeuM  s39:jeuM  s40:jeuM  s41:jeuM  s42:jeuM  s43:jeuM  s44:jeuM
+      P3 (7 séances) : PEDO-B2
+         s2:merAM  s3:merAM  s4:merAM  s5:merAM  s6:merAM  s7:merAM  s8:merAM
+      P4 (1 séances) : PEDO-6A-B-merM [rempl.]
+         s16:merM
+      P5 (4 séances) : PEDO-56-jeuM
+         s18:jeuM  s21:jeuM  s22:jeuM  s25:jeuM
+      P6 (2 séances) : PEDO-56-jeuM
+         s29:jeuM  s34:jeuM
+
+======================================================================
+  VOLET 2 — COMPOSITION DES SALLES (par période et créneau)
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  PÉRIODE 1  (semaines 36–44, 9 sem.)
+──────────────────────────────────────────────────────────────────────
+
+  lundi     M   — 9 semaines actives
+     remplissage moyen : 5A=9.3 6A=8.0 4A=0.0  total 17.3/20 (min 8, max 20)
+     groupes (séances) : PEDO-A1(144), PEDO-A1 [rempl.](12)
+
+  mercredi  M   — 9 semaines actives
+     remplissage moyen : 5A=12.9 6A=3.6 4A=3.6  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-A2(172), PEDO-A2 [rempl.](8)
+
+  mercredi  AM  — 9 semaines actives
+     remplissage moyen : 5A=9.3 6A=7.1 4A=3.6  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-A3(168), PEDO-A3 [rempl.](12)
+
+  jeudi     M   — 8 semaines actives
+     remplissage moyen : 5A=0.0 6A=16.0 4A=4.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-6A-A-jeuM(160)
+
+  vendredi  M   — 9 semaines actives
+     remplissage moyen : 5A=11.0 6A=6.0 4A=0.0  total 17.0/20 (min 11, max 20)
+     groupes (séances) : PEDO-A4(153)
+
+──────────────────────────────────────────────────────────────────────
+  PÉRIODE 2  (semaines 45–1, 9 sem.)
+──────────────────────────────────────────────────────────────────────
+
+  lundi     M   — 8 semaines actives
+     remplissage moyen : 5A=11.0 6A=5.0 4A=4.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-A4(160)
+
+  mercredi  M   — 7 semaines actives
+     remplissage moyen : 5A=0.0 6A=12.9 4A=5.0  total 17.9/20 (min 5, max 20)
+     groupes (séances) : PEDO-6A-A-merM(125)
+
+  mercredi  AM  — 7 semaines actives
+     remplissage moyen : 5A=11.4 6A=6.9 4A=1.7  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-A1(116), PEDO-A1 [rempl.](24)
+
+  jeudi     M   — 8 semaines actives
+     remplissage moyen : 5A=9.0 6A=7.0 4A=4.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-A3(152), PEDO-A3 [rempl.](8)
+
+  vendredi  M   — 7 semaines actives
+     remplissage moyen : 5A=12.6 6A=4.0 4A=3.4  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-A2(136), PEDO-A2 [rempl.](4)
+
+──────────────────────────────────────────────────────────────────────
+  PÉRIODE 3  (semaines 2–8, 7 sem.)
+──────────────────────────────────────────────────────────────────────
+
+  lundi     M   — 7 semaines actives
+     remplissage moyen : 5A=9.3 6A=3.0 4A=4.0  total 16.3/20 (min 7, max 20)
+     groupes (séances) : PEDO-B1(114)
+
+  mercredi  M   — 7 semaines actives
+     remplissage moyen : 5A=11.1 6A=7.0 4A=0.0  total 18.1/20 (min 7, max 20)
+     groupes (séances) : PEDO-B3(127)
+
+  mercredi  AM  — 7 semaines actives
+     remplissage moyen : 5A=10.9 6A=4.0 4A=3.4  total 18.3/20 (min 8, max 20)
+     groupes (séances) : PEDO-B2(112), PEDO-B2 [rempl.](16)
+
+  jeudi     M   — 7 semaines actives
+     remplissage moyen : 5A=1.0 6A=13.0 4A=6.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-6A-B-jeuM(133), PEDO-6A-B-jeuM [rempl.](7)
+
+  vendredi  M   — 7 semaines actives
+     remplissage moyen : 5A=1.9 6A=13.0 4A=0.0  total 14.9/20 (min 13, max 20)
+     groupes (séances) : PEDO-6A-B-venM(91), PEDO-6A-B-venM [rempl.](13)
+
+──────────────────────────────────────────────────────────────────────
+  PÉRIODE 4  (semaines 9–17, 9 sem.)
+──────────────────────────────────────────────────────────────────────
+
+  lundi     M   — 8 semaines actives
+     remplissage moyen : 5A=0.0 6A=9.0 4A=10.0  total 19.0/20 (min 12, max 20)
+     groupes (séances) : PEDO-6A-B-lunM(140), PEDO-6A-B-lunM [rempl.](12)
+
+  mercredi  M   — 9 semaines actives
+     remplissage moyen : 5A=0.0 6A=14.7 4A=4.0  total 18.7/20 (min 8, max 20)
+     groupes (séances) : PEDO-6A-B-merM(154), PEDO-6A-B-merM [rempl.](14)
+
+  mercredi  AM  — 9 semaines actives
+     remplissage moyen : 5A=15.3 6A=2.9 4A=1.3  total 19.6/20 (min 17, max 20)
+     groupes (séances) : PEDO-B3(154), PEDO-B3 [rempl.](22)
+
+  jeudi     M   — 9 semaines actives
+     remplissage moyen : 5A=13.0 6A=2.9 4A=4.0  total 19.9/20 (min 19, max 20)
+     groupes (séances) : PEDO-B1(178), PEDO-B1 [rempl.](1)
+
+  vendredi  M   — 9 semaines actives
+     remplissage moyen : 5A=14.0 6A=3.9 4A=0.9  total 18.8/20 (min 16, max 20)
+     groupes (séances) : PEDO-B2(150), PEDO-B2 [rempl.](19)
+
+──────────────────────────────────────────────────────────────────────
+  PÉRIODE 5  (semaines 18–27, 10 sem.)
+──────────────────────────────────────────────────────────────────────
+
+  lundi     M   — 9 semaines actives
+     remplissage moyen : 5A=6.0 6A=2.9 4A=7.1  total 16.0/20 (min 10, max 20)
+     groupes (séances) : PEDO-56-lunM(144)
+
+  mercredi  M   — 10 semaines actives
+     remplissage moyen : 5A=8.1 6A=3.0 4A=7.2  total 18.3/20 (min 11, max 20)
+     groupes (séances) : PEDO-56-merM(183)
+
+  mercredi  AM  — 10 semaines actives
+     remplissage moyen : 5A=8.1 6A=3.0 4A=7.2  total 18.3/20 (min 11, max 20)
+     groupes (séances) : PEDO-56-merAM(183)
+
+  jeudi     M   — 9 semaines actives
+     remplissage moyen : 5A=9.0 6A=3.0 4A=8.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-56-jeuM(180)
+
+  vendredi  M   — 10 semaines actives
+     remplissage moyen : 5A=9.0 6A=3.0 4A=8.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-56-venM(200)
+
+──────────────────────────────────────────────────────────────────────
+  PÉRIODE 6  (semaines 28–35, 8 sem.)
+──────────────────────────────────────────────────────────────────────
+
+  lundi     M   — 6 semaines actives
+     remplissage moyen : 5A=9.0 6A=3.0 4A=8.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-56-lunM(120)
+
+  mercredi  M   — 5 semaines actives
+     remplissage moyen : 5A=9.0 6A=3.0 4A=8.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-56-merM(100)
+
+  mercredi  AM  — 5 semaines actives
+     remplissage moyen : 5A=9.0 6A=3.0 4A=8.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-56-merAM(100)
+
+  jeudi     M   — 6 semaines actives
+     remplissage moyen : 5A=9.0 6A=3.0 4A=8.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-56-jeuM(120)
+
+  vendredi  M   — 6 semaines actives
+     remplissage moyen : 5A=9.0 6A=3.0 4A=8.0  total 20.0/20 (min 20, max 20)
+     groupes (séances) : PEDO-56-venM(120)
+
+======================================================================
+  STATISTIQUES GLOBALES
+======================================================================
+
+  4A (84 étudiants) :
+     séances Pédo/an : min=11, max=14, moy=12.9, méd=13, σ=0.87
+
+  5A (77 étudiants) :
+     séances Pédo/an : min=24, max=27, moy=25.6, méd=26, σ=0.69
+
+  6A (65 étudiants) :
+     séances Pédo/an : min=19, max=25, moy=21.7, méd=22, σ=1.65
+
+  Remplissage salle :
+     créneaux-semaines utilisés : 236
+     pleins (20/20) : 203 (86 %)
+     places vides restantes : 259
+     total séances Pédo placées : 4461
+
+██████████████████████████████████████████████████████████████████████
+  3. VALIDATION URGENCES
+██████████████████████████████████████████████████████████████████████
+======================================================================
+  VOLET 1 — EXEMPLES INDIVIDUELS (parcours d'urgences)
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+  PROMO 4A
+──────────────────────────────────────────────────────────────────────
+
+  ● 4111 (type 1, FABRY Léa) — 14 vacations, écart moyen 7.1 sem
+      s39merM  s42jeuM  s46jeuM  s50lunAM  s2lunAM  s5jeuAM  s8jeuM  s11jeuM
+      s15merAM  s18merM  s22marM  s25merAM  s28merM  s31venM
+
+  ● 4109 (type 1, FEASSON Cléry) — 15 vacations, écart moyen 7.0 sem
+      s37marM  s40venAM  s44merM  s48merM  s51merAM  s4marAM  s7marAM  s10merM
+      s13jeuM  s17merM  s20jeuAM  s23jeuM  s26jeuAM  s29venM  s34venM
+
+  ● 4205 (type 2, COURTES Théo) — 14 vacations, écart moyen 7.2 sem
+      s40merM  s43venAM  s47jeuAM  s50jeuAM  s3jeuM  s6jeuAM  s9venAM  s13lunAM
+      s16jeuM  s20lunAM  s23lunAM  s26merM  s29marAM  s34jeuAM
+
+  ● 4211 (type 2, CAZAUBON Emery) — 14 vacations, écart moyen 7.2 sem
+      s40merM  s43jeuM  s47jeuAM  s50jeuAM  s3jeuM  s6jeuM  s9venAM  s13lunAM
+      s17lunAM  s20merM  s23marAM  s26merM  s29marAM  s34jeuAM
+
+  ● 4307 (type 3, CAFFIN Margaux) — 14 vacations, écart moyen 7.1 sem
+      s39jeuM  s43jeuM  s47jeuM  s50jeuAM  s3marAM  s6marAM  s9marAM  s12jeuAM
+      s16marAM  s18jeuAM  s22lunAM  s25marM  s28lunAM  s31merAM
+
+  ● 4302 (type 3, BOUKADIR Ismaïl) — 15 vacations, écart moyen 7.0 sem
+      s37venAM  s41venAM  s45jeuAM  s49venM  s52merAM  s4venAM  s7venAM  s11lunAM
+      s14jeuAM  s17venM  s21marM  s24lunM  s27lunM  s30lunAM  s35marAM
+
+  ● 4415 (type 4, BOUVARD Marius) — 14 vacations, écart moyen 7.3 sem
+      s39venAM  s43marM  s47lunAM  s50merM  s3lunAM  s6marAM  s9marAM  s12merM
+      s16merAM  s19venM  s23lunM  s26lunAM  s29lunM  s34marM
+
+  ● 4411 (type 4, VERA Y SANCHEZ Ariadna) — 14 vacations, écart moyen 7.2 sem
+      s40lunAM  s44lunAM  s47jeuAM  s51lunM  s4lunM  s6jeuAM  s9merM  s12venAM
+      s16marAM  s20lunM  s23lunM  s26lunAM  s29lunM  s34marM
+
+  ● 4509 (type 5, URBINO Ylann) — 15 vacations, écart moyen 7.0 sem
+      s37merM  s41marM  s44jeuM  s48merM  s51jeuM  s5lunM  s8lunM  s11marAM
+      s14jeuAM  s18lunM  s21merM  s24marAM  s27marM  s30merM  s35merM
+
+  ● 4513 (type 5, ALBERT Clément) — 15 vacations, écart moyen 6.9 sem
+      s38marM  s42marM  s45jeuM  s49merM  s52lunM  s4jeuM  s7merAM  s10jeuM
+      s14merM  s18lunM  s21marAM  s24marM  s27marM  s30merM  s35jeuM
+
+──────────────────────────────────────────────────────────────────────
+  PROMO 5A
+──────────────────────────────────────────────────────────────────────
+
+  ● 5108 (type 1, MOHAND_CHERIF_Mehdi) — 25 vacations, écart moyen 4.1 sem
+      s36jeuM  s37merAM  s38venM  s40merAM  s42merAM  s44jeuAM  s46venM  s48jeuAM
+      s50jeuAM  s52merAM  s4merM  s7merM  s9merAM  s11merAM  s13merAM  s15venAM
+      s17jeuM  s19venAM  s21merAM  s23merAM  s25merM  s27merM  s29lunAM  s30merAM
+      s34merM
+
+  ● 5106 (type 1, NEMORIN Audrey) — 26 vacations, écart moyen 4.0 sem
+      s36merM  s37merAM  s38venM  s40merAM  s42merAM  s44merAM  s46jeuAM  s48jeuM
+      s50merAM  s52merM  s3jeuAM  s5venM  s8jeuAM  s10venAM  s13marAM  s15jeuAM
+      s17merM  s19merAM  s21merAM  s23marM  s24jeuAM  s26merAM  s28marM  s29venAM
+      s31jeuAM  s35merAM
+
+  ● 5204 (type 2, HUC Raphael) — 25 vacations, écart moyen 4.1 sem
+      s36merAM  s37jeuAM  s39lunM  s40venM  s42venM  s44venM  s46venM  s48jeuAM
+      s50jeuAM  s52merAM  s4merAM  s7jeuAM  s9jeuAM  s11jeuAM  s13venM  s15venM
+      s17jeuAM  s19venAM  s21venAM  s23venAM  s25jeuAM  s27jeuM  s29lunAM  s31lunAM
+      s34jeuAM
+
+  ● 5214 (type 2, FAVREAU Hugo) — 25 vacations, écart moyen 4.1 sem
+      s36merAM  s37jeuAM  s38venM  s40jeuAM  s42jeuAM  s44jeuAM  s46jeuAM  s48jeuM
+      s50jeuM  s52merM  s3jeuAM  s5venM  s8venM  s10venAM  s13marAM  s15jeuAM
+      s17jeuM  s19venAM  s21venM  s23venM  s25jeuAM  s27jeuAM  s29jeuAM  s31lunAM
+      s34jeuAM
+
+  ● 5316 (type 3, EE1_REYNTJENS Léonie) — 26 vacations, écart moyen 4.0 sem
+      s36lunAM  s36venAM  s37venM  s39venM  s41venM  s43venM  s45venM  s47venM
+      s49venAM  s51venAM  s3lunM  s4venM  s7venM  s10marAM  s12jeuM  s14venAM
+      s17lunM  s19lunAM  s20venM  s22venAM  s24venM  s26jeuM  s28jeuM  s29venAM
+      s31merM  s35lunM
+
+  ● 5313 (type 3, SALMI  Ouassim) — 26 vacations, écart moyen 4.0 sem
+      s36marM  s36venAM  s38lunM  s40lunM  s42lunM  s44lunM  s45venAM  s47venM
+      s49venAM  s51venAM  s3lunM  s5marAM  s8merAM  s10venM  s13marM  s15marAM
+      s17lunM  s19lunAM  s20venM  s23marM  s24venM  s26jeuM  s28jeuM  s29venAM
+      s31venM  s35jeuM
+
+  ● 5403 (type 4, GRASSET Ludo) — 26 vacations, écart moyen 4.0 sem
+      s36merM  s37merAM  s39marAM  s41marAM  s43marAM  s45marM  s47marM  s49lunM
+      s50marAM  s52marM  s4marM  s7lunM  s9marM  s11marAM  s13merAM  s16lunAM
+      s18jeuM  s20marM  s22marAM  s23merAM  s25lunAM  s26merAM  s28merAM  s30merAM
+      s34lunAM  s35venM
+
+  ● 5415 (type 4, EL MEZOUAR Manel) — 26 vacations, écart moyen 4.0 sem
+      s36venM  s38marAM  s39marAM  s41marAM  s43marAM  s45marAM  s47marAM  s49lunM
+      s51marM  s2merM  s4marM  s7lunM  s9merAM  s11venAM  s13venAM  s16marM
+      s18venM  s20marM  s22marAM  s23merAM  s25lunAM  s26venM  s28venM  s30merAM
+      s34lunAM  s35venM
+
+  ● 5505 (type 5, IMRANI_Imad) — 26 vacations, écart moyen 4.0 sem
+      s36lunM  s36jeuAM  s38marAM  s39jeuAM  s41jeuAM  s43venAM  s46lunM  s48marM
+      s49jeuAM  s51merAM  s3marM  s5marAM  s8merM  s10merAM  s12merAM  s14venM
+      s16merAM  s18venM  s20merAM  s22jeuM  s24merM  s26marM  s28marM  s30marM
+      s31jeuAM  s35marAM
+
+  ● 5509 (type 5, MOURALI_Yacine) — 25 vacations, écart moyen 4.1 sem
+      s36jeuM  s37venAM  s39marAM  s41marAM  s43jeuAM  s45merAM  s47marAM  s49marM
+      s51marM  s2merM  s4merM  s7merM  s9jeuM  s11merAM  s13jeuM  s16marM
+      s18venM  s20marM  s22jeuM  s24marM  s26marM  s27marAM  s29lunAM  s30merAM
+      s34marAM
+
+──────────────────────────────────────────────────────────────────────
+  PROMO 6A
+──────────────────────────────────────────────────────────────────────
+
+  ● 6116 (type 1, MENARD_Salomé) — 24 vacations, écart moyen 4.2 sem
+      s38marM  s40merM  s42marAM  s44lunM  s52marAM  s2marAM  s2venM  s3marM
+      s3venAM  s4jeuAM  s5merAM  s6marM  s6venM  s7venAM  s8venAM  s12marAM
+      s13marM  s14merAM  s15merAM  s23merM  s25lunAM  s27merM  s30marAM  s34jeuAM
+
+  ● 6117 (type 1, GICQUEL_Maelys) — 24 vacations, écart moyen 4.2 sem
+      s38marM  s40marAM  s42marAM  s44lunM  s45merAM  s46venAM  s48lunM  s49marM
+      s50venM  s4lunM  s4venAM  s5venM  s6merM  s7merM  s8merM  s12marAM
+      s13marM  s14merAM  s15merAM  s23marAM  s24venM  s27marM  s29venM  s34merM
+
+  ● 6213 (type 2, CAFFIN Nathan) — 24 vacations, écart moyen 4.0 sem
+      s38venAM  s40venM  s42merM  s44lunAM  s52jeuM  s2merM  s2venM  s3merM
+      s3venAM  s4jeuAM  s5jeuAM  s6merM  s7lunAM  s8lunAM  s11jeuM  s12merAM
+      s13merAM  s14merM  s15marAM  s23marAM  s24venM  s27lunM  s29marAM  s31venM
+
+  ● 6212 (type 2, MAURIN_Pauline) — 24 vacations, écart moyen 4.1 sem
+      s39lunAM  s40venAM  s42merM  s44lunAM  s45jeuAM  s47lunM  s48lunAM  s49lunAM
+      s50venM  s9lunAM  s9jeuAM  s10lunAM  s10jeuM  s11lunAM  s12lunAM  s13lunAM
+      s14marM  s15lunAM  s23lunM  s23venAM  s25merM  s27merAM  s30lunAM  s34merAM
+
+  ● 6302 (type 3, TANAKA_Anna) — 25 vacations, écart moyen 4.0 sem
+      s38jeuM  s40jeuM  s42lunAM  s43jeuM  s52lunM  s2lunM  s2merAM  s2venAM
+      s3merM  s4lunAM  s4venAM  s5venAM  s6jeuM  s7venAM  s8venAM  s9merM
+      s10merM  s12merM  s13merM  s20venAM  s22lunAM  s25jeuAM  s27venM  s30jeuM
+      s35lunAM
+
+  ● 6314 (type 3, BOUNIOL_Océane) — 25 vacations, écart moyen 4.1 sem
+      s38lunAM  s40marM  s41venAM  s43jeuM  s45lunM  s46lunAM  s47jeuM  s48venAM
+      s50lunM  s51jeuM  s4venAM  s5venAM  s6merAM  s7marAM  s8marAM  s16lunM
+      s18lunM  s18venAM  s19venM  s21marM  s22merAM  s26lunAM  s28jeuM  s31lunM
+      s35jeuM
+
+  ● 6419 (type 4, ROCHE-VIGNY_Anna) — 24 vacations, écart moyen 4.2 sem
+      s37lunAM  s40lunM  s41jeuAM  s43marM  s44venAM  s45venAM  s47marM  s48marAM
+      s49merAM  s51lunM  s9lunM  s9jeuAM  s10marM  s11lunM  s11venM  s12jeuAM
+      s13jeuAM  s14jeuAM  s15venM  s23merM  s24venAM  s27marM  s29venM  s34marM
+
+  ● 6411 (type 4, MAYRAS_Aurélien) — 25 vacations, écart moyen 4.0 sem
+      s39marM  s41lunAM  s42venAM  s44merM  s45jeuM  s47lunM  s48lunAM  s49lunAM
+      s50marM  s51venAM  s9merAM  s10lunM  s10jeuM  s11lunAM  s12lunM  s12venAM
+      s13jeuM  s14marAM  s15marM  s21marAM  s22merM  s25venM  s28lunAM  s30venAM
+      s35merM
+
+  ● 6503 (type 5, TEROL_Muriel) — 24 vacations, écart moyen 4.1 sem
+      s38marM  s40marAM  s42lunM  s43jeuAM  s52marAM  s2marM  s2jeuAM  s3lunAM
+      s3venM  s4merM  s5merM  s6marM  s6venM  s7jeuM  s8jeuM  s17marM
+      s18marM  s19lunAM  s20lunAM  s21merM  s24marM  s26jeuM  s28venAM  s31jeuM
+
+  ● 6501 (type 5, MICHEL_Mélodie) — 25 vacations, écart moyen 4.1 sem
+      s37merM  s40lunM  s41venM  s43merM  s52lunM  s2marM  s2jeuAM  s2venAM
+      s3marAM  s4marM  s5marM  s6marM  s6jeuAM  s7jeuM  s8jeuM  s16venAM
+      s18lunAM  s18venAM  s20lunAM  s21marAM  s22merM  s26lunAM  s28marAM  s30venAM
+      s35marAM
+
+======================================================================
+  VOLET 2 — ÉQUITÉ ET ÉTALEMENT PAR PROMO
+======================================================================
+
+  4A (84 étudiants) :
+     vacations/étudiant : min=14, max=15, moy=14.4, σ=0.48
+     distribution (nb vac : nb étud.) : 14:53  15:31
+     étalement (écart moyen entre 2 vac.) : 7.1 sem (min 6.9, max 7.3)
+
+  5A (77 étudiants) :
+     vacations/étudiant : min=25, max=26, moy=25.7, σ=0.47
+     distribution (nb vac : nb étud.) : 25:25  26:52
+     étalement (écart moyen entre 2 vac.) : 4.0 sem (min 3.9, max 4.1)
+
+  6A (65 étudiants) :
+     vacations/étudiant : min=24, max=25, moy=24.4, σ=0.49
+     distribution (nb vac : nb étud.) : 24:39  25:26
+     étalement (écart moyen entre 2 vac.) : 4.1 sem (min 4.0, max 4.2)
+
+======================================================================
+  VOLET 3 — REMPLISSAGE DES SALLES
+======================================================================
+
+  Vacations d'urgences couvertes : 477
+     complètes (10 étudiants) : 477 (100 %)
+     total places pourvues : 4770
+
+  Vacations couvertes par semaine :
+     s36:10  s37:10  s38:10  s39:10  s40:10  s41:10  s42:10  s43:10  s44:10
+     s45:10  s46:8  s47:10  s48:10  s49:10  s50:10  s51:10  s52:7  s2:10
+     s3:10  s4:10  s5:10  s6:10  s7:10  s8:10  s9:10  s10:10  s11:10
+     s12:10  s13:10  s14:8  s15:10  s16:10  s17:10  s18:10  s19:8  s20:10
+     s21:8  s22:10  s23:10  s24:10  s25:10  s26:10  s27:10  s28:10  s29:8
+     s30:10  s31:10  s34:10  s35:10
+
+======================================================================
+  VOLET 4 — COMPOSITIONS DES VACATIONS
+======================================================================
+
+  477 vacations, répartition des compositions :
+
+     6/4      :  183 (38.4 %) ████████████
+     5        :  109 (22.9 %) ███████
+     6/5/4    :   89 (18.7 %) ██████
+     6/5      :   86 (18.0 %) █████
+     6        :    6 ( 1.3 %) 
+     5/4      :    3 ( 0.6 %) 
+     4        :    1 ( 0.2 %) 
+
+██████████████████████████████████████████████████████████████████████
+  4. STATISTIQUES GLOBALES D'OCCUPATION
+██████████████████████████████████████████████████████████████████████
+
+  Demi-journées totales (hors Erasmus) : 117520
+
+  Répartition par catégorie :
+     libre                :  55080 (46.9 %)
+     cours/indispo        :  21371 (18.2 %)
+     poly                 :  16596 (14.1 %)
+     stage                :   7350 ( 6.3 %)
+     fermé                :   6780 ( 5.8 %)
+     urgences             :   4770 ( 4.1 %)
+     pédo                 :   4461 ( 3.8 %)
+     service sanitaire    :   1112 ( 0.9 %)
+
+  Total vacations 'matières' (Poly+SS+Pédo+Urgences) : 26939
+
+  Par promo (moyenne par étudiant) :
+     4A (84) : poly=71.8  service sanitaire=13.2  pédo=12.9  urgences=14.4
+     5A (77) : poly=87.8  service sanitaire=0.0  pédo=25.6  urgences=25.7
+     6A (65) : poly=58.4  service sanitaire=0.0  pédo=21.7  urgences=24.4
+
+  Sur 110740 demi-journées ouvrables (hors fermé) :
+     occupées : 55660 (50.3 %)
+     libres   : 55080 (49.7 %)
+
+██████████████████████████████████████████████████████████████████████
+  FIN DE LA VALIDATION GLOBALE
+██████████████████████████████████████████████████████████████████████

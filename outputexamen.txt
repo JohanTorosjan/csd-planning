@@ -1,4 +1,0 @@
-Semaines d'examen à traiter : [50, 2, 14, 18, 19, 21, 22, 27]
-Vacations normales ajoutées (jours sans examen) : 1407
-Vacations ajoutées sur les jours d'examen : 982
-CSV écrits dans : planning_csv_examens/

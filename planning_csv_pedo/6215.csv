@@ -46,16 +46,16 @@ Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi 
 20,5,S,S,S,S,S,S,S,S,S,S
 21,5,S,S,S,S,S,S,S,S,S,S
 22,5,S,S,S,S,S,S,S,S,S,S
-23,5,Pédo-soin (PEDO-56-lunM),—,Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,—,—,—,—
-24,5,Pédo-soin (PEDO-56-lunM),—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,—,—,—,—,—
-25,5,Pédo-soin (PEDO-56-lunM),—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,—,—,—,—,—
-26,5,Pédo-soin (PEDO-56-lunM),—,Poly trinome avec 4214+4215,—,—,—,—,—,—,—
-27,5,Pédo-soin (PEDO-56-lunM),Poly trinome avec 4214+4215 (examen),Poly trinome avec 4214+4215,—,—,—,—,—,—,—
-28,6,Pédo-soin (PEDO-56-lunM),—,Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,—,—,—,—
-29,6,Pédo-soin (PEDO-56-lunM),—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
-30,6,Pédo-soin (PEDO-56-lunM),—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,—,—,—,—,—
-31,6,Pédo-soin (PEDO-56-lunM),—,Poly trinome avec 4214+4215,—,—,—,—,—,—,—
+23,5,—,—,Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+24,5,—,—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+25,5,—,—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+26,5,—,—,Poly trinome avec 4214+4215,—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+27,5,—,Poly trinome avec 4214+4215 (examen),Poly trinome avec 4214+4215,—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+28,6,—,—,Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-56-jeuM),—,—,—
+30,6,—,—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+31,6,—,—,Poly trinome avec 4214+4215,—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
 32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
 33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
-34,6,Pédo-soin (PEDO-56-lunM),—,Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,—,—,—,—
-35,6,—,—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,—,—,—,—,—
+34,6,—,—,Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,—,—,—,—
+35,6,—,—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—

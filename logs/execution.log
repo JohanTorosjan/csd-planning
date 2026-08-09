@@ -2,60 +2,60 @@
 ============================================================
   GÉNÉRATION DU PLANNING POLY
 ============================================================
-[11:23:45] INFO    Effectifs : 84 4A, 77 5A, 65 6A (229 étudiants)
-[11:23:45] INFO    Groupes générés : 103
+[00:46:29] INFO    Effectifs : 84 4A, 77 5A, 65 6A (229 étudiants)
+[00:46:29] INFO    Groupes générés : 103
 
 ============================================================
   ÉTAPE 1 — Planning salle (brut)
 ============================================================
-[11:23:45] OK      29 semaines actives calculées
-[11:23:45] OK      Aucune alerte de scénario
+[00:46:29] OK      29 semaines actives calculées
+[00:46:29] OK      Aucune alerte de scénario
 
 ============================================================
   Semaines neutralisées (traitement manuel)
 ============================================================
-[11:23:45] WARN      Semaine 36 : COUPLAGE
-[11:23:45] WARN      Semaine 45 : COUPLAGE
-[11:23:45] WARN      Semaine 46 : JOUR_BLOQUE
-[11:23:45] WARN      Semaine 50 : EXAMEN
-[11:23:45] WARN      Semaine 52 : JOUR_BLOQUE
-[11:23:45] WARN      Semaine 1 : FERMEE
-[11:23:45] WARN      Semaine 2 : EXAMEN
-[11:23:45] WARN      Semaine 6 : JOUR_BLOQUE
-[11:23:45] WARN      Semaine 9 : COUPLAGE
-[11:23:45] WARN      Semaine 10 : COUPLAGE
-[11:23:45] WARN      Semaine 11 : COUPLAGE
-[11:23:45] WARN      Semaine 12 : COUPLAGE
-[11:23:45] WARN      Semaine 13 : COUPLAGE
-[11:23:45] WARN      Semaine 14 : EXAMEN
-[11:23:45] WARN      Semaine 15 : COUPLAGE
-[11:23:45] WARN      Semaine 18 : EXAMEN
-[11:23:45] WARN      Semaine 19 : EXAMEN
-[11:23:45] WARN      Semaine 21 : EXAMEN
-[11:23:45] WARN      Semaine 22 : EXAMEN
-[11:23:45] WARN      Semaine 27 : EXAMEN
-[11:23:45] WARN      Semaine 29 : JOUR_BLOQUE
-[11:23:45] WARN      Semaine 32 : FERMEE
-[11:23:45] WARN      Semaine 33 : FERMEE
-[11:23:45] INFO    Total : 23 semaines neutralisées, 29 actives
+[00:46:29] WARN      Semaine 36 : COUPLAGE
+[00:46:29] WARN      Semaine 45 : COUPLAGE
+[00:46:29] WARN      Semaine 46 : JOUR_BLOQUE
+[00:46:29] WARN      Semaine 50 : EXAMEN
+[00:46:29] WARN      Semaine 52 : JOUR_BLOQUE
+[00:46:29] WARN      Semaine 1 : FERMEE
+[00:46:29] WARN      Semaine 2 : EXAMEN
+[00:46:29] WARN      Semaine 6 : JOUR_BLOQUE
+[00:46:29] WARN      Semaine 9 : COUPLAGE
+[00:46:29] WARN      Semaine 10 : COUPLAGE
+[00:46:29] WARN      Semaine 11 : COUPLAGE
+[00:46:29] WARN      Semaine 12 : COUPLAGE
+[00:46:29] WARN      Semaine 13 : COUPLAGE
+[00:46:29] WARN      Semaine 14 : EXAMEN
+[00:46:29] WARN      Semaine 15 : COUPLAGE
+[00:46:29] WARN      Semaine 18 : EXAMEN
+[00:46:29] WARN      Semaine 19 : EXAMEN
+[00:46:29] WARN      Semaine 21 : EXAMEN
+[00:46:29] WARN      Semaine 22 : EXAMEN
+[00:46:29] WARN      Semaine 27 : EXAMEN
+[00:46:29] WARN      Semaine 29 : JOUR_BLOQUE
+[00:46:29] WARN      Semaine 32 : FERMEE
+[00:46:29] WARN      Semaine 33 : FERMEE
+[00:46:29] INFO    Total : 23 semaines neutralisées, 29 actives
 
 ============================================================
   ÉTAPE 2 — Capacité (roulement + débordement)
 ============================================================
-[11:23:45] INFO    Réductions avant la date   : 595
-[11:23:45] INFO    Débordements après la date : 228
-[11:23:45] INFO    Réductions après la date   : 192
-[11:23:45] OK      Capacité respectée partout
+[00:46:29] INFO    Réductions avant la date   : 595
+[00:46:29] INFO    Débordements après la date : 228
+[00:46:29] INFO    Réductions après la date   : 192
+[00:46:29] OK      Capacité respectée partout
 
 ============================================================
   ÉTAPE 3 — Équité
 ============================================================
-[11:23:45] INFO    Vacations 4/6 par groupe : min=38, max=51, écart=13, moy=45.9
+[00:46:29] INFO    Vacations 4/6 par groupe : min=38, max=51, écart=13, moy=45.9
 
 ============================================================
   ÉTAPE 4 — Export CSV
 ============================================================
-[11:23:46] OK      229 fichiers CSV générés dans 'planning_csv/'
+[00:46:29] OK      229 fichiers CSV générés dans 'planning_csv/'
 
 ============================================================
   ÉTAPE 5 — Rapports
