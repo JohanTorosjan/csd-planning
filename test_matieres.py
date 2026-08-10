@@ -212,8 +212,7 @@ def volet_ecrasement(data):
     for h, n in herites.most_common():
         print(f"     {h:20s}: {n}")
 
-    # une cellule ne peut pas contenir 2 matières annexes (déjà garanti par
-    # le fait qu'on n'écrit que sur '—', mais on revérifie)
+    # (a) une cellule ne peut pas contenir 2 matières annexes
     double = 0
     for code, lignes in data.items():
         for sem, l in lignes.items():
@@ -222,8 +221,53 @@ def volet_ecrasement(data):
                 nb = sum(1 for d in MATIERES.values() if d["motif"] in v)
                 if nb > 1:
                     double += 1
-    print(f"\n  Cellules avec 2 matières annexes (écrasement) : {double}")
-    print(f"  → {'✅ aucun écrasement' if double == 0 else '⚠️ ÉCRASEMENT'}")
+    print(f"\n  (a) Cellules avec 2 matières superposées : {double}")
+
+    # (b) VÉRIFICATION RIGOUREUSE : chaque matière placée à son étape
+    #     (dossier intermédiaire) est-elle intacte dans le dossier final ?
+    #     Détecte un écrasement même si le motif écraseur a « remplacé » le
+    #     texte (cas invisible pour le simple comptage de superposition).
+    print("\n  (b) Intégrité de chaque matière vs son dossier d'étape :")
+    chaine = [
+        ("planning_csv_occluso", "Occluso"),
+        ("planning_csv_odf", "ODF"),
+        ("planning_csv_sterilisation", "Stérilisation"),
+        ("planning_csv_pano", "Pano"),
+        ("planning_csv_radio", "Radio"),
+        ("planning_csv_como", "COMO"),
+        ("planning_csv_paro", "Paro"),
+    ]
+    total_ecrase = 0
+    for dossier, motif in chaine:
+        if not os.path.isdir(dossier):
+            print(f"     {motif:16s}: (dossier d'étape absent, ignoré)")
+            continue
+        src = {}
+        for nom in os.listdir(dossier):
+            if nom.endswith(".csv"):
+                cc = nom[:-4]
+                if ETUDIANTS.get(cc, {}).get("erasmus"):
+                    continue
+                with open(os.path.join(dossier, nom), encoding="utf-8") as f:
+                    src[cc] = {int(l[0]): l for l in csv.reader(f)
+                               if len(l) >= 12 and l[0].isdigit()}
+        placees = 0
+        ecrasees = 0
+        for cc, lignes in src.items():
+            for sem, l in lignes.items():
+                for col in COLONNES:
+                    if motif in l[IDX[col]]:
+                        placees += 1
+                        lf = data.get(cc, {}).get(sem)
+                        if not (lf and motif in lf[IDX[col]]):
+                            ecrasees += 1
+        total_ecrase += ecrasees
+        flag = "" if ecrasees == 0 else "  ⚠️"
+        print(f"     {motif:16s}: {placees} placées, "
+              f"{ecrasees} écrasées{flag}")
+
+    ok = (double == 0 and total_ecrase == 0)
+    print(f"\n  → {'✅ aucun écrasement (ni superposition ni destruction)' if ok else '⚠️ ÉCRASEMENT DÉTECTÉ'}")
 
 
 # ------------------------------------------------------------
@@ -349,6 +393,68 @@ def volet_etalement(data):
 
 
 # ------------------------------------------------------------
+#  Volet 5 : couverture par promo (chaque promo a-t-elle ses matières ?)
+# ------------------------------------------------------------
+
+# ce que chaque promo doit avoir (motif → cible indicative), et si la
+# couverture 100% est requise (True) ou partielle acceptée (False, ex renfort)
+ATTENDU_PROMO = {
+    4: [("Occluso", "~4", True), ("Stérilisation", "~3", True),
+        ("Radio", "6-9", True), ("COMO", "6-8", True), ("Paro", "6-8", True)],
+    5: [("ODF", "4/an", True), ("Stérilisation", "~2", True),
+        ("Pano", "renfort", False), ("Radio", "6-8", True),
+        ("COMO", "6-8", True), ("Paro", "6-8", True)],
+    6: [("Stérilisation", "~1", True), ("Pano", "~3", True),
+        ("Radio", "1 attest.", True), ("COMO", "6-8", True),
+        ("Paro", "6-8", True)],
+}
+INTERDIT_PROMO = {4: ["ODF", "Pano"], 5: ["Occluso"], 6: ["Occluso", "ODF"]}
+
+
+def volet_couverture(data):
+    print("\n" + "=" * 70)
+    print("  VOLET 5 — COUVERTURE PAR PROMO (bonnes matières, bonnes proportions)")
+    print("=" * 70)
+
+    motifs = ["Occluso", "ODF", "Stérilisation", "Pano", "Radio",
+              "COMO", "Paro"]
+    compte = {}
+    for code, lignes in data.items():
+        c = {m: 0 for m in motifs}
+        for sem, l in lignes.items():
+            for col in COLONNES:
+                v = l[IDX[col]]
+                for m in motifs:
+                    if m in v:
+                        c[m] += 1
+        compte[code] = c
+
+    for promo in (4, 5, 6):
+        codes = [c for c, i in ETUDIANTS.items()
+                 if i.get("annee") == promo and not i.get("erasmus")
+                 and c in data]
+        print(f"\n  ── PROMO {promo}A ({len(codes)} étudiants) ──")
+        print("     Matières attendues :")
+        for motif, cible, requis_100 in ATTENDU_PROMO[promo]:
+            vals = [compte[c][motif] for c in codes]
+            avec = sum(1 for v in vals if v > 0)
+            pct = 100 * avec / len(codes)
+            if requis_100:
+                mark = "✅" if pct == 100 else "⚠️"
+            else:
+                mark = "○"     # couverture partielle attendue (renfort)
+            print(f"        {mark} {motif:14s}: {avec}/{len(codes)} "
+                  f"({pct:.0f}%)  moy={statistics.mean(vals):.1f} "
+                  f"[{min(vals)}-{max(vals)}]  cible {cible}")
+        print("     Matières interdites :")
+        for motif in INTERDIT_PROMO[promo]:
+            total = sum(compte[c][motif] for c in codes)
+            mark = "✅" if total == 0 else "⚠️"
+            print(f"        {mark} {motif:14s}: "
+                  f"{'absente' if total == 0 else str(total) + ' PRÉSENTE !'}")
+
+
+# ------------------------------------------------------------
 
 def main():
     global DOSSIER
@@ -377,6 +483,7 @@ def main():
     volet_contraintes(data)
     volet_parcours(data, rng)
     volet_etalement(data)
+    volet_couverture(data)
 
     print("\n" + "#" * 70)
     print("  FIN DE LA VALIDATION")

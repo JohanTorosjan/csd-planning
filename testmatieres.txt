@@ -21,8 +21,18 @@
      Pédo                : 4461
      SS                  : 1112
 
-  Cellules avec 2 matières annexes (écrasement) : 0
-  → ✅ aucun écrasement
+  (a) Cellules avec 2 matières superposées : 0
+
+  (b) Intégrité de chaque matière vs son dossier d'étape :
+     Occluso         : 360 placées, 0 écrasées
+     ODF             : 315 placées, 0 écrasées
+     Stérilisation   : 369 placées, 0 écrasées
+     Pano            : 217 placées, 0 écrasées
+     Radio           : 1401 placées, 0 écrasées
+     COMO            : 888 placées, 0 écrasées
+     Paro            : 1332 placées, 0 écrasées
+
+  → ✅ aucun écrasement (ni superposition ni destruction)
 
 ======================================================================
   VOLET 2 — CONTRAINTES PAR MATIÈRE
@@ -69,37 +79,38 @@
 
   ── PROMO 4A ──
 
-     4508 (Transf_horsUE 2) — 22 vacations annexes
-        Radio:8  Paro:5  Occluso:4  COMO:3  Stérilisation:2
-        s42marM·Paro  s43merA·Radi  s46lunM·Occl  s46venM·Radi  s49lunA·COMO  s50lunA·Radi  s50merM·Paro  s2marM·Occl  s3lunM·Radi  s5jeuM·Paro  s5lunM·Stér  s7lunM·Radi  s9merM·COMO  s11jeuM·Paro  s11merM·Radi  s12jeuM·Occl
-        … (+6 autres)
+     4316 (LAVERSIN Mathieu) — 23 vacations annexes
+        Radio:8  Paro:6  Occluso:4  COMO:3  Stérilisation:2
+        s39marM·Paro  s41marM·Occl  s42lunA·Radi  s43lunA·COMO  s45jeuA·Radi  s46lunA·Paro  s49lunM·Radi  s49venM·Occl  s51jeuA·Stér  s52jeuM·Paro  s52marA·Radi  s4venA·COMO  s6lunM·Radi  s7jeuM·Occl  s7venA·Paro  s10marA·Radi
+        … (+7 autres)
 
-     4306 (PLANTON Camille) — 24 vacations annexes
-        Radio:8  Paro:6  Occluso:4  COMO:3  Stérilisation:3
-        s39venA·Paro  s41venA·Radi  s42jeuM·Occl  s44venA·COMO  s45jeuA·Radi  s47lunA·Paro  s49lunM·Radi  s50marA·Stér  s50venM·Occl  s52marM·Radi  s3marA·Paro  s5venA·Radi  s6lunM·COMO  s8jeuM·Occl  s9merM·Paro  s10marA·Radi
-        … (+8 autres)
+     4210 (BOUCARD Louise) — 26 vacations annexes
+        Radio:9  Paro:6  Occluso:4  COMO:4  Stérilisation:3
+        s39lunA·Paro  s40jeuM·Occl  s41lunA·Radi  s41merA·COMO  s44venA·Radi  s45lunA·Paro  s48lunA·Radi  s48merM·Stér  s49jeuM·Occl  s51jeuM·Radi  s51lunA·Paro  s3lunM·COMO  s4lunA·Radi  s6jeuA·Paro  s7lunM·Occl  s8lunA·Radi
+        … (+10 autres)
 
   ── PROMO 5A ──
 
-     5309 (LAUVERGNE Marie) — 25 vacations annexes
-        Radio:8  Paro:7  COMO:5  ODF:4  Stérilisation:1
-        s36marA·Radi  s36marM·COMO  s36merM·Paro  s38marA·ODF  s41marA·Radi  s41venA·Paro  s42lunM·COMO  s46venA·ODF  s47marM·Radi  s48marM·Stér  s48venM·Paro  s3lunM·COMO  s3marA·Radi  s4marM·Paro  s8lunM·Radi  s10marA·ODF
-        … (+9 autres)
+     5515 (SEMPLICI BEME Louis) — 21 vacations annexes
+        Radio:7  Paro:6  ODF:4  COMO:3  Stérilisation:1
+        s39jeuA·Radi  s40jeuA·Paro  s43marA·ODF  s44jeuA·Radi  s44merM·COMO  s47marM·Paro  s50jeuA·Radi  s52merM·ODF  s2merA·Paro  s2merM·COMO  s4jeuA·Radi  s8merM·Paro  s9merA·Radi  s13merA·ODF  s14jeuM·Radi  s14merA·Stér
+        … (+5 autres)
 
-     5216 (EE2_GOUDEZEUNE Mathieu) — 22 vacations annexes
-        Radio:7  Paro:6  COMO:4  ODF:4  Stérilisation:1
-        s36venM·Radi  s37venA·Paro  s37venM·COMO  s40merM·ODF  s41venM·Radi  s44venM·Paro  s47venA·COMO  s48venA·Radi  s50venA·ODF  s51marA·Paro  s2jeuA·Stér  s3venM·Radi  s8jeuA·Radi  s9jeuM·Paro  s9marA·ODF  s9venA·COMO
-        … (+6 autres)
+     5505 (IMRANI_Imad) — 23 vacations annexes
+        Radio:8  Paro:6  COMO:4  ODF:4  Stérilisation:1
+        s37jeuA·Paro  s38jeuA·Radi  s41venA·COMO  s42marA·ODF  s43jeuA·Radi  s44marA·Paro  s47merA·Radi  s49merA·ODF  s50marM·Paro  s50merA·COMO  s2merM·Radi  s7marM·Radi  s7merM·Paro  s9merA·ODF  s11marM·Radi  s11merA·COMO
+        … (+7 autres)
 
   ── PROMO 6A ──
 
-     6108 (LOUTER_Maroua) — 15 vacations annexes
-        COMO:5  Paro:5  Pano/CBCT:3  Radio:1  Stérilisation:1
-        s37merA·COMO  s37merM·Radi  s37venA·Stér  s38merM·Pano  s38venA·Paro  s44marM·Paro  s45marA·COMO  s48jeuM·Paro  s48marA·Pano  s50venA·COMO  s9jeuM·Paro  s9venA·Pano  s10venA·COMO  s12merA·Paro  s15merA·COMO
+     6215 (BERRUEZO_Valentine) — 14 vacations annexes
+        Paro:5  COMO:4  Pano/CBCT:3  Radio:1  Stérilisation:1
+        s38lunA·Radi  s40jeuA·Paro  s40jeuM·Stér  s40venM·COMO  s42marA·Pano  s45venM·Paro  s46venA·COMO  s49venM·Paro  s51lunA·Pano  s9marM·COMO  s9venM·Paro  s12jeuA·Pano  s12venM·Paro  s13marM·COMO
 
-     6506 (GOUJILI_Othmane) — 15 vacations annexes
-        Paro:6  COMO:4  Pano/CBCT:3  Radio:1  Stérilisation:1
-        s39merA·Radi  s43marM·Paro  s44marA·COMO  s44merM·Stér  s2jeuA·Pano  s2marM·Paro  s2venA·COMO  s3jeuM·Paro  s6venA·COMO  s7lunA·Paro  s8merA·Pano  s16venA·Paro  s18marA·COMO  s20marA·Paro  s20merA·Pano
+     6309 (PULLARA_Zoé) — 18 vacations annexes
+        Paro:7  COMO:5  Pano/CBCT:4  Radio:1  Stérilisation:1
+        s38merA·Radi  s40venM·Paro  s41marA·Stér  s41merA·COMO  s43jeuA·Pano  s46marM·Paro  s47marA·COMO  s50venA·Paro  s51jeuA·Pano  s9lunA·COMO  s9marA·Paro  s11jeuA·Paro  s13lunM·COMO  s13marA·Pano  s15venA·Paro  s20venM·COMO
+        … (+2 autres)
 
 ======================================================================
   VOLET 4 — ÉTALEMENT (écart moyen entre 2 vacations)
@@ -134,6 +145,43 @@
      4A : 84 étud, moy 5.7 vac/étud, écart moyen 6.8 sem
      5A : 77 étud, moy 5.9 vac/étud, écart moyen 6.9 sem
      6A : 65 étud, moy 6.1 vac/étud, écart moyen 5.7 sem
+
+======================================================================
+  VOLET 5 — COUVERTURE PAR PROMO (bonnes matières, bonnes proportions)
+======================================================================
+
+  ── PROMO 4A (84 étudiants) ──
+     Matières attendues :
+        ✅ Occluso       : 84/84 (100%)  moy=4.3 [4-5]  cible ~4
+        ✅ Stérilisation : 84/84 (100%)  moy=2.5 [2-3]  cible ~3
+        ✅ Radio         : 84/84 (100%)  moy=8.5 [8-9]  cible 6-9
+        ✅ COMO          : 84/84 (100%)  moy=3.3 [3-4]  cible 6-8
+        ✅ Paro          : 84/84 (100%)  moy=5.7 [5-6]  cible 6-8
+     Matières interdites :
+        ✅ ODF           : absente
+        ✅ Pano          : absente
+
+  ── PROMO 5A (77 étudiants) ──
+     Matières attendues :
+        ✅ ODF           : 77/77 (100%)  moy=4.1 [4-6]  cible 4/an
+        ✅ Stérilisation : 77/77 (100%)  moy=1.1 [1-2]  cible ~2
+        ○ Pano          : 14/77 (18%)  moy=0.2 [0-1]  cible renfort
+        ✅ Radio         : 77/77 (100%)  moy=7.8 [7-8]  cible 6-8
+        ✅ COMO          : 77/77 (100%)  moy=3.9 [3-5]  cible 6-8
+        ✅ Paro          : 77/77 (100%)  moy=5.9 [5-7]  cible 6-8
+     Matières interdites :
+        ✅ Occluso       : absente
+
+  ── PROMO 6A (65 étudiants) ──
+     Matières attendues :
+        ✅ Stérilisation : 65/65 (100%)  moy=1.1 [1-2]  cible ~1
+        ✅ Pano          : 65/65 (100%)  moy=3.1 [2-4]  cible ~3
+        ✅ Radio         : 65/65 (100%)  moy=1.3 [1-2]  cible 1 attest.
+        ✅ COMO          : 65/65 (100%)  moy=4.7 [4-5]  cible 6-8
+        ✅ Paro          : 65/65 (100%)  moy=6.1 [5-7]  cible 6-8
+     Matières interdites :
+        ✅ Occluso       : absente
+        ✅ ODF           : absente
 
 ######################################################################
   FIN DE LA VALIDATION
