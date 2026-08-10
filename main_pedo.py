@@ -20,6 +20,7 @@
 import os
 import sys
 import time
+import inspect
 
 import pedo_export
 import pedo_6a
@@ -38,6 +39,27 @@ ETAPES = [
     ("Remplissage des trous (pedo_remplissage)", pedo_remplissage),
     ("Rattrapage périodes 5-6 (pedo_periode_56)", pedo_periode_56),
 ]
+
+
+def _appeler_main(module, export):
+    """Appelle module.main() en s'adaptant à sa signature.
+    Certains modules ont main(export=None), d'autres juste main() (et
+    lisent sys.argv). On gère les deux, et on positionne --export dans
+    sys.argv pour les modules qui n'acceptent pas le paramètre."""
+    fn = module.main
+    params = inspect.signature(fn).parameters
+    if "export" in params:
+        fn(export=export)
+        return
+    # module à l'ancienne : il lit sys.argv. On force --export si besoin.
+    avait = "--export" in sys.argv
+    if export and not avait:
+        sys.argv.append("--export")
+    try:
+        fn()
+    finally:
+        if export and not avait:
+            sys.argv.remove("--export")
 
 
 def _titre(txt):
@@ -79,7 +101,7 @@ def executer(export=True):
     for i, (libelle, module) in enumerate(ETAPES, start=1):
         _etape(i, total, libelle)
         t0 = time.time()
-        module.main(export=export)
+        _appeler_main(module, export)
         print(f"\n  ⏱  Étape terminée en {time.time() - t0:.1f}s")
 
     duree = time.time() - debut

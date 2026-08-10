@@ -45,17 +45,17 @@ Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi 
 19,5,Poly 6A seul (examen),Poly 6A seul (examen),—,—,COMO,—,cours/indispo promo (F),cours/indispo promo (F),—,—
 20,5,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),—,—,—,—,—,—,—,—
 21,5,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4111 (examen),Poly 4/6 avec 4111 (examen),Urgences (6/4),—,—,—,—,—
-22,5,Poly 4/6 avec 4111 (examen),Poly 4/6 avec 4111 (examen),—,Pano/CBCT,—,—,—,Urgences (6/5/4),—,—
+22,5,Poly 4/6 avec 4111 (examen),Poly 4/6 avec 4111 (examen),—,Pano/CBCT,Urgences (6/5/4),—,—,—,—,—
 23,5,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),—,—,—,—,—,—,—,—
 24,5,Poly 4/6 avec 4111,—,—,—,—,—,—,—,—,—
-25,5,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,—,—,—,—,—,—
-26,5,Poly 4/6 avec 4111,Urgences (6/4),Poly 4/6 avec 4111,—,—,—,—,—,—,—
+25,5,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,—,—,—,—,Urgences (6/4),—
+26,5,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,—,—,—,—,—,—
 27,5,Poly 4/6 avec 4111 (examen),Poly 4/6 avec 4111 (examen),—,—,—,—,—,—,—,—
-28,6,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,Urgences (6/4),—,—,—,—,—
+28,6,Poly 4/6 avec 4111,Urgences (6/4),Poly 4/6 avec 4111,—,—,—,—,—,—,—
 29,6,Poly 4/6 avec 4111 (rattrap),—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
-30,6,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,—,—,—,—,—,—
-31,6,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),Urgences (6/5/4),—,—,—,—,—,—,—
+30,6,Poly 4/6 avec 4111,—,Poly 4/6 avec 4111,—,Urgences (6/4),—,—,—,—,—
+31,6,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),—,—,—,—,—,—,—,—
 32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
 33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
-34,6,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),—,—,—,—,—,—,—,—
-35,6,Poly 4/6 avec 4111,—,—,—,Urgences (6/4),—,—,—,—,—
+34,6,Poly 4/6 avec 4111,Poly 4/6 avec 4111 (débord),—,—,—,—,—,—,Urgences (6/4),—
+35,6,Poly 4/6 avec 4111,—,—,—,—,—,—,—,—,—

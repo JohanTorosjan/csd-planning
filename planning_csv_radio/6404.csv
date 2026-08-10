@@ -41,18 +41,18 @@ Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi 
 15,4,R,R,R,R,R,R,R,R,R,R
 16,4,Pédo-soin (PEDO-6A-B-lunM) [remplissage],—,Urgences (6/5/4),Urgences (6/4),Pano/CBCT,Urgences (6/5/4),Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,Urgences (6/4)
 17,4,—,Urgences (6/5/4),Urgences (6/4),—,Urgences (6/5/4),Urgences (6/4),Poly 4/6 avec 4404,Urgences (6/5/4),Poly 4/6 avec 4404,—
-18,5,Pédo-soin (PEDO-56-lunM),Urgences (6/4),—,—,Urgences (6/4),—,Poly 4/6 avec 4404,Urgences (6/4),Poly 4/6 avec 4404,—
-19,5,Pédo-soin (PEDO-56-lunM),—,—,—,Poly 6A seul (examen),Urgences (6/5),cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4404,—
-20,5,Pédo-soin (PEDO-56-lunM),—,—,—,—,—,Poly 4/6 avec 4404,Pano/CBCT,Poly 4/6 avec 4404,Urgences (6/5/4)
-21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—,Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
-22,5,Pédo-soin (PEDO-56-lunM),Poly 4/6 avec 4404 (examen),Urgences (6/4),—,—,—,Poly 4/6 avec 4404,—,—,—
-23,5,Pédo-soin (PEDO-56-lunM),—,—,—,—,—,Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
-24,5,Pédo-soin (PEDO-56-lunM),—,—,—,—,—,Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,Urgences (6/4)
-25,5,Pédo-soin (PEDO-56-lunM),—,—,—,—,—,Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
-26,5,Pédo-soin (PEDO-56-lunM),—,—,—,—,—,Poly 4/6 avec 4404,—,—,—
-27,5,Pédo-soin (PEDO-56-lunM),—,Urgences (6/4),—,—,—,Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
-28,6,Pédo-soin (PEDO-56-lunM),—,—,—,—,—,Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
-29,6,Pédo-soin (PEDO-56-lunM),—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4404 (rattrap),Poly 4/6 avec 4404 (rattrap),—,—
+18,5,Urgences (6/4),—,—,Urgences (6/4),—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 4404,Urgences (6/4),Poly 4/6 avec 4404,—
+19,5,—,—,—,—,Poly 6A seul (examen),Pédo-soin (PEDO-56-merAM),cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4404,—
+20,5,Urgences (6/5/4),—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 4404,Pano/CBCT,Poly 4/6 avec 4404,Urgences (6/5/4)
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
+22,5,Urgences (6/4),Poly 4/6 avec 4404 (examen),—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 4404,—,—,—
+23,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
+24,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,Urgences (6/4)
+25,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
+26,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 4404,—,—,—
+27,5,—,—,Urgences (6/4),—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
+28,6,—,—,—,—,—,—,Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4404 (rattrap),Poly 4/6 avec 4404 (rattrap),—,—
 30,6,Urgences (6/5/4),—,—,—,—,—,Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
 31,6,—,—,—,—,—,—,Poly 4/6 avec 4404,—,Poly 4/6 avec 4404,—
 32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé

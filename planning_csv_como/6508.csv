@@ -41,21 +41,21 @@ Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi 
 15,4,S,S,S,S,S,S,S,S,S,S
 16,4,Pédo-soin (PEDO-6A-B-lunM) [remplissage],—,—,—,—,—,Urgences (6/4),—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
 17,4,—,—,—,—,—,—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
-18,5,Urgences (6/4),—,—,—,Pédo-soin (PEDO-56-merM),—,Urgences (6/5/4),Pano/CBCT,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
-19,5,—,Poly 6A seul (examen),COMO,—,Pédo-soin (PEDO-56-merM),—,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4510+4511,—
-20,5,Urgences (6/5/4),—,—,—,Pédo-soin (PEDO-56-merM),—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
-21,5,cours/indispo promo (F),cours/indispo promo (F),Urgences (6/4),—,Pédo-soin (PEDO-56-merM),—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
-22,5,—,Urgences (6/4),—,—,Pédo-soin (PEDO-56-merM),—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
+18,5,Urgences (6/4),—,—,—,—,Pédo-soin (PEDO-56-merAM),Urgences (6/5/4),Pano/CBCT,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
+19,5,—,Poly 6A seul (examen),COMO,—,—,Pédo-soin (PEDO-56-merAM),cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4510+4511,—
+20,5,Urgences (6/5/4),—,—,—,—,Pédo-soin (PEDO-56-merAM),—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
+21,5,cours/indispo promo (F),cours/indispo promo (F),Urgences (6/4),—,—,Pédo-soin (PEDO-56-merAM),—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
+22,5,—,Urgences (6/4),—,—,—,—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
 23,5,—,—,—,—,—,—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
-24,5,—,—,—,—,Pédo-soin (PEDO-56-merM),—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
+24,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
 25,5,—,—,—,—,—,—,—,Urgences (6/5/4),Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
-26,5,—,—,—,—,Pédo-soin (PEDO-56-merM),—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
+26,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
 27,5,—,—,—,—,—,—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
-28,6,Urgences (6/5/4),—,—,—,Pédo-soin (PEDO-56-merM),—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
+28,6,Urgences (6/5/4),—,—,—,—,Pédo-soin (PEDO-56-merAM),—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
 29,6,Poly trinome avec 4510+4511 (rattrap),Poly trinome avec 4510+4511 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
 30,6,—,—,—,—,Urgences (6/4),—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
-31,6,—,—,—,—,Pédo-soin (PEDO-56-merM),—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
+31,6,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
 32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
 33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
 34,6,—,—,—,—,—,—,—,—,Poly trinome avec 4510+4511,Poly trinome avec 4510+4511 (débord)
-35,6,Urgences (6/5/4),—,—,—,—,—,—,—,Poly trinome avec 4510+4511,—
+35,6,Urgences (6/5/4),—,—,—,—,Pédo-soin (PEDO-56-merAM),—,—,Poly trinome avec 4510+4511,—
