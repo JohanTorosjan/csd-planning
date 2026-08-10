@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,5404
+Année,5A
+Type,4
+Groupe,G4_55_02
+Vacations Poly (total),94
+Détail,normal:70 examen:3 rattrap:21 débord:0
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,—,—,—,Urgences (5),—,Pédo-soin (PEDO-A3) [remplissage],Poly 5/5 avec 5403 (rattrap),Poly 5/5 avec 5403 (rattrap),—,—
+37,1,Urgences (5),cours/indispo promo (C),cours/indispo promo (C),—,—,ODF,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,—
+38,1,Radio,cours/indispo promo (C),cours/indispo promo (C),—,—,Urgences (5),cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,—
+39,1,COMO,cours/indispo promo (C),cours/indispo promo (C),—,—,—,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,—
+40,1,Urgences (6/5),cours/indispo promo (C),cours/indispo promo (C),—,—,—,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,—
+41,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,—,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,—
+42,1,Urgences (6/5),cours/indispo promo (C),cours/indispo promo (C),—,—,—,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,—
+43,1,Radio,cours/indispo promo (C),cours/indispo promo (C),—,—,—,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,—
+44,1,Urgences (6/5),cours/indispo promo (C),cours/indispo promo (C),—,—,—,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,—
+45,2,—,cours/indispo promo (C),—,ODF,cours/indispo promo (C),Stérilisation,—,—,Poly 5/5 avec 5403 (rattrap),Poly 5/5 avec 5403 (rattrap)
+46,2,Urgences (5),cours/indispo promo (C),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,Poly 5/5 avec 5403 (rattrap),Poly 5/5 avec 5403 (rattrap)
+47,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Pédo-soin (PEDO-A1) [remplissage],—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+48,2,Urgences (6/5/4),cours/indispo promo (C),—,—,cours/indispo promo (C),Radio,—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+49,2,COMO,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+50,2,—,cours/indispo promo (C),—,Urgences (5),cours/indispo promo (C),—,—,—,—,Poly 5/5 avec 5403
+51,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+52,2,—,Urgences (5),—,—,—,—,Poly 5/5 avec 5403 (rattrap),cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),—,Radio,Poly 5/5 avec 5403 (examen),Poly 5/5 avec 5403 (examen),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,Urgences (6/5),—,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,cours/indispo promo (C)
+4,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,ODF,—,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,cours/indispo promo (C)
+5,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,—,Urgences (6/5/4),cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,cours/indispo promo (C)
+6,3,cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (Af),cours/indispo promo (Af)
+7,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),Radio,—,COMO,—,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,cours/indispo promo (C)
+8,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,—,—,cours/indispo promo (C),Poly 5/5 avec 5403,Poly 5/5 avec 5403,cours/indispo promo (C)
+9,4,cours/indispo promo (C),cours/indispo promo (C),Urgences (6/5),—,cours/indispo promo (C),—,Pédo-soin (PEDO-B1),Poly 5/5 avec 5403 (rattrap),Poly 5/5 avec 5403 (rattrap),—
+10,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),—,Pédo-soin (PEDO-B1),Poly 5/5 avec 5403 (rattrap),Poly 5/5 avec 5403 (rattrap),—
+11,4,cours/indispo promo (C),cours/indispo promo (C),Urgences (6/5),—,cours/indispo promo (C),Radio,Pédo-soin (PEDO-B1),Poly 5/5 avec 5403 (rattrap),Poly 5/5 avec 5403 (rattrap),—
+12,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),—,Pédo-soin (PEDO-B1),Poly 5/5 avec 5403 (rattrap),Poly 5/5 avec 5403 (rattrap),—
+13,4,cours/indispo promo (C),cours/indispo promo (C),—,Urgences (5),cours/indispo promo (C),—,Pédo-soin (PEDO-B1),Poly 5/5 avec 5403 (rattrap),Poly 5/5 avec 5403 (rattrap),—
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (C),—,Pédo-soin (PEDO-B1),Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+15,4,cours/indispo promo (C),cours/indispo promo (C),—,Radio,cours/indispo promo (C),—,Pédo-soin (PEDO-B1),Urgences (5),Poly 5/5 avec 5403 (rattrap),Poly 5/5 avec 5403 (rattrap)
+16,4,—,ODF,—,—,—,—,Pédo-soin (PEDO-B1),Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+17,4,—,—,—,Urgences (5),—,COMO,Pédo-soin (PEDO-B1),Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+18,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+19,5,—,—,—,Urgences (6/5),—,Poly 5/5 avec 5403 (examen),cours/indispo promo (F),cours/indispo promo (F),—,Poly 5/5 avec 5403
+20,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Radio,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+21,5,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (E),cours/indispo promo (E),—,Pédo-soin (PEDO-56-merAM),Urgences (6/5/4),Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+22,5,cours/indispo promo (E),cours/indispo promo (E),—,—,—,Pédo-soin (PEDO-56-merAM),—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+23,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Urgences (6/5/4),Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+24,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+25,5,—,—,—,Urgences (5),—,Pédo-soin (PEDO-56-merAM),—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+26,5,—,—,—,—,—,—,—,Poly 5/5 avec 5403,Urgences (5),Poly 5/5 avec 5403
+27,5,cours/indispo promo (E),cours/indispo promo (E),—,—,—,Pédo-soin (PEDO-56-merAM),—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+28,6,—,—,—,—,—,Urgences (5),—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,Poly 5/5 avec 5403 (rattrap),Poly 5/5 avec 5403 (rattrap)
+30,6,—,—,—,Urgences (6/5/4),—,Pédo-soin (PEDO-56-merAM),—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+31,6,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Urgences (5),—,—,—,—,—,—,Poly 5/5 avec 5403,—,Poly 5/5 avec 5403
+35,6,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Urgences (6/5/4),Poly 5/5 avec 5403,—,Poly 5/5 avec 5403

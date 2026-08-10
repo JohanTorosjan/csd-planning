@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,4407
+Année,4A
+Type,4
+Groupe,G4_05
+Vacations Poly (total),77
+Détail,normal:61 examen:1 rattrap:15 débord:0
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly trinome avec 4406+6406,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4406+6406
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Pédo-soin (PEDO-A2),—,Poly trinome avec 4406+6406,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,cours/indispo promo (C),Urgences (6/4),—,cours/indispo promo (C),—,—,Poly trinome avec 4406+6406,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4406+6406
+40,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly trinome avec 4406+6406,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4406+6406
+41,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly trinome avec 4406+6406,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4406+6406
+42,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly trinome avec 4406+6406,cours/indispo promo (C),cours/indispo promo (C),Urgences (6/5/4)
+43,1,cours/indispo promo (C),—,Occluso,cours/indispo promo (C),—,—,Poly trinome avec 4406+6406,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4406+6406
+44,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly trinome avec 4406+6406,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4406+6406
+45,2,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4406+6406 (rattrap),Poly trinome avec 4406+6406 (rattrap),cours/indispo promo (C),cours/indispo promo (C)
+46,2,—,—,cours/indispo promo (C),—,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4406+6406 (rattrap),Poly trinome avec 4406+6406 (rattrap),—,cours/indispo promo (C)
+47,2,Urgences (6/4),—,cours/indispo promo (C),—,Pédo-soin (PEDO-6A-A-merM),cours/indispo promo (C),Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,cours/indispo promo (C)
+48,2,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4406+6406,—,—,cours/indispo promo (C)
+49,2,—,—,cours/indispo promo (C),—,Pédo-soin (PEDO-6A-A-merM),cours/indispo promo (C),Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,cours/indispo promo (C)
+50,2,—,—,cours/indispo promo (C),—,Urgences (4),—,—,Poly 6A absent avec 4406 (examen),Poly trinome avec 4406+6406,cours/indispo promo (C)
+51,2,Occluso,—,cours/indispo promo (C),—,—,—,Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,cours/indispo promo (C)
+52,2,—,—,—,—,Pédo-soin (PEDO-6A-A-merM),—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,Urgences (6/4),—,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,Service sanitaire (SS-P3G1),Service sanitaire (SS-P3G1),cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 6A absent avec 4406,—,cours/indispo promo (C),Poly 6A absent avec 4406
+4,3,Service sanitaire (SS-P3G1),Service sanitaire (SS-P3G1),cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 6A absent avec 4406,—,cours/indispo promo (C),—
+5,3,Service sanitaire (SS-P3G1),Service sanitaire (SS-P3G1),cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 6A absent avec 4406,Urgences (6/4),cours/indispo promo (C),Poly 6A absent avec 4406
+6,3,Service sanitaire (SS-P3G1),Service sanitaire (SS-P3G1),cours/indispo promo (C),—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),Poly 6A absent avec 4406 (rattrap)
+7,3,Service sanitaire (SS-P3G1),Service sanitaire (SS-P3G1),cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 6A absent avec 4406,—,cours/indispo promo (C),Poly 6A absent avec 4406
+8,3,Service sanitaire (SS-P3G1),Service sanitaire (SS-P3G1),cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 6A absent avec 4406,Urgences (6/5/4),cours/indispo promo (C),Poly 6A absent avec 4406
+9,4,Service sanitaire (SS-P3G1),Service sanitaire (SS-P3G1),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4406+6406 (rattrap),—,cours/indispo promo (C),Poly trinome avec 4406+6406 (rattrap)
+10,4,Occluso,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4406+6406 (rattrap),—,cours/indispo promo (C),—
+11,4,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4406+6406 (rattrap),—,cours/indispo promo (C),Poly trinome avec 4406+6406 (rattrap)
+12,4,Urgences (6/4),—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4406+6406 (rattrap),—,cours/indispo promo (C),—
+13,4,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4406+6406 (rattrap)
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4406+6406,—,cours/indispo promo (C),—
+15,4,—,Urgences (6/4),cours/indispo promo (C),cours/indispo promo (C),—,Pédo-soin (PEDO-B3),Poly trinome avec 4406+6406 (rattrap),Poly trinome avec 4406+6406 (rattrap),cours/indispo promo (C),—
+16,4,—,—,—,—,—,—,Poly 6A absent avec 4406,—,Poly 6A absent avec 4406,—
+17,4,—,—,—,—,—,—,Poly 6A absent avec 4406,—,Poly 6A absent avec 4406,—
+18,5,—,—,Urgences (6/4),—,Pédo-soin (PEDO-56-merM),—,Poly 6A absent avec 4406,—,Poly 6A absent avec 4406,—
+19,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (F),cours/indispo promo (F),Poly 6A absent avec 4406,—
+20,5,Occluso,—,—,—,Pédo-soin (PEDO-56-merM),—,Poly 6A absent avec 4406,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,Pédo-soin (PEDO-56-merM),—,Poly 6A absent avec 4406,—,Poly 6A absent avec 4406,Urgences (6/5/4)
+22,5,—,—,—,—,Pédo-soin (PEDO-56-merM),—,Poly 6A absent avec 4406,—,—,—
+23,5,—,—,—,—,—,—,Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,—
+24,5,—,—,—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,Urgences (6/4)
+25,5,—,—,—,—,—,—,Poly trinome avec 4406+6406,—,—,—
+26,5,—,—,—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,—
+27,5,—,—,—,—,—,—,Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,—
+28,6,Urgences (6/5/4),—,—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4406+6406 (rattrap),—,—,—
+30,6,—,—,—,—,—,—,Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,—
+31,6,—,—,—,Urgences (6/4),Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4406+6406,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,—,—,Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,—
+35,6,—,—,—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4406+6406,—,Poly trinome avec 4406+6406,—

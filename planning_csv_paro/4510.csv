@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,4510
+Année,4A
+Type,5
+Groupe,G5_06
+Vacations Poly (total),76
+Détail,normal:45 examen:2 rattrap:14 débord:15
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A)
+37,1,cours/indispo promo (C),Poly trinome avec 6508+4511,—,cours/indispo promo (C),—,—,Urgences (6/4),cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 6508+4511
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 6508+4511
+39,1,cours/indispo promo (C),Poly trinome avec 6508+4511,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 6508+4511
+40,1,cours/indispo promo (C),Poly trinome avec 6508+4511,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 6508+4511
+41,1,cours/indispo promo (C),Urgences (6/4),—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 6508+4511
+42,1,cours/indispo promo (C),Poly trinome avec 6508+4511,—,cours/indispo promo (C),Paro,—,—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 6508+4511
+43,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Radio,—,Pédo-soin (PEDO-6A-A-jeuM),cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 6508+4511
+44,1,cours/indispo promo (C),Poly trinome avec 6508+4511,—,cours/indispo promo (C),—,—,Urgences (6/4),cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 6508+4511
+45,2,Poly trinome avec 6508+4511 (rattrap),Poly trinome avec 6508+4511 (rattrap),cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),cours/indispo promo (C)
+46,2,—,Poly trinome avec 6508+4511 (rattrap),cours/indispo promo (C),—,cours/indispo promo (F),cours/indispo promo (F),Occluso,—,Radio,cours/indispo promo (C)
+47,2,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Pédo-soin (PEDO-A3),—,Poly trinome avec 6508+4511,cours/indispo promo (C)
+48,2,—,Poly trinome avec 6508+4511,cours/indispo promo (C),—,Urgences (6/4),cours/indispo promo (C),Paro,—,Poly trinome avec 6508+4511,cours/indispo promo (C)
+49,2,—,Poly trinome avec 6508+4511,cours/indispo promo (C),COMO,—,cours/indispo promo (C),Pédo-soin (PEDO-A3),—,Poly trinome avec 6508+4511,cours/indispo promo (C)
+50,2,Radio,—,cours/indispo promo (C),—,—,—,—,—,Poly trinome avec 6508+4511,cours/indispo promo (C)
+51,2,—,Urgences (6/4),cours/indispo promo (C),—,—,—,Pédo-soin (PEDO-A3),—,Poly trinome avec 6508+4511,cours/indispo promo (C)
+52,2,—,Poly trinome avec 6508+4511 (rattrap),—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,Poly trinome avec 6508+4511 (examen),Poly trinome avec 6508+4511 (examen),Occluso,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,Radio,Poly trinome avec 6508+4511,cours/indispo promo (C),Service sanitaire (SS-P3G2),cours/indispo promo (C),—,—,Service sanitaire (SS-P3G2),cours/indispo promo (C),Poly trinome avec 6508+4511
+4,3,—,Urgences (6/4),cours/indispo promo (C),Service sanitaire (SS-P3G2),cours/indispo promo (C),—,Paro,Service sanitaire (SS-P3G2),cours/indispo promo (C),Poly trinome avec 6508+4511
+5,3,—,Poly trinome avec 6508+4511,cours/indispo promo (C),Service sanitaire (SS-P3G2),cours/indispo promo (C),—,—,Service sanitaire (SS-P3G2),cours/indispo promo (C),Poly trinome avec 6508+4511
+6,3,—,Poly trinome avec 6508+4511 (rattrap),cours/indispo promo (C),Stérilisation,cours/indispo promo (C),—,—,—,cours/indispo promo (C),Urgences (6/4)
+7,3,Radio,—,cours/indispo promo (C),Service sanitaire (SS-P3G2),cours/indispo promo (C),—,—,Service sanitaire (SS-P3G2),cours/indispo promo (C),Poly trinome avec 6508+4511
+8,3,—,Poly trinome avec 6508+4511,cours/indispo promo (C),Service sanitaire (SS-P3G2),cours/indispo promo (C),—,—,Service sanitaire (SS-P3G2),cours/indispo promo (C),Poly trinome avec 6508+4511
+9,4,—,Poly 6A absent avec 4511 (rattrap),cours/indispo promo (C),Service sanitaire (SS-P3G2),COMO,cours/indispo promo (C),Pédo-soin (PEDO-B1),Service sanitaire (SS-P3G2),cours/indispo promo (C),—
+10,4,Poly 6A absent avec 4511 (rattrap),Urgences (6/4),cours/indispo promo (C),—,Paro,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+11,4,—,Poly 6A absent avec 4511 (rattrap),cours/indispo promo (C),—,Radio,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+12,4,Poly 6A absent avec 4511 (rattrap),Poly 6A absent avec 4511 (rattrap),cours/indispo promo (C),—,—,cours/indispo promo (C),Pédo-soin (PEDO-B1),—,cours/indispo promo (C),—
+13,4,Occluso,—,cours/indispo promo (C),—,Urgences (6/4),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 6A absent avec 4511 (rattrap)
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+15,4,—,Poly 6A absent avec 4511 (rattrap),cours/indispo promo (C),cours/indispo promo (C),—,—,—,—,cours/indispo promo (C),—
+16,4,Radio,—,—,—,—,—,Pédo-soin (PEDO-B1),—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+17,4,—,Urgences (6/5/4),Paro,—,—,—,Stérilisation,—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+18,5,—,—,—,—,—,—,—,—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+19,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 6508+4511,—
+20,5,COMO,—,—,Radio,Urgences (6/4),—,—,—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—,Occluso,—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+22,5,—,—,—,—,—,—,—,—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+23,5,—,—,—,—,Urgences (6/4),—,Pédo-soin (PEDO-56-jeuM),—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+24,5,—,—,—,—,—,—,—,—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+25,5,—,—,—,—,—,—,Pédo-soin (PEDO-56-jeuM),—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+26,5,—,—,—,—,—,—,—,Urgences (6/4),Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+27,5,—,—,—,—,—,—,Pédo-soin (PEDO-56-jeuM),—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+28,6,—,—,—,—,—,—,—,—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+29,6,Poly trinome avec 6508+4511 (rattrap),Poly trinome avec 6508+4511 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-56-jeuM),—,—,—
+30,6,Urgences (6/5/4),—,—,—,—,—,—,—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+31,6,—,—,—,—,—,—,—,—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,—,—,Pédo-soin (PEDO-56-jeuM),—,Poly trinome avec 6508+4511,Poly trinome avec 6508+4511 (débord)
+35,6,—,Urgences (6/4),—,—,—,—,—,—,Poly trinome avec 6508+4511,—

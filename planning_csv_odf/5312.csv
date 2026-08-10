@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,5312
+Année,5A
+Type,3
+Groupe,G3_55_06
+Vacations Poly (total),86
+Détail,normal:67 examen:5 rattrap:14 débord:0
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,—,—,Urgences (5),—,Pédo-soin (PEDO-A2) [remplissage],—,Poly 5/5 avec 5311 (rattrap),Poly 5/5 avec 5311 (rattrap),—,Urgences (5)
+37,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,cours/indispo promo (C),Poly 5/5 avec 5311,—,—
+38,1,Urgences (5),cours/indispo promo (C),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,cours/indispo promo (C),Poly 5/5 avec 5311,—,—
+39,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,cours/indispo promo (C),Poly 5/5 avec 5311,Urgences (6/5),—
+40,1,—,cours/indispo promo (C),cours/indispo promo (C),ODF,—,Poly 5/5 avec 5311,cours/indispo promo (C),Poly 5/5 avec 5311,—,—
+41,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,cours/indispo promo (C),Poly 5/5 avec 5311,Urgences (6/5),—
+42,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,cours/indispo promo (C),Poly 5/5 avec 5311,—,—
+43,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,cours/indispo promo (C),Poly 5/5 avec 5311,Urgences (6/5),—
+44,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,cours/indispo promo (C),Poly 5/5 avec 5311,—,—
+45,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5311 (rattrap),—,—,Urgences (6/5),—
+46,2,—,cours/indispo promo (C),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+47,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,Urgences (5),—
+48,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,—,—
+49,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,—,Urgences (6/5)
+50,2,—,cours/indispo promo (C),—,ODF,cours/indispo promo (C),Poly 5/5 avec 5311 (examen),Pédo-soin (PEDO-A3) [remplissage],—,—,—
+51,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,—,Urgences (6/5)
+52,2,—,—,—,—,—,—,Poly 5/5 avec 5311 (rattrap),cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),Poly 5/5 avec 5311 (examen),Poly 5/5 avec 5311 (examen),—,—,cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,—,cours/indispo promo (C),Poly 5/5 avec 5311,Urgences (6/5),cours/indispo promo (C)
+4,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,—,cours/indispo promo (C),Poly 5/5 avec 5311,—,cours/indispo promo (C)
+5,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,—,cours/indispo promo (C),Poly 5/5 avec 5311,—,cours/indispo promo (C)
+6,3,cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (Af),cours/indispo promo (Af)
+7,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),Urgences (6/5),—,Poly 5/5 avec 5311,—,cours/indispo promo (C),Poly 5/5 avec 5311,—,cours/indispo promo (C)
+8,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,Poly 5/5 avec 5311,—,cours/indispo promo (C),Poly 5/5 avec 5311,—,cours/indispo promo (C)
+9,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5311 (rattrap),Pédo-soin (PEDO-B1),Poly 5/5 avec 5311 (rattrap),Urgences (6/5),—
+10,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5311 (rattrap),Pédo-soin (PEDO-B1),Poly 5/5 avec 5311 (rattrap),—,ODF
+11,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5311 (rattrap),Pédo-soin (PEDO-B1),Poly 5/5 avec 5311 (rattrap),Urgences (6/5),—
+12,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5311 (rattrap),Pédo-soin (PEDO-B1),Poly 5/5 avec 5311 (rattrap),—,—
+13,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5311 (rattrap),Pédo-soin (PEDO-B1),Poly 5/5 avec 5311 (rattrap),—,Urgences (5)
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (C),Poly 5/5 avec 5311,Pédo-soin (PEDO-B1),Poly 5/5 avec 5311,—,—
+15,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),—,Pédo-soin (PEDO-B1),—,—,—
+16,4,—,Urgences (5),—,—,—,Poly 5/5 avec 5311,Pédo-soin (PEDO-B1),Poly 5/5 avec 5311,—,—
+17,4,—,—,—,Urgences (5),—,Poly 5/5 avec 5311,Pédo-soin (PEDO-B1),Poly 5/5 avec 5311,—,—
+18,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),—,Poly 5/5 avec 5311,Pédo-soin (PEDO-56-venM),—
+19,5,—,—,—,Poly 5/5 avec 5311 (examen),Poly 5/5 avec 5311 (examen),Urgences (6/5),cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-56-venM),—
+20,5,—,—,—,—,ODF,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (E),cours/indispo promo (E),—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,Pédo-soin (PEDO-56-venM),Urgences (6/5/4)
+22,5,cours/indispo promo (E),cours/indispo promo (E),—,—,—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,Pédo-soin (PEDO-56-venM),—
+23,5,—,—,—,—,—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,Urgences (5),—
+24,5,—,—,—,—,—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,Pédo-soin (PEDO-56-venM),—
+25,5,—,—,—,Urgences (5),—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,—,—
+26,5,—,—,—,—,—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,Pédo-soin (PEDO-56-venM),Urgences (6/5/4)
+27,5,cours/indispo promo (E),cours/indispo promo (E),—,—,—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,—,—
+28,6,—,—,—,—,—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,Pédo-soin (PEDO-56-venM),Urgences (6/5/4)
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,—,—,—,—,—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,Pédo-soin (PEDO-56-venM),Urgences (6/5/4)
+31,6,—,—,—,—,—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,—,Poly 5/5 avec 5311,Urgences (5),Poly 5/5 avec 5311,Pédo-soin (PEDO-56-venM),—
+35,6,—,—,—,—,—,Poly 5/5 avec 5311,—,Poly 5/5 avec 5311,—,—

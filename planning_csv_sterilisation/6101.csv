@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6101
+Année,6A
+Type,1
+Groupe,G1_01
+Vacations Poly (total),60
+Détail,normal:42 examen:11 rattrap:5 débord:2
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),Poly trinome avec 4101+4102,Stérilisation,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),Poly trinome avec 4101+4102,Poly trinome avec 4101+4102,cours/indispo promo (C),Urgences (6/4),Pédo-soin (PEDO-A3),—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,Poly trinome avec 4101+4102,—,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),—,—
+40,1,—,Poly trinome avec 4101+4102,Poly trinome avec 4101+4102,—,—,Pédo-soin (PEDO-A3),Urgences (6/4),—,—,—
+41,1,—,Poly trinome avec 4101+4102,—,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+42,1,—,Poly trinome avec 4101+4102,Poly trinome avec 4101+4102,Urgences (6/5),—,Pédo-soin (PEDO-A3),—,—,—,—
+43,1,—,Poly trinome avec 4101+4102,—,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+44,1,—,Poly trinome avec 4101+4102,Poly trinome avec 4101+4102,Urgences (6/5),—,Pédo-soin (PEDO-A3),—,—,—,—
+45,2,S,S,S,S,S,S,S,S,S,S
+46,2,S,S,S,S,S,S,S,S,S,S
+47,2,S,S,S,S,S,S,S,S,S,S
+48,2,S,S,S,S,S,S,S,S,S,S
+49,2,S,S,S,S,S,S,S,S,S,S
+50,2,S,S,S,S,S,S,S,S,S,S
+51,2,S,S,S,S,S,S,S,S,S,S
+52,2,Poly trinome avec 4101+4102 (rattrap),Poly trinome avec 4101+4102 (rattrap),—,—,—,—,Urgences (6/4),cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,Poly trinome avec 4101+4102 (examen),Poly trinome avec 4101+4102 (examen),—,Urgences (6/4),—,Pédo-soin (PEDO-B2),—,—,Urgences (6),—
+3,3,—,Poly trinome avec 4101+4102,Urgences (6/5),—,—,Pédo-soin (PEDO-B2),—,—,—,Urgences (6/4)
+4,3,—,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,—,Pédo-soin (PEDO-B2),Urgences (6/4),—,—,—
+5,3,—,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,—,Pédo-soin (PEDO-B2),Urgences (6/4),—,—,—
+6,3,—,Poly trinome avec 4101+4102 (rattrap),Stérilisation,Urgences (6/4),—,Pédo-soin (PEDO-B2),—,—,—,Urgences (6/4)
+7,3,—,Poly trinome avec 4101+4102,—,—,—,Pédo-soin (PEDO-B2),—,—,—,Urgences (6/4)
+8,3,—,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,—,Pédo-soin (PEDO-B2),—,—,—,—
+9,4,X,X,X,X,X,X,X,X,X,X
+10,4,X,X,X,X,X,X,X,X,X,X
+11,4,X,X,X,X,X,X,X,X,X,X
+12,4,X,X,X,X,X,X,X,X,X,X
+13,4,X,X,X,X,X,X,X,X,X,X
+14,4,X,X,X,X,X,X,X,X,X,X
+15,4,X,X,X,X,X,X,X,X,X,X
+16,4,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,Urgences (6/4),Pédo-soin (PEDO-6A-B-merM) [remplissage],—,—,—,—,—
+17,4,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,—,—,—,—,—,Urgences (6/4),—
+18,5,Poly trinome avec 4101+4102 (examen),Poly trinome avec 4101+4102 (examen),—,—,—,Urgences (6/4),—,—,Pédo-soin (PEDO-56-venM),—
+19,5,Poly 6A seul (examen),Poly 6A seul (examen),—,—,Urgences (6/5),—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,—,Urgences (6/4),—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4101+4102 (examen),Poly trinome avec 4101+4102 (examen),—,—,—,Urgences (6/4),Pédo-soin (PEDO-56-venM),—
+22,5,Poly trinome avec 4101+4102 (examen),Poly trinome avec 4101+4102 (examen),—,—,—,—,—,—,Urgences (6/4),—
+23,5,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,—,—,—,—,—,Pédo-soin (PEDO-56-venM),—
+24,5,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,—,—,—,—,—,—,—
+25,5,Poly trinome avec 4101+4102,Poly trinome avec 4101+4102 (débord),—,—,—,—,—,—,Pédo-soin (PEDO-56-venM),—
+26,5,Poly trinome avec 4101+4102,Poly trinome avec 4101+4102 (débord),—,—,Urgences (6/4),—,—,—,—,—
+27,5,Poly trinome avec 4101+4102 (examen),—,Poly trinome avec 4101+4102,—,—,—,—,—,Pédo-soin (PEDO-56-venM),—
+28,6,Poly trinome avec 4101+4102,—,—,—,—,—,—,Urgences (6/4),—,—
+29,6,Poly trinome avec 4101+4102 (rattrap),Poly trinome avec 4101+4102 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,Pédo-soin (PEDO-56-venM),—
+30,6,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,—,—,—,—,—,Pédo-soin (PEDO-56-venM),—
+31,6,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,Urgences (6/4),—,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,—,—,—,—,—,Pédo-soin (PEDO-56-venM),—
+35,6,Poly trinome avec 4101+4102,—,Poly trinome avec 4101+4102,—,—,—,—,Urgences (6/4),Pédo-soin (PEDO-56-venM),—

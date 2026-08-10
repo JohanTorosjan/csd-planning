@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,4214
+Année,4A
+Type,2
+Groupe,G2_11
+Vacations Poly (total),65
+Détail,normal:40 examen:3 rattrap:16 débord:6
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A)
+37,1,cours/indispo promo (C),—,Poly trinome avec 6215+4215,cours/indispo promo (C),Poly trinome avec 6215+4215,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,Poly trinome avec 6215+4215,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,cours/indispo promo (C),—,Poly trinome avec 6215+4215,cours/indispo promo (C),Urgences (6/4),—,—,cours/indispo promo (C),cours/indispo promo (C),—
+40,1,cours/indispo promo (C),—,Poly trinome avec 6215+4215,cours/indispo promo (C),Poly trinome avec 6215+4215,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+41,1,cours/indispo promo (C),Radio,Poly trinome avec 6215+4215,cours/indispo promo (C),—,—,Occluso,cours/indispo promo (C),cours/indispo promo (C),—
+42,1,cours/indispo promo (C),—,Poly trinome avec 6215+4215,cours/indispo promo (C),Pédo-soin (PEDO-A2),—,—,cours/indispo promo (C),cours/indispo promo (C),—
+43,1,cours/indispo promo (C),Urgences (6/4),Poly trinome avec 6215+4215,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+44,1,cours/indispo promo (C),—,Poly trinome avec 6215+4215,cours/indispo promo (C),Poly trinome avec 6215+4215,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+45,2,Pédo-soin (PEDO-A4),Radio,cours/indispo promo (C),Poly trinome avec 6215+4215 (rattrap),Poly trinome avec 6215+4215 (rattrap),cours/indispo promo (C),—,—,cours/indispo promo (C),cours/indispo promo (C)
+46,2,—,—,cours/indispo promo (C),—,cours/indispo promo (F),cours/indispo promo (F),Urgences (6/4),—,—,cours/indispo promo (C)
+47,2,—,—,cours/indispo promo (C),Poly trinome avec 6215+4215,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C)
+48,2,—,—,cours/indispo promo (C),Poly trinome avec 6215+4215,Radio,cours/indispo promo (C),—,—,—,cours/indispo promo (C)
+49,2,—,—,cours/indispo promo (C),Poly trinome avec 6215+4215,—,cours/indispo promo (C),Stérilisation,—,—,cours/indispo promo (C)
+50,2,Pédo-soin (PEDO-A4),—,cours/indispo promo (C),—,Urgences (4),Poly 6A absent avec 4215 (examen),Occluso,—,—,cours/indispo promo (C)
+51,2,—,—,cours/indispo promo (C),Poly trinome avec 6215+4215,Poly trinome avec 6215+4215,—,—,—,Radio,cours/indispo promo (C)
+52,2,Pédo-soin (PEDO-A4),—,—,—,Poly trinome avec 6215+4215 (rattrap),Poly trinome avec 6215+4215 (rattrap),—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,Urgences (6/4),—,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,—,—,cours/indispo promo (C),Poly 6A absent avec 4215,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—
+4,3,—,—,cours/indispo promo (C),Poly 6A absent avec 4215,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—
+5,3,—,—,cours/indispo promo (C),Poly 6A absent avec 4215,cours/indispo promo (C),Poly 6A absent avec 4215,Radio,—,cours/indispo promo (C),Urgences (6/4)
+6,3,—,—,cours/indispo promo (C),Poly 6A absent avec 4215 (rattrap),cours/indispo promo (C),Poly 6A absent avec 4215 (rattrap),—,—,cours/indispo promo (C),—
+7,3,—,—,cours/indispo promo (C),Poly 6A absent avec 4215,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—
+8,3,—,—,cours/indispo promo (C),Poly 6A absent avec 4215,cours/indispo promo (C),—,Occluso,—,cours/indispo promo (C),Urgences (6/4)
+9,4,—,—,cours/indispo promo (C),Poly trinome avec 6215+4215 (rattrap),Poly trinome avec 6215+4215 (rattrap),cours/indispo promo (C),—,—,cours/indispo promo (C),Radio
+10,4,—,—,cours/indispo promo (C),—,Poly trinome avec 6215+4215 (rattrap),cours/indispo promo (C),Service sanitaire (SS-P4G3),—,cours/indispo promo (C),Service sanitaire (SS-P4G3)
+11,4,Stérilisation,—,cours/indispo promo (C),Poly trinome avec 6215+4215 (rattrap),Poly trinome avec 6215+4215 (rattrap),cours/indispo promo (C),Service sanitaire (SS-P4G3),—,cours/indispo promo (C),Service sanitaire (SS-P4G3)
+12,4,Urgences (6/4),—,cours/indispo promo (C),—,Poly trinome avec 6215+4215 (rattrap),cours/indispo promo (C),Service sanitaire (SS-P4G3),—,cours/indispo promo (C),Service sanitaire (SS-P4G3)
+13,4,—,—,cours/indispo promo (C),Poly trinome avec 6215+4215 (rattrap),Poly trinome avec 6215+4215 (rattrap),cours/indispo promo (C),Service sanitaire (SS-P4G3),—,cours/indispo promo (C),Service sanitaire (SS-P4G3)
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (C),Poly trinome avec 6215+4215 (examen),Poly trinome avec 6215+4215,cours/indispo promo (C),Service sanitaire (SS-P4G3),Radio,cours/indispo promo (C),Service sanitaire (SS-P4G3)
+15,4,—,—,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 6215+4215 (rattrap),Poly trinome avec 6215+4215 (rattrap),Service sanitaire (SS-P4G3),—,cours/indispo promo (C),Service sanitaire (SS-P4G3)
+16,4,Urgences (6/4),—,Poly 6A absent avec 4215,—,—,—,Service sanitaire (SS-P4G3),—,—,Service sanitaire (SS-P4G3)
+17,4,—,—,Poly 6A absent avec 4215,Poly 6A absent avec 4215 (débord),—,—,—,—,Occluso,—
+18,5,—,—,Radio,—,—,Pédo-soin (PEDO-56-merAM),Urgences (6/5/4),—,—,—
+19,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,—,Poly 6A absent avec 4215,—,—,Pédo-soin (PEDO-56-merAM),—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,—,Pédo-soin (PEDO-56-merAM),—,—,—,—
+22,5,Urgences (6/4),Stérilisation,Poly 6A absent avec 4215,Poly 6A absent avec 4215 (débord),—,Pédo-soin (PEDO-56-merAM),—,—,Radio,—
+23,5,—,—,Poly trinome avec 6215+4215,—,Poly trinome avec 6215+4215,Pédo-soin (PEDO-56-merAM),—,—,—,—
+24,5,—,—,Poly trinome avec 6215+4215,Poly trinome avec 6215+4215 (débord),—,Pédo-soin (PEDO-56-merAM),—,—,—,—
+25,5,—,Urgences (6/5/4),Poly trinome avec 6215+4215,Poly trinome avec 6215+4215 (débord),—,—,—,—,—,—
+26,5,—,—,Poly trinome avec 6215+4215,—,—,Pédo-soin (PEDO-56-merAM),—,—,—,—
+27,5,—,Poly trinome avec 6215+4215 (examen),Poly trinome avec 6215+4215,—,—,—,—,—,Urgences (6/4),—
+28,6,—,—,Poly trinome avec 6215+4215,—,Poly trinome avec 6215+4215,Pédo-soin (PEDO-56-merAM),—,—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,—,—,Poly trinome avec 6215+4215,Poly trinome avec 6215+4215 (débord),—,—,—,—,—,—
+31,6,—,—,Poly trinome avec 6215+4215,Urgences (6/4),—,—,—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,Poly trinome avec 6215+4215,—,Poly trinome avec 6215+4215,Pédo-soin (PEDO-56-merAM),—,—,—,—
+35,6,—,—,Poly trinome avec 6215+4215,Poly trinome avec 6215+4215 (débord),—,—,—,—,—,—

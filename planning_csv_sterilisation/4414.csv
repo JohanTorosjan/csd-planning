@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,4414
+Année,4A
+Type,4
+Groupe,G4_11
+Vacations Poly (total),71
+Détail,normal:62 examen:3 rattrap:6 débord:0
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6414,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6414
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6414,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6414
+39,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Pédo-soin (PEDO-A2),—,Poly 4/6 avec 6414,cours/indispo promo (C),cours/indispo promo (C),—
+40,1,cours/indispo promo (C),—,Urgences (6/4),cours/indispo promo (C),—,—,Poly 4/6 avec 6414,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6414
+41,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6414,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6414
+42,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6414,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6414
+43,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6414,cours/indispo promo (C),cours/indispo promo (C),Urgences (6/5/4)
+44,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6414,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6414
+45,2,Occluso,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—,Poly 4/6 avec 6414 (rattrap),cours/indispo promo (C),cours/indispo promo (C)
+46,2,Pédo-soin (PEDO-A4),—,cours/indispo promo (C),—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,cours/indispo promo (C)
+47,2,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 6414,Urgences (6/4),Poly 4/6 avec 6414,cours/indispo promo (C)
+48,2,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,cours/indispo promo (C)
+49,2,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 6414,—,—,cours/indispo promo (C)
+50,2,Pédo-soin (PEDO-A4),—,cours/indispo promo (C),—,—,—,—,Poly 6A absent (examen),Poly 4/6 avec 6414,cours/indispo promo (C)
+51,2,Urgences (6/4),—,cours/indispo promo (C),—,—,—,Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,cours/indispo promo (C)
+52,2,—,—,—,—,—,—,Occluso,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,—,Poly 4/6 avec 6414 (examen),Poly 4/6 avec 6414 (examen),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),Stérilisation,Poly 4/6 avec 6414,—,cours/indispo promo (C),Poly 4/6 avec 6414
+4,3,Urgences (6/5/4),—,cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 4/6 avec 6414,—,cours/indispo promo (C),Poly 4/6 avec 6414
+5,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 4/6 avec 6414,—,cours/indispo promo (C),—
+6,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),—,—,Urgences (6/4),cours/indispo promo (C),Poly 4/6 avec 6414 (rattrap)
+7,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 4/6 avec 6414,—,cours/indispo promo (C),Poly 4/6 avec 6414
+8,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 4/6 avec 6414,—,cours/indispo promo (C),Poly 4/6 avec 6414
+9,4,—,—,cours/indispo promo (C),—,Pédo-soin (PEDO-6A-B-merM),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 6A absent (rattrap)
+10,4,Urgences (6/4),—,cours/indispo promo (C),Service sanitaire (SS-P4G2),Pédo-soin (PEDO-6A-B-merM),cours/indispo promo (C),—,Service sanitaire (SS-P4G2),cours/indispo promo (C),—
+11,4,—,—,cours/indispo promo (C),Service sanitaire (SS-P4G2),Pédo-soin (PEDO-6A-B-merM),cours/indispo promo (C),Occluso,Service sanitaire (SS-P4G2),cours/indispo promo (C),Poly 6A absent (rattrap)
+12,4,—,—,cours/indispo promo (C),Service sanitaire (SS-P4G2),—,cours/indispo promo (C),—,Service sanitaire (SS-P4G2),cours/indispo promo (C),—
+13,4,—,Urgences (6/4),cours/indispo promo (C),Service sanitaire (SS-P4G2),—,cours/indispo promo (C),—,Service sanitaire (SS-P4G2),cours/indispo promo (C),Poly 6A absent (rattrap)
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (C),Service sanitaire (SS-P4G2),Pédo-soin (PEDO-6A-B-merM),cours/indispo promo (C),Poly 6A absent,Service sanitaire (SS-P4G2),cours/indispo promo (C),—
+15,4,—,—,cours/indispo promo (C),cours/indispo promo (C),—,—,—,Poly 6A absent (rattrap),cours/indispo promo (C),Stérilisation
+16,4,—,—,—,Service sanitaire (SS-P4G2),—,—,Poly 4/6 avec 6414,Service sanitaire (SS-P4G2),Poly 4/6 avec 6414,Urgences (6/4)
+17,4,—,—,—,—,Pédo-soin (PEDO-6A-B-merM),—,Poly 4/6 avec 6414,—,—,—
+18,5,—,—,—,—,—,—,Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+19,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 6414,—
+20,5,—,Urgences (6/4),—,—,—,—,Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Occluso,—,—,—,Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+22,5,—,—,—,—,—,—,Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+23,5,—,Urgences (6/4),—,—,—,—,Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+24,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6414,—,—,—
+25,5,—,—,—,—,—,—,Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+26,5,—,—,—,Urgences (6/5/4),—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+27,5,—,—,—,—,—,—,Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+28,6,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+29,6,—,—,Urgences (6/5/4),—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,—,—,—,—,—,—,Poly 4/6 avec 6414,—,—,—
+31,6,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,—,Urgences (6/4),Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—
+35,6,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6414,—,Poly 4/6 avec 6414,—

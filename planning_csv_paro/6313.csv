@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6313
+Année,6A
+Type,3
+Groupe,G3_10
+Vacations Poly (total),50
+Détail,normal:34 examen:8 rattrap:3 débord:5
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 4313,Pédo-soin (PEDO-A3),Urgences (6/4),cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 4313,Pédo-soin (PEDO-A3),Radio,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,—,—,cours/indispo promo (C),Poly 4/6 avec 4313,Pédo-soin (PEDO-A3),Poly 4/6 avec 4313,cours/indispo promo (C),—,Urgences (6/5/4)
+40,1,—,—,—,—,Poly 4/6 avec 4313,Pédo-soin (PEDO-A3),—,—,—,—
+41,1,COMO,—,—,Paro,Poly 4/6 avec 4313,Pédo-soin (PEDO-A3),Urgences (6/4),Stérilisation,—,—
+42,1,—,—,—,—,Poly 4/6 avec 4313,Pédo-soin (PEDO-A3),—,—,—,—
+43,1,—,Urgences (6/4),—,—,Poly 4/6 avec 4313,Pédo-soin (PEDO-A3),—,—,—,—
+44,1,—,—,—,Pano/CBCT,Poly 4/6 avec 4313,Pédo-soin (PEDO-A3),Poly 4/6 avec 4313,—,Urgences (6/5),—
+45,2,X,X,X,X,X,X,X,X,X,X
+46,2,X,X,X,X,X,X,X,X,X,X
+47,2,X,X,X,X,X,X,X,X,X,X
+48,2,X,X,X,X,X,X,X,X,X,X
+49,2,X,X,X,X,X,X,X,X,X,X
+50,2,X,X,X,X,X,X,X,X,X,X
+51,2,X,X,X,X,X,X,X,X,X,X
+52,2,—,—,—,Paro,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,Pédo-soin (PEDO-B1),Poly 4/6 avec 4313 (examen),Urgences (6/4),Poly 4/6 avec 4313 (examen),COMO,—,—,Urgences (6/5),Paro,—
+3,3,Pédo-soin (PEDO-B1),Urgences (6/4),—,—,—,Poly 4/6 avec 4313,Poly 4/6 avec 4313,—,Urgences (6/5),—
+4,3,Pédo-soin (PEDO-B1),—,—,—,Urgences (6/5),Poly 4/6 avec 4313,—,—,—,—
+5,3,Pédo-soin (PEDO-B1),—,—,—,Urgences (6/5),Poly 4/6 avec 4313,—,Pano/CBCT,—,—
+6,3,Pédo-soin (PEDO-B1),—,Urgences (6),COMO,Paro,—,—,Poly 4/6 avec 4313 (rattrap),Urgences (6),—
+7,3,Pédo-soin (PEDO-B1),—,—,—,—,Poly 4/6 avec 4313,Urgences (6/4),—,—,—
+8,3,Pédo-soin (PEDO-B1),—,—,—,—,Poly 4/6 avec 4313,Urgences (6/4),—,—,—
+9,4,S,S,S,S,S,S,S,S,S,S
+10,4,S,S,S,S,S,S,S,S,S,S
+11,4,S,S,S,S,S,S,S,S,S,S
+12,4,S,S,S,S,S,S,S,S,S,S
+13,4,S,S,S,S,S,S,S,S,S,S
+14,4,S,S,S,S,S,S,S,S,S,S
+15,4,S,S,S,S,S,S,S,S,S,S
+16,4,Pédo-soin (PEDO-6A-B-lunM) [remplissage],—,—,—,Poly 4/6 avec 4313,Paro,—,—,—,Urgences (6/4)
+17,4,—,—,—,—,Poly 4/6 avec 4313,COMO,Poly 4/6 avec 4313,—,—,—
+18,5,Poly 4/6 avec 4313 (examen),Urgences (6/4),Poly 4/6 avec 4313 (examen),—,Pano/CBCT,—,—,—,—,—
+19,5,Pédo-soin (PEDO-56-lunM),Urgences (6/5),Poly 6A seul (examen),Paro,Poly 6A seul (examen),—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,Urgences (6/4),—,—,Poly 4/6 avec 4313,Poly 4/6 avec 4313 (débord),—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,Urgences (6/4),Poly 4/6 avec 4313,Poly 4/6 avec 4313 (débord),—,—,—,—
+22,5,Poly 4/6 avec 4313 (examen),—,—,—,Poly 4/6 avec 4313,Urgences (6/4),—,—,COMO,—
+23,5,Pédo-soin (PEDO-56-lunM),—,—,—,Poly 4/6 avec 4313,—,—,—,—,—
+24,5,Pédo-soin (PEDO-56-lunM),—,—,—,Poly 4/6 avec 4313,—,Poly 4/6 avec 4313,—,—,—
+25,5,—,—,—,—,Poly 4/6 avec 4313,—,—,—,—,—
+26,5,Urgences (6/5/4),—,—,—,Poly 4/6 avec 4313,—,Poly 4/6 avec 4313,—,—,—
+27,5,Pédo-soin (PEDO-56-lunM),Poly 4/6 avec 4313 (examen),—,—,Poly 4/6 avec 4313,—,—,—,—,—
+28,6,—,—,—,Urgences (6/5/4),Poly 4/6 avec 4313,—,—,Poly 4/6 avec 4313 (débord),—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4313 (rattrap),Poly 4/6 avec 4313 (rattrap),—,—
+30,6,Pédo-soin (PEDO-56-lunM),—,—,—,Poly 4/6 avec 4313,—,—,—,—,Urgences (6/5/4)
+31,6,Pédo-soin (PEDO-56-lunM),—,—,—,Poly 4/6 avec 4313,Poly 4/6 avec 4313 (débord),—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Pédo-soin (PEDO-56-lunM),—,—,—,Poly 4/6 avec 4313,—,—,—,—,—
+35,6,—,—,—,Urgences (6/5/4),Poly 4/6 avec 4313,Poly 4/6 avec 4313 (débord),—,—,—,—

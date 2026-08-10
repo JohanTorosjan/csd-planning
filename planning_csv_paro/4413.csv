@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,4413
+Année,4A
+Type,4
+Groupe,G4_10
+Vacations Poly (total),71
+Détail,normal:61 examen:4 rattrap:6 débord:0
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6413,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6413
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6413,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6413
+39,1,cours/indispo promo (C),Urgences (6/4),—,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),Poly 4/6 avec 6413,cours/indispo promo (C),cours/indispo promo (C),—
+40,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6413,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6413
+41,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,Paro,Poly 4/6 avec 6413,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6413
+42,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Urgences (6/4),Radio,Poly 4/6 avec 6413,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6413
+43,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6413,cours/indispo promo (C),cours/indispo promo (C),—
+44,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 6413,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 6413
+45,2,Occluso,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Radio,Poly 4/6 avec 6413 (rattrap),cours/indispo promo (C),cours/indispo promo (C)
+46,2,—,Urgences (6/4),cours/indispo promo (C),COMO,cours/indispo promo (F),cours/indispo promo (F),—,—,—,cours/indispo promo (C)
+47,2,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,cours/indispo promo (C)
+48,2,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,cours/indispo promo (C)
+49,2,Radio,Paro,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 6413,—,—,cours/indispo promo (C)
+50,2,Urgences (6/4),—,cours/indispo promo (C),—,—,—,—,Poly 6A absent (examen),Poly 4/6 avec 6413,cours/indispo promo (C)
+51,2,—,—,cours/indispo promo (C),—,—,—,Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,cours/indispo promo (C)
+52,2,—,—,—,—,Radio,Pédo-soin (PEDO-A1),Occluso,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,Urgences (6/4),—,Poly 4/6 avec 6413 (examen),Poly 4/6 avec 6413 (examen),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,—,—,cours/indispo promo (C),Stérilisation,cours/indispo promo (C),—,Poly 4/6 avec 6413,—,cours/indispo promo (C),Poly 4/6 avec 6413
+4,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 4/6 avec 6413,—,cours/indispo promo (C),Poly 4/6 avec 6413
+5,3,—,Paro,cours/indispo promo (C),—,cours/indispo promo (C),Pédo-soin (PEDO-B2),Poly 4/6 avec 6413,Urgences (6/4),cours/indispo promo (C),—
+6,3,—,Radio,cours/indispo promo (C),—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),Poly 4/6 avec 6413 (rattrap)
+7,3,—,—,cours/indispo promo (C),COMO,cours/indispo promo (C),Pédo-soin (PEDO-B2),Poly 4/6 avec 6413,—,cours/indispo promo (C),Poly 4/6 avec 6413
+8,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),—,Poly 4/6 avec 6413,Urgences (6/5/4),cours/indispo promo (C),Poly 4/6 avec 6413
+9,4,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 6A absent (rattrap)
+10,4,—,—,cours/indispo promo (C),Service sanitaire (SS-P4G2),—,cours/indispo promo (C),Radio,Service sanitaire (SS-P4G2),cours/indispo promo (C),—
+11,4,—,Paro,cours/indispo promo (C),Service sanitaire (SS-P4G2),—,cours/indispo promo (C),Urgences (6/4),Service sanitaire (SS-P4G2),cours/indispo promo (C),Poly 6A absent (rattrap)
+12,4,Occluso,—,cours/indispo promo (C),Service sanitaire (SS-P4G2),—,cours/indispo promo (C),—,Service sanitaire (SS-P4G2),cours/indispo promo (C),—
+13,4,—,—,cours/indispo promo (C),Service sanitaire (SS-P4G2),—,cours/indispo promo (C),—,Service sanitaire (SS-P4G2),cours/indispo promo (C),Poly 6A absent (rattrap)
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (C),Service sanitaire (SS-P4G2),—,cours/indispo promo (C),Poly 6A absent,Service sanitaire (SS-P4G2),cours/indispo promo (C),—
+15,4,Urgences (6/4),Radio,cours/indispo promo (C),cours/indispo promo (C),—,—,Stérilisation,Poly 6A absent (rattrap),cours/indispo promo (C),—
+16,4,—,—,—,Service sanitaire (SS-P4G2),—,—,Poly 4/6 avec 6413,Service sanitaire (SS-P4G2),Poly 4/6 avec 6413,—
+17,4,—,—,—,—,Paro,—,Poly 4/6 avec 6413,—,—,COMO
+18,5,Urgences (6/4),—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,Radio
+19,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 6413,—
+20,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Occluso,Poly 4/6 avec 6413 (examen),Urgences (6/4),Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6413,—,—,—
+22,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,—
+23,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,—
+24,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6413,—,Urgences (6/5/4),—
+25,5,—,—,—,—,—,—,Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,—
+26,5,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,—
+27,5,—,—,—,—,—,—,Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,—
+28,6,Urgences (6/5/4),—,—,—,—,—,Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6413,—,—,—
+31,6,—,—,—,Urgences (6/4),—,—,Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,—,Pédo-soin (PEDO-56-merAM),Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,—
+35,6,—,—,—,—,—,—,Poly 4/6 avec 6413,—,Poly 4/6 avec 6413,—

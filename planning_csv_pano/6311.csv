@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6311
+Année,6A
+Type,3
+Groupe,G3_08
+Vacations Poly (total),60
+Détail,normal:34 examen:6 rattrap:15 débord:5
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 4311,—,—,cours/indispo promo (C),cours/indispo promo (C),Urgences (6/5/4)
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 4311,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,Pédo-soin (PEDO-A1),—,—,cours/indispo promo (C),Poly 4/6 avec 4311,—,Poly 4/6 avec 4311,cours/indispo promo (C),—,—
+40,1,Pédo-soin (PEDO-A1),Urgences (6/4),—,—,Poly 4/6 avec 4311,—,—,—,—,—
+41,1,Pédo-soin (PEDO-A1),—,—,—,Poly 4/6 avec 4311,Stérilisation,Urgences (6/4),—,—,—
+42,1,Pédo-soin (PEDO-A1),—,—,—,Poly 4/6 avec 4311,—,—,—,—,—
+43,1,Pédo-soin (PEDO-A1),—,Urgences (6/4),—,Poly 4/6 avec 4311,—,—,—,—,Pano/CBCT
+44,1,Pédo-soin (PEDO-A1),—,—,—,Poly 4/6 avec 4311,—,—,—,—,Urgences (6/5/4)
+45,2,—,—,—,—,Poly 4/6 avec 4311 (rattrap),Pédo-soin (PEDO-A1),Poly 4/6 avec 4311 (rattrap),—,—,Urgences (6/5)
+46,2,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4311 (rattrap),Poly 4/6 avec 4311 (rattrap),—,—
+47,2,—,—,—,—,Poly 4/6 avec 4311,Pédo-soin (PEDO-A1),Poly 4/6 avec 4311,Urgences (6/4),—,—
+48,2,—,—,—,—,Poly 4/6 avec 4311,Pédo-soin (PEDO-A1),—,—,Urgences (6/4),—
+49,2,—,—,—,—,Poly 4/6 avec 4311,Pédo-soin (PEDO-A1),—,—,—,—
+50,2,Urgences (6/4),—,—,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),—,—
+51,2,—,—,—,—,Poly 4/6 avec 4311,Pédo-soin (PEDO-A1),Urgences (6/4),—,—,Pano/CBCT
+52,2,—,—,—,—,Poly 4/6 avec 4311 (rattrap),Pédo-soin (PEDO-A1),—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,S,S,S,S,S,S,S,S,S,S
+3,3,S,S,S,S,S,S,S,S,S,S
+4,3,S,S,S,S,S,S,S,S,S,S
+5,3,S,S,S,S,S,S,S,S,S,S
+6,3,S,S,S,S,S,S,S,S,S,S
+7,3,S,S,S,S,S,S,S,S,S,S
+8,3,S,S,S,S,S,S,S,S,S,S
+9,4,—,—,—,Urgences (6/4),Urgences (6/4),—,Poly 4/6 avec 4311 (rattrap),—,Pédo-soin (PEDO-B2),—
+10,4,—,Urgences (6/4),—,—,Urgences (6/4),—,Poly 4/6 avec 4311 (rattrap),—,Pédo-soin (PEDO-B2),—
+11,4,—,—,—,—,Poly 4/6 avec 4311 (rattrap),—,Poly 4/6 avec 4311 (rattrap),—,Pédo-soin (PEDO-B2),Urgences (6/5/4)
+12,4,—,—,—,—,Urgences (6/4),—,Poly 4/6 avec 4311 (rattrap),—,Pédo-soin (PEDO-B2),—
+13,4,—,—,—,—,Urgences (6/4),Pano/CBCT,Poly 4/6 avec 4311 (rattrap),—,Pédo-soin (PEDO-B2),—
+14,4,cours/indispo promo (F),cours/indispo promo (F),—,Urgences (6/4),Poly 4/6 avec 4311,—,Poly 4/6 avec 4311,—,Pédo-soin (PEDO-B2),—
+15,4,Urgences (6/4),—,—,—,Urgences (6/4),Poly 4/6 avec 4311 (rattrap),Poly 4/6 avec 4311 (rattrap),—,Pédo-soin (PEDO-B2),—
+16,4,—,—,—,—,Poly 4/6 avec 4311,—,—,Poly 4/6 avec 4311 (débord),Pédo-soin (PEDO-B2),—
+17,4,—,—,—,—,Poly 4/6 avec 4311,—,—,—,Pédo-soin (PEDO-B2),—
+18,5,Poly 4/6 avec 4311 (examen),Poly 4/6 avec 4311 (examen),—,—,—,—,—,—,—,—
+19,5,—,—,Poly 6A seul (examen),—,Poly 6A seul (examen),—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,—,—,—,Poly 4/6 avec 4311,—,Poly 4/6 avec 4311,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,Poly 4/6 avec 4311,Poly 4/6 avec 4311 (débord),—,—,—,—
+22,5,Poly 4/6 avec 4311 (examen),Urgences (6/4),—,—,Poly 4/6 avec 4311,—,—,Pano/CBCT,—,—
+23,5,—,—,—,—,Poly 4/6 avec 4311,—,—,—,—,—
+24,5,—,—,—,—,Poly 4/6 avec 4311,—,Poly 4/6 avec 4311,—,—,—
+25,5,—,—,—,—,Poly 4/6 avec 4311,—,—,Poly 4/6 avec 4311 (débord),Urgences (6/4),—
+26,5,—,—,—,—,Poly 4/6 avec 4311,—,—,—,—,—
+27,5,—,Poly 4/6 avec 4311 (examen),—,—,Poly 4/6 avec 4311,—,—,—,—,—
+28,6,—,Urgences (6/4),—,—,Poly 4/6 avec 4311,Poly 4/6 avec 4311 (débord),—,—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4311 (rattrap),Poly 4/6 avec 4311 (rattrap),—,—
+30,6,—,—,—,—,Poly 4/6 avec 4311,—,—,Urgences (6/4),—,—
+31,6,—,—,—,—,Poly 4/6 avec 4311,Poly 4/6 avec 4311 (débord),—,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,Poly 4/6 avec 4311,—,—,—,—,—
+35,6,—,Urgences (6/4),—,—,Poly 4/6 avec 4311,—,Poly 4/6 avec 4311,—,—,—

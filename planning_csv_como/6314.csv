@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6314
+Année,6A
+Type,3
+Groupe,G3_11
+Vacations Poly (total),58
+Détail,normal:38 examen:7 rattrap:7 débord:6
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 4/6 avec 4314,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),Urgences (6/4),—,cours/indispo promo (C),Poly 4/6 avec 4314,—,Poly 4/6 avec 4314,cours/indispo promo (C),cours/indispo promo (C),Radio
+39,1,Pédo-soin (PEDO-A1),—,—,cours/indispo promo (C),Poly 4/6 avec 4314,—,—,cours/indispo promo (C),—,—
+40,1,Pédo-soin (PEDO-A1),—,Urgences (6/4),—,Poly 4/6 avec 4314,—,—,—,—,—
+41,1,Pédo-soin (PEDO-A1),—,—,—,Poly 4/6 avec 4314,—,Stérilisation,—,—,Urgences (6/5/4)
+42,1,Pédo-soin (PEDO-A1),COMO,—,—,Poly 4/6 avec 4314,—,—,—,—,—
+43,1,Pédo-soin (PEDO-A1),—,—,—,Poly 4/6 avec 4314,—,Urgences (6/4),—,—,—
+44,1,Pédo-soin (PEDO-A1),—,—,—,Poly 4/6 avec 4314,Pano/CBCT,Poly 4/6 avec 4314,—,—,—
+45,2,Urgences (6/4),—,—,—,Poly 4/6 avec 4314 (rattrap),—,—,Poly 4/6 avec 4314 (rattrap),Pédo-soin (PEDO-A2),—
+46,2,—,Urgences (6/4),—,—,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4314 (rattrap),—,Pédo-soin (PEDO-A2),—
+47,2,—,—,—,—,Poly 4/6 avec 4314,—,Urgences (6/5/4),—,Pédo-soin (PEDO-A2),—
+48,2,COMO,—,—,—,Poly 4/6 avec 4314,—,—,—,Pédo-soin (PEDO-A2),Urgences (6/5)
+49,2,—,—,—,—,Poly 4/6 avec 4314,—,—,—,Pédo-soin (PEDO-A2),—
+50,2,Urgences (6/4),—,—,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),Pédo-soin (PEDO-A2),—
+51,2,—,—,—,—,Poly 4/6 avec 4314,—,Urgences (6/4),—,Pédo-soin (PEDO-A2),—
+52,2,—,—,—,—,—,Poly 4/6 avec 4314 (rattrap),—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,—,Poly 4/6 avec 4314 (examen),Poly 4/6 avec 4314 (examen),—,—,—,—,Pédo-soin (PEDO-6A-B-venM),—
+3,3,—,—,—,—,COMO,Poly 4/6 avec 4314,Poly 4/6 avec 4314,—,Pédo-soin (PEDO-6A-B-venM),—
+4,3,—,—,—,—,—,Poly 4/6 avec 4314,—,—,Pédo-soin (PEDO-6A-B-venM),Urgences (6/4)
+5,3,—,—,—,—,Pano/CBCT,Poly 4/6 avec 4314,—,—,Pédo-soin (PEDO-6A-B-venM),Urgences (6/4)
+6,3,—,—,—,—,—,Urgences (6/4),—,Poly 4/6 avec 4314 (rattrap),Pédo-soin (PEDO-6A-B-venM),—
+7,3,—,—,—,Urgences (6/5/4),—,Poly 4/6 avec 4314,—,—,Pédo-soin (PEDO-6A-B-venM),—
+8,3,COMO,—,—,Urgences (6/4),—,Poly 4/6 avec 4314,—,—,Pédo-soin (PEDO-6A-B-venM),—
+9,4,S,S,S,S,S,S,S,S,S,S
+10,4,S,S,S,S,S,S,S,S,S,S
+11,4,S,S,S,S,S,S,S,S,S,S
+12,4,S,S,S,S,S,S,S,S,S,S
+13,4,S,S,S,S,S,S,S,S,S,S
+14,4,S,S,S,S,S,S,S,S,S,S
+15,4,S,S,S,S,S,S,S,S,S,S
+16,4,Urgences (6/4),—,—,—,Poly 4/6 avec 4314,—,Pédo-soin (PEDO-B1) [remplissage],—,—,—
+17,4,—,—,—,—,Poly 4/6 avec 4314,—,Poly 4/6 avec 4314,—,—,—
+18,5,Urgences (6/4),Poly 4/6 avec 4314 (examen),Poly 4/6 avec 4314 (examen),Pano/CBCT,—,—,—,—,—,Urgences (6/5/4)
+19,5,—,COMO,—,Poly 6A seul (examen),Poly 6A seul (examen),—,cours/indispo promo (F),cours/indispo promo (F),Urgences (6/4),—
+20,5,—,—,—,—,Poly 4/6 avec 4314,Poly 4/6 avec 4314 (débord),—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Urgences (6/4),—,Poly 4/6 avec 4314,—,—,Poly 4/6 avec 4314 (débord),—,—
+22,5,Poly 4/6 avec 4314 (examen),—,—,—,Poly 4/6 avec 4314,Urgences (6/4),—,—,—,—
+23,5,—,—,—,—,Poly 4/6 avec 4314,—,—,—,—,—
+24,5,—,—,—,—,Poly 4/6 avec 4314,Poly 4/6 avec 4314 (débord),—,—,—,—
+25,5,—,—,—,—,Poly 4/6 avec 4314,—,—,—,—,—
+26,5,—,Urgences (6/4),—,—,Poly 4/6 avec 4314,—,Poly 4/6 avec 4314,—,—,—
+27,5,—,—,—,—,Poly 4/6 avec 4314,—,Poly 4/6 avec 4314,—,—,—
+28,6,—,—,—,—,Poly 4/6 avec 4314,—,Urgences (6/5/4),Poly 4/6 avec 4314 (débord),—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4314 (rattrap),Poly 4/6 avec 4314 (rattrap),—,—
+30,6,—,—,—,—,Poly 4/6 avec 4314,—,—,—,—,—
+31,6,Urgences (6/4),—,—,—,Poly 4/6 avec 4314,—,—,Poly 4/6 avec 4314 (débord),—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,Poly 4/6 avec 4314,—,—,—,—,—
+35,6,—,—,—,—,Poly 4/6 avec 4314,Poly 4/6 avec 4314 (débord),Urgences (6/5/4),—,—,—

@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,5108
+Année,5A
+Type,1
+Groupe,G1_55_04
+Vacations Poly (total),83
+Détail,normal:61 examen:4 rattrap:18 débord:0
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,Pédo-soin (PEDO-A1) [remplissage],—,Poly 5/5 avec 5107 (rattrap),Poly 5/5 avec 5107 (rattrap),ODF,—,Urgences (5),—,—,Stérilisation
+37,1,Poly 5/5 avec 5107,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107,—,Urgences (5),cours/indispo promo (C),—,—,—
+38,1,Poly 5/5 avec 5107,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107,—,—,cours/indispo promo (C),—,Urgences (5),—
+39,1,Poly 5/5 avec 5107,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107,—,—,cours/indispo promo (C),—,—,—
+40,1,Poly 5/5 avec 5107,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107,—,Urgences (5),cours/indispo promo (C),—,—,—
+41,1,Poly 5/5 avec 5107,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107,—,—,cours/indispo promo (C),—,—,—
+42,1,Poly 5/5 avec 5107,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107,—,Urgences (5),cours/indispo promo (C),—,—,—
+43,1,Poly 5/5 avec 5107,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107,—,ODF,cours/indispo promo (C),—,—,—
+44,1,Poly 5/5 avec 5107,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107,—,—,cours/indispo promo (C),Urgences (6/5),—,—
+45,2,—,cours/indispo promo (C),Poly 5/5 avec 5107 (rattrap),—,cours/indispo promo (C),Pédo-soin (PEDO-A1) [remplissage],—,—,—,—
+46,2,—,cours/indispo promo (C),Poly 5/5 avec 5107 (rattrap),Poly 5/5 avec 5107 (rattrap),cours/indispo promo (F),cours/indispo promo (F),—,—,Urgences (6/5/4),—
+47,2,Poly 5/5 avec 5107,cours/indispo promo (C),Poly 5/5 avec 5107,—,cours/indispo promo (C),—,—,—,—,—
+48,2,Poly 5/5 avec 5107,cours/indispo promo (C),Poly 5/5 avec 5107,—,cours/indispo promo (C),—,—,Urgences (6/5/4),—,—
+49,2,Poly 5/5 avec 5107,cours/indispo promo (C),Poly 5/5 avec 5107,—,cours/indispo promo (C),—,—,—,—,—
+50,2,—,cours/indispo promo (C),—,Poly 5/5 avec 5107,cours/indispo promo (C),Pano/CBCT,—,Urgences (5/4),—,—
+51,2,Poly 5/5 avec 5107,cours/indispo promo (C),Poly 5/5 avec 5107,—,cours/indispo promo (C),—,—,—,—,—
+52,2,—,—,Poly 5/5 avec 5107 (rattrap),Poly 5/5 avec 5107 (rattrap),—,Urgences (6/5/4),—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),—,Poly 5/5 avec 5107 (examen),—,Poly 5/5 avec 5107 (examen),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,Poly 5/5 avec 5107,cours/indispo promo (C),Poly 5/5 avec 5107,—,ODF,Pédo-soin (PEDO-B2),cours/indispo promo (C),—,—,cours/indispo promo (C)
+4,3,Poly 5/5 avec 5107,cours/indispo promo (C),Poly 5/5 avec 5107,—,Urgences (6/5),Pédo-soin (PEDO-B2),cours/indispo promo (C),—,—,cours/indispo promo (C)
+5,3,Poly 5/5 avec 5107,cours/indispo promo (C),Poly 5/5 avec 5107,—,—,Pédo-soin (PEDO-B2),cours/indispo promo (C),—,—,cours/indispo promo (C)
+6,3,cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (Af),cours/indispo promo (Af)
+7,3,Poly 5/5 avec 5107,cours/indispo promo (C),Poly 5/5 avec 5107,—,Urgences (6/5),Pédo-soin (PEDO-B2),cours/indispo promo (C),—,—,cours/indispo promo (C)
+8,3,Poly 5/5 avec 5107,cours/indispo promo (C),Poly 5/5 avec 5107,—,—,Pédo-soin (PEDO-B2),cours/indispo promo (C),—,—,cours/indispo promo (C)
+9,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107 (rattrap),—,cours/indispo promo (C),Urgences (6/5),—,—,Pédo-soin (PEDO-B2),—
+10,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107 (rattrap),Poly 5/5 avec 5107 (rattrap),cours/indispo promo (C),—,—,—,Pédo-soin (PEDO-B2),—
+11,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107 (rattrap),—,cours/indispo promo (C),Urgences (6/5),—,—,Pédo-soin (PEDO-B2),—
+12,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107 (rattrap),Poly 5/5 avec 5107 (rattrap),cours/indispo promo (C),—,—,—,Pédo-soin (PEDO-B2),—
+13,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107 (rattrap),—,cours/indispo promo (C),Urgences (6/5),—,—,Pédo-soin (PEDO-B2),—
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (C),ODF,—,—,Pédo-soin (PEDO-B2),—
+15,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5107 (rattrap),Poly 5/5 avec 5107 (rattrap),cours/indispo promo (C),—,—,—,Pédo-soin (PEDO-B2),Urgences (6/5/4)
+16,4,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,—,—,—,—,Pédo-soin (PEDO-B2),—
+17,4,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,—,—,Urgences (5),—,Pédo-soin (PEDO-B2),—
+18,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),—,—,Pédo-soin (PEDO-56-venM),—
+19,5,Poly 5/5 avec 5107 (examen),Poly 5/5 avec 5107 (examen),—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-56-venM),Urgences (5)
+20,5,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,—,—,—,—,Pédo-soin (PEDO-56-venM),—
+21,5,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (E),cours/indispo promo (E),—,Urgences (5),—,—,—,—
+22,5,cours/indispo promo (E),cours/indispo promo (E),—,Poly 5/5 avec 5107,—,—,—,—,Pédo-soin (PEDO-56-venM),—
+23,5,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,—,Urgences (5),—,—,Pédo-soin (PEDO-56-venM),—
+24,5,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,—,—,—,—,—,—
+25,5,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,Urgences (6/5/4),—,—,—,Pédo-soin (PEDO-56-venM),—
+26,5,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,—,—,—,—,—,—
+27,5,cours/indispo promo (E),cours/indispo promo (E),—,Poly 5/5 avec 5107,Urgences (6/5/4),—,—,—,Pédo-soin (PEDO-56-venM),—
+28,6,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,—,—,—,—,—,—
+29,6,—,Urgences (5),Poly 5/5 avec 5107 (rattrap),Poly 5/5 avec 5107 (rattrap),cours/indispo promo (F),cours/indispo promo (F),—,—,Pédo-soin (PEDO-56-venM),—
+30,6,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,—,Urgences (5),—,—,—,—
+31,6,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,—,—,—,—,Pédo-soin (PEDO-56-venM),—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,Urgences (6/5/4),—,—,—,—,—
+35,6,—,Poly 5/5 avec 5107,—,Poly 5/5 avec 5107,—,—,—,—,Pédo-soin (PEDO-56-venM),—

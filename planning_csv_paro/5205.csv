@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,5205
+Année,5A
+Type,2
+Groupe,G2_55_03
+Vacations Poly (total),91
+Détail,normal:65 examen:4 rattrap:22 débord:0
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,—,Paro,Poly 5/5 avec 5206 (rattrap),Poly 5/5 avec 5206 (rattrap),Urgences (5),Radio,—,—,Pédo-soin (PEDO-A4),—
+37,1,COMO,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,cours/indispo promo (C),Urgences (5),Pédo-soin (PEDO-A4),—
+38,1,—,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206,ODF,Poly 5/5 avec 5206,cours/indispo promo (C),—,Pédo-soin (PEDO-A4),—
+39,1,Urgences (6/5),cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,cours/indispo promo (C),Paro,Pédo-soin (PEDO-A4),—
+40,1,—,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,cours/indispo promo (C),Urgences (6/5),Pédo-soin (PEDO-A4),—
+41,1,Radio,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,cours/indispo promo (C),—,Pédo-soin (PEDO-A4),—
+42,1,—,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,cours/indispo promo (C),—,Pédo-soin (PEDO-A4),Urgences (6/5/4)
+43,1,—,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,cours/indispo promo (C),—,Pédo-soin (PEDO-A4),—
+44,1,—,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,cours/indispo promo (C),Stérilisation,Pédo-soin (PEDO-A4),Urgences (6/5/4)
+45,2,Pédo-soin (PEDO-A4),cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),—,cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),—,—,—,Radio
+46,2,Pédo-soin (PEDO-A4),cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),Poly 5/5 avec 5206 (rattrap),cours/indispo promo (F),cours/indispo promo (F),—,—,COMO,Urgences (6/5)
+47,2,Pédo-soin (PEDO-A4),cours/indispo promo (C),Poly 5/5 avec 5206,ODF,cours/indispo promo (C),Poly 5/5 avec 5206,Paro,—,—,—
+48,2,Pédo-soin (PEDO-A4),cours/indispo promo (C),Poly 5/5 avec 5206,—,cours/indispo promo (C),Poly 5/5 avec 5206,—,—,—,Urgences (6/5)
+49,2,Pédo-soin (PEDO-A4),cours/indispo promo (C),Poly 5/5 avec 5206,—,cours/indispo promo (C),Poly 5/5 avec 5206,—,—,—,—
+50,2,Pédo-soin (PEDO-A4),cours/indispo promo (C),—,Poly 5/5 avec 5206,cours/indispo promo (C),—,—,Urgences (5/4),—,—
+51,2,Pédo-soin (PEDO-A4),cours/indispo promo (C),Poly 5/5 avec 5206,—,cours/indispo promo (C),Poly 5/5 avec 5206,—,—,—,—
+52,2,Pédo-soin (PEDO-A4),—,Poly 5/5 avec 5206 (rattrap),Poly 5/5 avec 5206 (rattrap),Urgences (5),—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),Poly 5/5 avec 5206 (examen),Poly 5/5 avec 5206 (examen),—,Radio,cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,—,cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,cours/indispo promo (C),Urgences (5),Pédo-soin (PEDO-6A-B-venM) [remplissage],cours/indispo promo (C)
+4,3,—,cours/indispo promo (C),Poly 5/5 avec 5206,Paro,Poly 5/5 avec 5206,ODF,cours/indispo promo (C),—,—,cours/indispo promo (C)
+5,3,—,cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,COMO,cours/indispo promo (C),—,—,cours/indispo promo (C)
+6,3,cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (Af),cours/indispo promo (Af)
+7,3,Urgences (5),cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,cours/indispo promo (C),Radio,—,cours/indispo promo (C)
+8,3,—,cours/indispo promo (C),Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,cours/indispo promo (C),—,Urgences (6/5),cours/indispo promo (C)
+9,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),—,cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),—,—,—,—
+10,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),Poly 5/5 avec 5206 (rattrap),cours/indispo promo (C),—,—,—,Radio,—
+11,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),Urgences (6/5/4),cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),—,Paro,Pédo-soin (PEDO-B2) [remplissage],—
+12,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),Poly 5/5 avec 5206 (rattrap),cours/indispo promo (C),—,—,—,Urgences (6/5),—
+13,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),—,cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),—,—,—,—
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (C),Poly 5/5 avec 5206,—,—,Radio,—
+15,4,cours/indispo promo (C),cours/indispo promo (C),Poly 5/5 avec 5206 (rattrap),Poly 5/5 avec 5206 (rattrap),cours/indispo promo (C),Urgences (6/5/4),—,—,—,ODF
+16,4,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,—,COMO,—
+17,4,—,—,—,Poly 5/5 avec 5206,Urgences (6/5/4),Poly 5/5 avec 5206,—,—,—,Paro
+18,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),—,—,—,—
+19,5,—,—,Poly 5/5 avec 5206 (examen),Poly 5/5 avec 5206 (examen),Radio,Urgences (6/5),cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (E),cours/indispo promo (E),—,Poly 5/5 avec 5206,—,—,Urgences (5),—
+22,5,cours/indispo promo (E),cours/indispo promo (E),—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,—,—,—
+23,5,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,—,Pédo-soin (PEDO-56-venM),Urgences (6/5/4)
+24,5,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,—,—,—
+25,5,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,Urgences (5),—,Pédo-soin (PEDO-56-venM),—
+26,5,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,—,—,—
+27,5,cours/indispo promo (E),cours/indispo promo (E),—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,Urgences (5),—,Pédo-soin (PEDO-56-venM),—
+28,6,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,—,—,—
+29,6,—,Urgences (5),Poly 5/5 avec 5206 (rattrap),Poly 5/5 avec 5206 (rattrap),cours/indispo promo (F),cours/indispo promo (F),—,—,Pédo-soin (PEDO-56-venM),—
+30,6,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,—,Urgences (5),—
+31,6,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,—,Pédo-soin (PEDO-56-venM),—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,Urgences (5),—,Pédo-soin (PEDO-56-venM),—
+35,6,—,—,—,Poly 5/5 avec 5206,—,Poly 5/5 avec 5206,—,—,—,—

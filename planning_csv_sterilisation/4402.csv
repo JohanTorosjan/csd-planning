@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,4402
+Année,4A
+Type,4
+Groupe,G4_01
+Vacations Poly (total),71
+Détail,normal:61 examen:2 rattrap:8 débord:0
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Pédo-soin (PEDO-A2),—,Poly trinome avec 4401+6401,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly trinome avec 4401+6401,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4401+6401
+39,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly trinome avec 4401+6401,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4401+6401
+40,1,cours/indispo promo (C),—,Urgences (6/4),cours/indispo promo (C),—,—,Poly trinome avec 4401+6401,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4401+6401
+41,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly trinome avec 4401+6401,cours/indispo promo (C),cours/indispo promo (C),—
+42,1,cours/indispo promo (C),—,Occluso,cours/indispo promo (C),—,—,Poly trinome avec 4401+6401,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4401+6401
+43,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Pédo-soin (PEDO-A2),—,Poly trinome avec 4401+6401,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4401+6401
+44,1,cours/indispo promo (C),—,Urgences (6/4),cours/indispo promo (C),—,—,Poly trinome avec 4401+6401,cours/indispo promo (C),cours/indispo promo (C),Poly trinome avec 4401+6401
+45,2,Service sanitaire (SS-P2G1),Service sanitaire (SS-P2G1),cours/indispo promo (C),—,—,cours/indispo promo (C),—,Poly 6A absent avec 4401 (rattrap),cours/indispo promo (C),cours/indispo promo (C)
+46,2,Service sanitaire (SS-P2G1),Service sanitaire (SS-P2G1),cours/indispo promo (C),—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,cours/indispo promo (C)
+47,2,Service sanitaire (SS-P2G1),Service sanitaire (SS-P2G1),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 6A absent avec 4401,—,—,cours/indispo promo (C)
+48,2,Service sanitaire (SS-P2G1),Service sanitaire (SS-P2G1),cours/indispo promo (C),Urgences (6/4),—,cours/indispo promo (C),Poly 6A absent avec 4401,—,Poly 6A absent avec 4401,cours/indispo promo (C)
+49,2,Service sanitaire (SS-P2G1),Service sanitaire (SS-P2G1),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 6A absent avec 4401,—,Poly 6A absent avec 4401,cours/indispo promo (C)
+50,2,Service sanitaire (SS-P2G1),Service sanitaire (SS-P2G1),cours/indispo promo (C),—,—,—,Occluso,Poly 6A absent avec 4401 (examen),Poly 6A absent avec 4401,cours/indispo promo (C)
+51,2,Service sanitaire (SS-P2G1),Service sanitaire (SS-P2G1),cours/indispo promo (C),—,Urgences (6/4),—,Poly 6A absent avec 4401,—,Poly 6A absent avec 4401,cours/indispo promo (C)
+52,2,—,—,—,Stérilisation,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,—,Poly trinome avec 4401+6401 (examen),—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),—,Poly trinome avec 4401+6401,—,cours/indispo promo (C),Urgences (6/4)
+4,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),—,Poly trinome avec 4401+6401,—,cours/indispo promo (C),Poly trinome avec 4401+6401
+5,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),Pédo-soin (PEDO-B2),Poly trinome avec 4401+6401,—,cours/indispo promo (C),Poly trinome avec 4401+6401
+6,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),Urgences (6/4),—,Poly trinome avec 4401+6401 (rattrap),cours/indispo promo (C),Poly trinome avec 4401+6401 (rattrap)
+7,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),Pédo-soin (PEDO-B2),Poly trinome avec 4401+6401,—,cours/indispo promo (C),Poly trinome avec 4401+6401
+8,3,—,—,cours/indispo promo (C),—,cours/indispo promo (C),—,Poly trinome avec 4401+6401,—,cours/indispo promo (C),—
+9,4,Occluso,—,cours/indispo promo (C),—,Urgences (6/4),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 6A absent avec 4401 (rattrap)
+10,4,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+11,4,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 6A absent avec 4401 (rattrap)
+12,4,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Stérilisation,—,cours/indispo promo (C),Urgences (6/4)
+13,4,—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 6A absent avec 4401 (rattrap)
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 6A absent avec 4401,—,cours/indispo promo (C),—
+15,4,—,—,cours/indispo promo (C),cours/indispo promo (C),—,Pédo-soin (PEDO-B3),Poly 6A absent avec 4401 (rattrap),Poly 6A absent avec 4401 (rattrap),cours/indispo promo (C),—
+16,4,—,—,—,—,—,Urgences (6/5/4),Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+17,4,—,—,—,—,—,—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+18,5,Occluso,—,—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+19,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4401+6401,—
+20,5,Urgences (6/5/4),—,—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+22,5,—,—,—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+23,5,—,Urgences (6/4),—,—,—,—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+24,5,—,—,—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+25,5,—,—,—,—,—,—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+26,5,—,—,—,Urgences (6/5/4),Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4401+6401,—,—,—
+27,5,—,—,—,—,—,—,Poly trinome avec 4401+6401,—,—,—
+28,6,—,—,—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+29,6,—,—,—,Urgences (6/4),cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,—,—,—,—,—,—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+31,6,—,—,—,—,Pédo-soin (PEDO-56-merM),—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,Pédo-soin (PEDO-56-merM),Urgences (6/4),Poly trinome avec 4401+6401,—,—,—
+35,6,—,—,—,—,—,—,Poly trinome avec 4401+6401,—,Poly trinome avec 4401+6401,—

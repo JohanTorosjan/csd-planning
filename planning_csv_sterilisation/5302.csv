@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,5302
+Année,5A
+Type,3
+Groupe,G3_55_01
+Vacations Poly (total),84
+Détail,normal:67 examen:3 rattrap:14 débord:0
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,—,Urgences (5),—,ODF,Pédo-soin (PEDO-A2) [remplissage],—,Poly trinome_5 avec 5301+E5301 (rattrap),Poly trinome_5 avec 5301+E5301 (rattrap),—,Urgences (5)
+37,1,—,cours/indispo promo (C),cours/indispo promo (C),Stérilisation,—,Poly trinome_5 avec 5301+E5301,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,Urgences (5),—
+38,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly trinome_5 avec 5301+E5301,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,—,—
+39,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly trinome_5 avec 5301+E5301,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,Urgences (6/5),—
+40,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly trinome_5 avec 5301+E5301,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,—,—
+41,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly trinome_5 avec 5301+E5301,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,Urgences (6/5),—
+42,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly trinome_5 avec 5301+E5301,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,—,—
+43,1,—,cours/indispo promo (C),cours/indispo promo (C),—,ODF,Poly trinome_5 avec 5301+E5301,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,Urgences (6/5),—
+44,1,—,cours/indispo promo (C),cours/indispo promo (C),—,—,Poly trinome_5 avec 5301+E5301,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,—,—
+45,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301 (rattrap),—,—,Urgences (6/5),—
+46,2,—,cours/indispo promo (C),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+47,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,—,Poly trinome_5 avec 5301+E5301,Urgences (5),—
+48,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,—,Poly trinome_5 avec 5301+E5301,—,—
+49,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,—,Poly trinome_5 avec 5301+E5301,Urgences (6/5/4),—
+50,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301 (examen),Pédo-soin (PEDO-A3) [remplissage],—,—,—
+51,2,—,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,—,Poly trinome_5 avec 5301+E5301,Urgences (6/5/4),—
+52,2,—,—,—,—,—,—,Poly trinome_5 avec 5301+E5301 (rattrap),cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),Poly trinome_5 avec 5301+E5301 (examen),Poly trinome_5 avec 5301+E5301 (examen),—,—,cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,Poly trinome_5 avec 5301+E5301,—,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,Urgences (6/5),cours/indispo promo (C)
+4,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,Poly trinome_5 avec 5301+E5301,—,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,—,cours/indispo promo (C)
+5,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,Poly trinome_5 avec 5301+E5301,—,cours/indispo promo (C),Poly trinome_5 avec 5301+E5301,—,cours/indispo promo (C)
+6,3,cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (Af),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (Af),cours/indispo promo (Af)
+7,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),Urgences (6/5),—,Poly 5/5 avec 5301,ODF,cours/indispo promo (C),Poly 5/5 avec 5301,—,cours/indispo promo (C)
+8,3,Pédo-soin (PEDO-B1),cours/indispo promo (C),—,—,Poly 5/5 avec 5301,—,cours/indispo promo (C),Poly 5/5 avec 5301,—,cours/indispo promo (C)
+9,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5301 (rattrap),Pédo-soin (PEDO-B1),Poly 5/5 avec 5301 (rattrap),Urgences (6/5),—
+10,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5301 (rattrap),Pédo-soin (PEDO-B1),Poly 5/5 avec 5301 (rattrap),—,—
+11,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5301 (rattrap),Pédo-soin (PEDO-B1),Poly 5/5 avec 5301 (rattrap),Urgences (6/5),—
+12,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5301 (rattrap),Pédo-soin (PEDO-B1),Poly 5/5 avec 5301 (rattrap),—,—
+13,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),Poly 5/5 avec 5301 (rattrap),Pédo-soin (PEDO-B1),Poly 5/5 avec 5301 (rattrap),—,Urgences (5)
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (C),Poly 5/5 avec 5301,Pédo-soin (PEDO-B1),Poly 5/5 avec 5301,—,—
+15,4,cours/indispo promo (C),cours/indispo promo (C),—,—,cours/indispo promo (C),—,Pédo-soin (PEDO-B1),—,Stérilisation,—
+16,4,—,Urgences (5),—,—,—,Poly 5/5 avec 5301,Pédo-soin (PEDO-B1),Poly 5/5 avec 5301,—,—
+17,4,—,—,—,Urgences (5),—,Poly 5/5 avec 5301,Pédo-soin (PEDO-B1),Poly 5/5 avec 5301,—,—
+18,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),—,Poly 5/5 avec 5301,—,ODF
+19,5,—,—,—,Urgences (6/5),Pédo-soin (PEDO-56-merM),—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,—,—,—,Pédo-soin (PEDO-56-merM),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,Urgences (6/5/4)
+21,5,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (E),cours/indispo promo (E),Pédo-soin (PEDO-56-merM),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,—
+22,5,cours/indispo promo (E),cours/indispo promo (E),—,—,Pédo-soin (PEDO-56-merM),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,—
+23,5,—,—,Urgences (5),—,Pédo-soin (PEDO-56-merM),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,—
+24,5,—,—,—,—,—,Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,Urgences (6/5/4),—
+25,5,—,—,—,—,Pédo-soin (PEDO-56-merM),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,—
+26,5,—,—,—,Urgences (6/5/4),Pédo-soin (PEDO-56-merM),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,—
+27,5,cours/indispo promo (E),cours/indispo promo (E),—,—,—,Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,Urgences (5)
+28,6,—,—,—,—,Pédo-soin (PEDO-56-merM),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,Urgences (6/5/4),—,—
+30,6,—,—,—,—,Pédo-soin (PEDO-56-merM),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,—
+31,6,—,—,—,—,Urgences (5),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,Pédo-soin (PEDO-56-merM),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,—
+35,6,Urgences (6/5/4),—,—,—,Pédo-soin (PEDO-56-merM),Poly 5/5 avec 5301,—,Poly 5/5 avec 5301,—,—

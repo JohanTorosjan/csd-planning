@@ -1,0 +1,140 @@
+######################################################################
+  VALIDATION DES MATIÈRES ANNEXES — dossier planning_csv_paro
+######################################################################
+
+======================================================================
+  VOLET 1 — NON-ÉCRASEMENT
+======================================================================
+
+  Matières annexes présentes dans le planning final :
+     Occluso         : 360
+     ODF             : 315
+     Stérilisation   : 369
+     Pano/CBCT       : 217
+     Radio           : 1401
+     COMO            : 888
+     Paro            : 1332
+
+  Matières héritées (doivent être intactes) :
+     Poly                : 16596
+     Urgences            : 4770
+     Pédo                : 4461
+     SS                  : 1112
+
+  Cellules avec 2 matières annexes (écrasement) : 0
+  → ✅ aucun écrasement
+
+======================================================================
+  VOLET 2 — CONTRAINTES PAR MATIÈRE
+======================================================================
+
+  ── Occluso ──
+     vacations : 90, places : 360
+     hors créneau : 0  |  mauvais nb places : 0  |  hors promo : 0  |  après s22 : 0
+     → ✅ OK
+
+  ── ODF ──
+     vacations : 105, places : 315
+     hors créneau : 0  |  mauvais nb places : 0  |  hors promo : 0  |  après s22 : 0
+     → ✅ OK
+
+  ── Stérilisation ──
+     vacations : 369, places : 369
+     hors créneau : 0  |  mauvais nb places : 0  |  hors promo : 0  |  après s22 : 0
+     → ✅ OK
+
+  ── Pano/CBCT ──
+     vacations : 217, places : 217
+     hors créneau : 0  |  mauvais nb places : 0  |  hors promo : 0  |  après s22 : 0
+     → ✅ OK
+
+  ── Radio ──
+     vacations : 369, places : 1401
+     hors créneau : 0  |  mauvais nb places : 0  |  hors promo : 0  |  après s22 : 0
+     → ✅ OK
+
+  ── COMO ──
+     vacations : 296, places : 888
+     hors créneau : 0  |  mauvais nb places : 0  |  hors promo : 0  |  après s22 : 0
+     → ✅ OK
+
+  ── Paro ──
+     vacations : 333, places : 1332
+     hors créneau : 0  |  mauvais nb places : 0  |  hors promo : 0  |  après s22 : 0
+     → ✅ OK
+
+======================================================================
+  VOLET 3 — PARCOURS D'ÉTUDIANTS (matières annexes)
+======================================================================
+
+  ── PROMO 4A ──
+
+     4508 (Transf_horsUE 2) — 22 vacations annexes
+        Radio:8  Paro:5  Occluso:4  COMO:3  Stérilisation:2
+        s42marM·Paro  s43merA·Radi  s46lunM·Occl  s46venM·Radi  s49lunA·COMO  s50lunA·Radi  s50merM·Paro  s2marM·Occl  s3lunM·Radi  s5jeuM·Paro  s5lunM·Stér  s7lunM·Radi  s9merM·COMO  s11jeuM·Paro  s11merM·Radi  s12jeuM·Occl
+        … (+6 autres)
+
+     4306 (PLANTON Camille) — 24 vacations annexes
+        Radio:8  Paro:6  Occluso:4  COMO:3  Stérilisation:3
+        s39venA·Paro  s41venA·Radi  s42jeuM·Occl  s44venA·COMO  s45jeuA·Radi  s47lunA·Paro  s49lunM·Radi  s50marA·Stér  s50venM·Occl  s52marM·Radi  s3marA·Paro  s5venA·Radi  s6lunM·COMO  s8jeuM·Occl  s9merM·Paro  s10marA·Radi
+        … (+8 autres)
+
+  ── PROMO 5A ──
+
+     5309 (LAUVERGNE Marie) — 25 vacations annexes
+        Radio:8  Paro:7  COMO:5  ODF:4  Stérilisation:1
+        s36marA·Radi  s36marM·COMO  s36merM·Paro  s38marA·ODF  s41marA·Radi  s41venA·Paro  s42lunM·COMO  s46venA·ODF  s47marM·Radi  s48marM·Stér  s48venM·Paro  s3lunM·COMO  s3marA·Radi  s4marM·Paro  s8lunM·Radi  s10marA·ODF
+        … (+9 autres)
+
+     5216 (EE2_GOUDEZEUNE Mathieu) — 22 vacations annexes
+        Radio:7  Paro:6  COMO:4  ODF:4  Stérilisation:1
+        s36venM·Radi  s37venA·Paro  s37venM·COMO  s40merM·ODF  s41venM·Radi  s44venM·Paro  s47venA·COMO  s48venA·Radi  s50venA·ODF  s51marA·Paro  s2jeuA·Stér  s3venM·Radi  s8jeuA·Radi  s9jeuM·Paro  s9marA·ODF  s9venA·COMO
+        … (+6 autres)
+
+  ── PROMO 6A ──
+
+     6108 (LOUTER_Maroua) — 15 vacations annexes
+        COMO:5  Paro:5  Pano/CBCT:3  Radio:1  Stérilisation:1
+        s37merA·COMO  s37merM·Radi  s37venA·Stér  s38merM·Pano  s38venA·Paro  s44marM·Paro  s45marA·COMO  s48jeuM·Paro  s48marA·Pano  s50venA·COMO  s9jeuM·Paro  s9venA·Pano  s10venA·COMO  s12merA·Paro  s15merA·COMO
+
+     6506 (GOUJILI_Othmane) — 15 vacations annexes
+        Paro:6  COMO:4  Pano/CBCT:3  Radio:1  Stérilisation:1
+        s39merA·Radi  s43marM·Paro  s44marA·COMO  s44merM·Stér  s2jeuA·Pano  s2marM·Paro  s2venA·COMO  s3jeuM·Paro  s6venA·COMO  s7lunA·Paro  s8merA·Pano  s16venA·Paro  s18marA·COMO  s20marA·Paro  s20merA·Pano
+
+======================================================================
+  VOLET 4 — ÉTALEMENT (écart moyen entre 2 vacations)
+======================================================================
+
+  ── Occluso ──
+     4A : 84 étud, moy 4.3 vac/étud, écart moyen 9.0 sem
+
+  ── ODF ──
+     5A : 77 étud, moy 4.1 vac/étud, écart moyen 10.1 sem
+
+  ── Stérilisation ──
+     4A : 84 étud, moy 2.5 vac/étud, écart moyen 12.3 sem
+     5A : 77 étud, moy 1.1 vac/étud, écart moyen 27.3 sem
+     6A : 65 étud, moy 1.1 vac/étud, écart moyen 20.5 sem
+
+  ── Pano/CBCT ──
+     5A : 14 étud, moy 1.0 vac/étud (trop peu pour écart)
+     6A : 65 étud, moy 3.1 vac/étud, écart moyen 11.7 sem
+
+  ── Radio ──
+     4A : 84 étud, moy 8.5 vac/étud, écart moyen 4.1 sem
+     5A : 77 étud, moy 7.8 vac/étud, écart moyen 5.2 sem
+     6A : 65 étud, moy 1.3 vac/étud, écart moyen 20.4 sem
+
+  ── COMO ──
+     4A : 84 étud, moy 3.3 vac/étud, écart moyen 11.6 sem
+     5A : 77 étud, moy 3.9 vac/étud, écart moyen 10.4 sem
+     6A : 65 étud, moy 4.7 vac/étud, écart moyen 7.6 sem
+
+  ── Paro ──
+     4A : 84 étud, moy 5.7 vac/étud, écart moyen 6.8 sem
+     5A : 77 étud, moy 5.9 vac/étud, écart moyen 6.9 sem
+     6A : 65 étud, moy 6.1 vac/étud, écart moyen 5.7 sem
+
+######################################################################
+  FIN DE LA VALIDATION
+######################################################################

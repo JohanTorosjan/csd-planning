@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6215
+Année,6A
+Type,2
+Groupe,G2_11
+Vacations Poly (total),51
+Détail,normal:31 examen:2 rattrap:14 débord:4
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,Poly trinome avec 4214+4215,cours/indispo promo (C),Poly trinome avec 4214+4215,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),Radio,Poly trinome avec 4214+4215,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,—,Poly trinome avec 4214+4215,cours/indispo promo (C),Urgences (6/4),—,—,cours/indispo promo (C),—,—
+40,1,—,—,Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,Stérilisation,—,COMO,—
+41,1,—,—,Poly trinome avec 4214+4215,Urgences (6/5),—,—,—,—,—,—
+42,1,—,—,Poly trinome avec 4214+4215,Pano/CBCT,—,—,Urgences (6/4),—,—,—
+43,1,—,—,Poly trinome avec 4214+4215,—,—,—,—,—,—,—
+44,1,—,—,Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,Urgences (6/4),—,—,—
+45,2,—,—,—,Poly trinome avec 4214+4215 (rattrap),Poly trinome avec 4214+4215 (rattrap),—,Pédo-soin (PEDO-A3),Urgences (6/4),—,—
+46,2,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-A3),—,—,COMO
+47,2,Urgences (6/4),—,—,Poly trinome avec 4214+4215,—,—,Pédo-soin (PEDO-A3),—,—,—
+48,2,—,Urgences (6/4),—,Poly trinome avec 4214+4215,—,—,Pédo-soin (PEDO-A3),—,—,—
+49,2,—,—,Urgences (6/5),Poly trinome avec 4214+4215,—,—,Pédo-soin (PEDO-A3),—,—,—
+50,2,—,—,Poly 6A seul,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),—,Urgences (6/5)
+51,2,—,Pano/CBCT,—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215,—,Pédo-soin (PEDO-A3),—,—,—
+52,2,—,—,—,—,Poly trinome avec 4214+4215 (rattrap),Poly trinome avec 4214+4215 (rattrap),Pédo-soin (PEDO-A3),cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,X,X,X,X,X,X,X,X,X,X
+3,3,X,X,X,X,X,X,X,X,X,X
+4,3,X,X,X,X,X,X,X,X,X,X
+5,3,X,X,X,X,X,X,X,X,X,X
+6,3,X,X,X,X,X,X,X,X,X,X
+7,3,X,X,X,X,X,X,X,X,X,X
+8,3,X,X,X,X,X,X,X,X,X,X
+9,4,Pédo-soin (PEDO-6A-B-lunM),Urgences (6/4),COMO,Poly trinome avec 4214+4215 (rattrap),Poly trinome avec 4214+4215 (rattrap),—,—,Urgences (6/5/4),—,—
+10,4,Pédo-soin (PEDO-6A-B-lunM),Urgences (6/4),—,—,Poly trinome avec 4214+4215 (rattrap),—,—,—,Urgences (6/5),—
+11,4,Pédo-soin (PEDO-6A-B-lunM),—,—,Poly trinome avec 4214+4215 (rattrap),Poly trinome avec 4214+4215 (rattrap),Urgences (6/5),—,—,—,—
+12,4,Pédo-soin (PEDO-6A-B-lunM),Urgences (6/4),—,—,Poly trinome avec 4214+4215 (rattrap),—,—,Pano/CBCT,—,—
+13,4,Pédo-soin (PEDO-6A-B-lunM),Urgences (6/4),COMO,Poly trinome avec 4214+4215 (rattrap),Poly trinome avec 4214+4215 (rattrap),—,—,—,—,—
+14,4,cours/indispo promo (F),cours/indispo promo (F),Urgences (6),Poly trinome avec 4214+4215 (examen),Poly trinome avec 4214+4215,—,—,—,—,—
+15,4,Pédo-soin (PEDO-6A-B-lunM),Urgences (6/4),—,—,Poly trinome avec 4214+4215 (rattrap),Poly trinome avec 4214+4215 (rattrap),—,—,—,—
+16,4,S,S,S,S,S,S,S,S,S,S
+17,4,S,S,S,S,S,S,S,S,S,S
+18,5,S,S,S,S,S,S,S,S,S,S
+19,5,S,S,S,S,S,S,S,S,S,S
+20,5,S,S,S,S,S,S,S,S,S,S
+21,5,S,S,S,S,S,S,S,S,S,S
+22,5,S,S,S,S,S,S,S,S,S,S
+23,5,—,Urgences (6/4),Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+24,5,Urgences (6/4),—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+25,5,—,—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,Urgences (6/4),Pédo-soin (PEDO-56-jeuM),—,—,—
+26,5,—,—,Poly trinome avec 4214+4215,—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+27,5,—,Poly trinome avec 4214+4215 (examen),Poly trinome avec 4214+4215,—,—,—,Pédo-soin (PEDO-56-jeuM),—,Urgences (6/4),—
+28,6,—,—,Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-56-jeuM),—,—,—
+30,6,—,—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),Urgences (6/4),—,Pédo-soin (PEDO-56-jeuM),—,—,—
+31,6,—,—,Poly trinome avec 4214+4215,—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,Poly trinome avec 4214+4215,—,Poly trinome avec 4214+4215,—,—,—,Urgences (6/4),—
+35,6,—,—,Poly trinome avec 4214+4215,Poly trinome avec 4214+4215 (débord),—,—,Pédo-soin (PEDO-56-jeuM),—,—,—

@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6112
+Année,6A
+Type,1
+Groupe,G1_09
+Vacations Poly (total),60
+Détail,normal:36 examen:10 rattrap:8 débord:6
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),Poly 4/6 avec 4112,Poly 4/6 avec 4112,cours/indispo promo (C),Urgences (6/4),Pédo-soin (PEDO-A3),Stérilisation,cours/indispo promo (C),cours/indispo promo (C),Radio
+38,1,cours/indispo promo (C),Poly 4/6 avec 4112,COMO,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,Poly 4/6 avec 4112,Poly 4/6 avec 4112,cours/indispo promo (C),—,Pédo-soin (PEDO-A3),Urgences (6/4),cours/indispo promo (C),—,Pano/CBCT
+40,1,—,Poly 4/6 avec 4112,—,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+41,1,—,Poly 4/6 avec 4112,Poly 4/6 avec 4112,—,Urgences (6/4),Pédo-soin (PEDO-A3),—,—,—,—
+42,1,—,Poly 4/6 avec 4112,—,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+43,1,—,Poly 4/6 avec 4112,Poly 4/6 avec 4112,Urgences (6/5),—,Pédo-soin (PEDO-A3),—,—,—,—
+44,1,—,Poly 4/6 avec 4112,—,—,—,Pédo-soin (PEDO-A3),—,—,—,—
+45,2,Poly 4/6 avec 4112 (rattrap),Poly 4/6 avec 4112 (rattrap),Urgences (6/5),—,COMO,—,Pédo-soin (PEDO-A3),—,—,—
+46,2,Poly 4/6 avec 4112 (rattrap),Poly 4/6 avec 4112 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-A3),—,Urgences (6/5/4),—
+47,2,—,Poly 4/6 avec 4112,—,Poly 4/6 avec 4112,Pano/CBCT,—,Pédo-soin (PEDO-A3),—,—,Urgences (6/5)
+48,2,—,Poly 4/6 avec 4112,—,—,—,—,Pédo-soin (PEDO-A3),—,—,Urgences (6/5)
+49,2,—,Poly 4/6 avec 4112,—,Poly 4/6 avec 4112,—,—,Pédo-soin (PEDO-A3),—,—,—
+50,2,Poly 4/6 avec 4112,Urgences (6/4),Poly 6A seul,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),—,—
+51,2,COMO,Poly 4/6 avec 4112,—,—,Urgences (6/4),—,Pédo-soin (PEDO-A3),—,—,—
+52,2,Poly 4/6 avec 4112 (rattrap),Poly 4/6 avec 4112 (rattrap),—,—,—,—,Pédo-soin (PEDO-A3),cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,X,X,X,X,X,X,X,X,X,X
+3,3,X,X,X,X,X,X,X,X,X,X
+4,3,X,X,X,X,X,X,X,X,X,X
+5,3,X,X,X,X,X,X,X,X,X,X
+6,3,X,X,X,X,X,X,X,X,X,X
+7,3,X,X,X,X,X,X,X,X,X,X
+8,3,X,X,X,X,X,X,X,X,X,X
+9,4,S,S,S,S,S,S,S,S,S,S
+10,4,S,S,S,S,S,S,S,S,S,S
+11,4,S,S,S,S,S,S,S,S,S,S
+12,4,S,S,S,S,S,S,S,S,S,S
+13,4,S,S,S,S,S,S,S,S,S,S
+14,4,S,S,S,S,S,S,S,S,S,S
+15,4,S,S,S,S,S,S,S,S,S,S
+16,4,Poly 4/6 avec 4112,Poly 4/6 avec 4112 (débord),Urgences (6/5/4),Urgences (6/4),Pédo-soin (PEDO-6A-B-merM) [remplissage],Urgences (6/5/4),—,Pano/CBCT,Urgences (6/5/4),COMO
+17,4,Poly 4/6 avec 4112,Poly 4/6 avec 4112 (débord),Urgences (6/4),—,—,—,—,—,—,—
+18,5,Poly 4/6 avec 4112 (examen),Poly 4/6 avec 4112 (examen),Urgences (6/4),—,—,—,Pédo-soin (PEDO-56-jeuM),Urgences (6/4),—,—
+19,5,Poly 6A seul (examen),Poly 6A seul (examen),—,—,Urgences (6/5),—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,Poly 4/6 avec 4112,Poly 4/6 avec 4112 (débord),—,—,Urgences (6/4),—,Pédo-soin (PEDO-56-jeuM),—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4112 (examen),Poly 4/6 avec 4112 (examen),—,—,Pédo-soin (PEDO-56-jeuM),Urgences (6/4),—,—
+22,5,Poly 4/6 avec 4112 (examen),Poly 4/6 avec 4112 (examen),COMO,—,—,—,—,—,Urgences (6/4),—
+23,5,Poly 4/6 avec 4112,—,—,—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+24,5,Poly 4/6 avec 4112,—,Poly 4/6 avec 4112,—,—,—,—,—,—,—
+25,5,Poly 4/6 avec 4112,—,Poly 4/6 avec 4112,—,—,—,—,—,—,—
+26,5,Poly 4/6 avec 4112,—,Poly 4/6 avec 4112,—,Urgences (6/4),—,—,—,—,—
+27,5,Poly 4/6 avec 4112 (examen),Poly 4/6 avec 4112 (examen),—,—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+28,6,Poly 4/6 avec 4112,—,Poly 4/6 avec 4112,—,Urgences (6/4),—,—,—,—,—
+29,6,Poly 4/6 avec 4112 (rattrap),Poly 4/6 avec 4112 (rattrap),—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,Poly 4/6 avec 4112,Poly 4/6 avec 4112 (débord),—,—,—,—,—,—,—,—
+31,6,Poly 4/6 avec 4112,Poly 4/6 avec 4112 (débord),Urgences (6/5/4),—,—,—,Pédo-soin (PEDO-56-jeuM),—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Poly 4/6 avec 4112,Poly 4/6 avec 4112 (débord),—,—,—,—,—,—,—,—
+35,6,Poly 4/6 avec 4112,—,—,—,—,—,Pédo-soin (PEDO-56-jeuM),Urgences (6/4),—,—

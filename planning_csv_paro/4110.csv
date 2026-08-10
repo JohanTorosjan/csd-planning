@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,4110
+Année,4A
+Type,1
+Groupe,G1_07
+Vacations Poly (total),76
+Détail,normal:46 examen:8 rattrap:17 débord:5
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A),cours/indispo promo (A)
+37,1,cours/indispo promo (C),Poly 4/6 avec 6110,Paro,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),Poly 4/6 avec 6110,Poly 4/6 avec 6110,cours/indispo promo (C),—,—,Occluso,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,cours/indispo promo (C),Poly 4/6 avec 6110,Poly 4/6 avec 6110,cours/indispo promo (C),Urgences (6/4),COMO,Radio,cours/indispo promo (C),cours/indispo promo (C),—
+40,1,cours/indispo promo (C),Poly 4/6 avec 6110,—,cours/indispo promo (C),—,—,Pédo-soin (PEDO-6A-A-jeuM),cours/indispo promo (C),cours/indispo promo (C),—
+41,1,cours/indispo promo (C),Poly 4/6 avec 6110,Poly 4/6 avec 6110,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+42,1,cours/indispo promo (C),Poly 4/6 avec 6110,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),Radio
+43,1,cours/indispo promo (C),Poly 4/6 avec 6110,Poly 4/6 avec 6110,cours/indispo promo (C),Urgences (6/4),Paro,—,cours/indispo promo (C),cours/indispo promo (C),—
+44,1,cours/indispo promo (C),Poly 4/6 avec 6110,—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+45,2,Poly 4/6 avec 6110 (rattrap),Poly 4/6 avec 6110 (rattrap),cours/indispo promo (C),—,Pédo-soin (PEDO-6A-A-merM),cours/indispo promo (C),—,—,cours/indispo promo (C),cours/indispo promo (C)
+46,2,Poly 4/6 avec 6110 (rattrap),Poly 4/6 avec 6110 (rattrap),cours/indispo promo (C),—,cours/indispo promo (F),cours/indispo promo (F),Stérilisation,Service sanitaire (SS-P2G3),Service sanitaire (SS-P2G3),cours/indispo promo (C)
+47,2,—,Poly 4/6 avec 6110,cours/indispo promo (C),Poly 4/6 avec 6110,Urgences (6/4),cours/indispo promo (C),Radio,Service sanitaire (SS-P2G3),Service sanitaire (SS-P2G3),cours/indispo promo (C)
+48,2,Occluso,Poly 4/6 avec 6110,cours/indispo promo (C),—,—,cours/indispo promo (C),—,Service sanitaire (SS-P2G3),Service sanitaire (SS-P2G3),cours/indispo promo (C)
+49,2,—,Poly 4/6 avec 6110,cours/indispo promo (C),Poly 4/6 avec 6110,Pédo-soin (PEDO-6A-A-merM),cours/indispo promo (C),—,Service sanitaire (SS-P2G3),Service sanitaire (SS-P2G3),cours/indispo promo (C)
+50,2,Poly 4/6 avec 6110,Paro,cours/indispo promo (C),—,—,Urgences (5/4),—,Service sanitaire (SS-P2G3),Service sanitaire (SS-P2G3),cours/indispo promo (C)
+51,2,COMO,Poly 4/6 avec 6110,cours/indispo promo (C),Radio,Pédo-soin (PEDO-6A-A-merM),—,—,Service sanitaire (SS-P2G3),Service sanitaire (SS-P2G3),cours/indispo promo (C)
+52,2,Poly 4/6 avec 6110 (rattrap),Poly 4/6 avec 6110 (rattrap),—,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,—,—,Urgences (6/4),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER)
+3,3,—,Poly 6A absent,cours/indispo promo (C),Poly 6A absent,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—
+4,3,—,Poly 6A absent,cours/indispo promo (C),—,cours/indispo promo (C),—,Occluso,—,cours/indispo promo (C),Radio
+5,3,—,Poly 6A absent,cours/indispo promo (C),Poly 6A absent,cours/indispo promo (C),—,—,—,cours/indispo promo (C),Paro
+6,3,Urgences (6/4),Poly 6A absent (rattrap),cours/indispo promo (C),—,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—
+7,3,—,Poly 6A absent,cours/indispo promo (C),—,cours/indispo promo (C),—,—,Stérilisation,cours/indispo promo (C),—
+8,3,—,Poly 6A absent,cours/indispo promo (C),Poly 6A absent,cours/indispo promo (C),—,—,—,cours/indispo promo (C),Radio
+9,4,Urgences (6/4),Poly 4/6 avec 6110 (rattrap),cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+10,4,Poly 4/6 avec 6110 (rattrap),Poly 4/6 avec 6110 (rattrap),cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+11,4,—,Poly 4/6 avec 6110 (rattrap),cours/indispo promo (C),COMO,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+12,4,Poly 4/6 avec 6110 (rattrap),Poly 4/6 avec 6110 (rattrap),cours/indispo promo (C),Urgences (6/4),Paro,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+13,4,Radio,Poly 4/6 avec 6110 (rattrap),cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+14,4,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (C),Poly 4/6 avec 6110 (examen),—,cours/indispo promo (C),—,—,cours/indispo promo (C),—
+15,4,Poly 4/6 avec 6110 (rattrap),Poly 4/6 avec 6110 (rattrap),cours/indispo promo (C),cours/indispo promo (C),—,—,Occluso,—,cours/indispo promo (C),Urgences (6/5/4)
+16,4,Poly 4/6 avec 6110,—,Poly 4/6 avec 6110,—,—,Pédo-soin (PEDO-B3),—,—,—,—
+17,4,Poly 4/6 avec 6110,—,Poly 4/6 avec 6110,Radio,—,—,—,—,—,—
+18,5,Poly 4/6 avec 6110 (examen),Poly 4/6 avec 6110 (examen),—,—,Pédo-soin (PEDO-56-merM),Urgences (6/4),Paro,—,Stérilisation,—
+19,5,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,Poly 4/6 avec 6110,Poly 4/6 avec 6110 (débord),—,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 6110 (examen),Poly 4/6 avec 6110 (examen),Pédo-soin (PEDO-56-merM),—,Occluso,—,—,Radio
+22,5,Poly 4/6 avec 6110 (examen),Poly 4/6 avec 6110 (examen),—,—,Pédo-soin (PEDO-56-merM),Urgences (6/4),—,—,COMO,—
+23,5,Poly 4/6 avec 6110,Poly 4/6 avec 6110 (débord),—,—,—,—,—,—,—,—
+24,5,Poly 4/6 avec 6110,—,—,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+25,5,Poly 4/6 avec 6110,—,Poly 4/6 avec 6110,—,—,Urgences (6/4),—,—,—,—
+26,5,Poly 4/6 avec 6110,—,Poly 4/6 avec 6110,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+27,5,Poly 4/6 avec 6110 (examen),—,Poly 4/6 avec 6110,—,—,—,—,—,—,—
+28,6,Poly 4/6 avec 6110,—,Poly 4/6 avec 6110,—,Pédo-soin (PEDO-56-merM),—,Urgences (6/5/4),—,—,—
+29,6,Poly 4/6 avec 6110 (rattrap),—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,Poly 4/6 avec 6110,—,Poly 4/6 avec 6110,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+31,6,Poly 4/6 avec 6110,Poly 4/6 avec 6110 (débord),—,—,—,—,—,—,—,Urgences (6/4)
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,Poly 4/6 avec 6110,Poly 4/6 avec 6110 (débord),—,—,Pédo-soin (PEDO-56-merM),—,—,—,—,—
+35,6,Poly 4/6 avec 6110,Poly 4/6 avec 6110 (débord),—,—,—,—,—,—,—,—

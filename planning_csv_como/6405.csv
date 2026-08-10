@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6405
+Année,6A
+Type,4
+Groupe,G4_04
+Vacations Poly (total),63
+Détail,normal:54 examen:4 rattrap:5 débord:0
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,—,cours/indispo promo (C),—,—,Poly 4/6 avec 4405,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Radio,—,Poly 4/6 avec 4405,cours/indispo promo (C),cours/indispo promo (C),Poly 4/6 avec 4405
+39,1,Pédo-soin (PEDO-A1),—,Urgences (6/4),cours/indispo promo (C),—,—,Poly 4/6 avec 4405,cours/indispo promo (C),—,Poly 4/6 avec 4405
+40,1,Pédo-soin (PEDO-A1),—,—,—,—,—,Poly 4/6 avec 4405,—,—,Poly 4/6 avec 4405
+41,1,Pédo-soin (PEDO-A1),Urgences (6/4),—,—,Stérilisation,—,Poly 4/6 avec 4405,—,—,—
+42,1,Pédo-soin (PEDO-A1),—,—,—,Pano/CBCT,—,Poly 4/6 avec 4405,—,Urgences (6/5),Poly 4/6 avec 4405
+43,1,Pédo-soin (PEDO-A1),COMO,—,—,—,—,Poly 4/6 avec 4405,—,—,Poly 4/6 avec 4405
+44,1,Pédo-soin (PEDO-A1),—,—,—,Urgences (6/4),—,Poly 4/6 avec 4405,—,—,Poly 4/6 avec 4405
+45,2,S,S,S,S,S,S,S,S,S,S
+46,2,S,S,S,S,S,S,S,S,S,S
+47,2,S,S,S,S,S,S,S,S,S,S
+48,2,S,S,S,S,S,S,S,S,S,S
+49,2,S,S,S,S,S,S,S,S,S,S
+50,2,S,S,S,S,S,S,S,S,S,S
+51,2,S,S,S,S,S,S,S,S,S,S
+52,2,—,—,—,—,—,—,Urgences (6/4),cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,—,Poly 4/6 avec 4405 (examen),Poly 4/6 avec 4405 (examen),Urgences (6/5),—,—,—,Pédo-soin (PEDO-6A-B-venM),Urgences (6)
+3,3,COMO,—,—,Urgences (6/5/4),—,—,Poly 4/6 avec 4405,—,Pédo-soin (PEDO-6A-B-venM),Urgences (6/4)
+4,3,—,—,—,Pano/CBCT,—,—,Poly 4/6 avec 4405,—,Pédo-soin (PEDO-6A-B-venM),Poly 4/6 avec 4405
+5,3,Urgences (6/4),—,—,—,—,—,Poly 4/6 avec 4405,Urgences (6/4),Pédo-soin (PEDO-6A-B-venM),Poly 4/6 avec 4405
+6,3,—,—,—,—,Urgences (6),—,—,—,Pédo-soin (PEDO-6A-B-venM),Poly 4/6 avec 4405 (rattrap)
+7,3,—,Urgences (6/4),COMO,—,—,—,Poly 4/6 avec 4405,—,Pédo-soin (PEDO-6A-B-venM),Poly 4/6 avec 4405
+8,3,—,Urgences (6/4),—,—,—,—,Poly 4/6 avec 4405,—,Pédo-soin (PEDO-6A-B-venM),—
+9,4,—,—,—,—,Urgences (6/4),Pédo-soin (PEDO-B3),—,—,—,Poly 4/6 avec 4405 (rattrap)
+10,4,—,—,—,—,Urgences (6/4),Pédo-soin (PEDO-B3),—,—,—,—
+11,4,—,—,—,—,Urgences (6/4),Pédo-soin (PEDO-B3),—,—,—,Poly 4/6 avec 4405 (rattrap)
+12,4,—,—,—,COMO,Pano/CBCT,Pédo-soin (PEDO-B3),—,—,—,—
+13,4,—,—,—,—,Urgences (6/4),Pédo-soin (PEDO-B3),—,—,—,Poly 4/6 avec 4405 (rattrap)
+14,4,cours/indispo promo (F),cours/indispo promo (F),—,—,Urgences (6/4),Pédo-soin (PEDO-B3),Poly 4/6 avec 4405,—,Poly 6A seul,—
+15,4,—,—,—,—,Urgences (6/4),Pédo-soin (PEDO-B3),—,Poly 4/6 avec 4405 (rattrap),—,—
+16,4,—,—,—,—,—,Pédo-soin (PEDO-B3),Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—
+17,4,—,—,—,—,—,Pédo-soin (PEDO-B3),Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—
+18,5,—,—,—,—,—,—,Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—
+19,5,—,—,—,—,—,Poly 6A seul (examen),cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4405,—
+20,5,—,—,—,—,COMO,—,Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—,Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—
+22,5,Urgences (6/4),Poly 4/6 avec 4405 (examen),—,—,Pano/CBCT,—,Poly 4/6 avec 4405,—,—,—
+23,5,—,—,—,—,—,—,Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—
+24,5,—,—,—,—,—,—,Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—
+25,5,—,—,—,—,—,—,Poly 4/6 avec 4405,Urgences (6/5/4),Poly 4/6 avec 4405,—
+26,5,—,—,—,—,—,—,Poly 4/6 avec 4405,—,—,—
+27,5,—,—,—,—,—,—,Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—
+28,6,Urgences (6/5/4),—,—,—,—,—,Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,—,—,—,—,—,—,Poly 4/6 avec 4405,Urgences (6/4),Poly 4/6 avec 4405,—
+31,6,—,—,—,—,—,—,Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,—,—,Poly 4/6 avec 4405,—,—,—
+35,6,—,Urgences (6/4),—,—,—,—,Poly 4/6 avec 4405,—,Poly 4/6 avec 4405,—

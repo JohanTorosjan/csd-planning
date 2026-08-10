@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6309
+Année,6A
+Type,3
+Groupe,G3_07
+Vacations Poly (total),60
+Détail,normal:34 examen:5 rattrap:17 débord:4
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),—,Urgences (6/4),cours/indispo promo (C),Poly trinome avec 4309+4310,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,—,cours/indispo promo (C),Poly trinome avec 4309+4310,Radio,—,cours/indispo promo (C),cours/indispo promo (C),—
+39,1,Pédo-soin (PEDO-A1),—,—,cours/indispo promo (C),Poly trinome avec 4309+4310,—,Urgences (6/4),cours/indispo promo (C),—,—
+40,1,Pédo-soin (PEDO-A1),—,—,—,Poly trinome avec 4309+4310,—,Poly trinome avec 4309+4310,—,—,—
+41,1,Pédo-soin (PEDO-A1),—,Urgences (6/4),Stérilisation,Poly trinome avec 4309+4310,COMO,—,—,—,—
+42,1,Pédo-soin (PEDO-A1),—,—,—,Poly trinome avec 4309+4310,—,—,—,—,—
+43,1,Pédo-soin (PEDO-A1),Urgences (6/4),—,—,Poly trinome avec 4309+4310,—,—,Pano/CBCT,—,—
+44,1,Pédo-soin (PEDO-A1),—,—,—,Poly trinome avec 4309+4310,—,—,Urgences (6/5),—,—
+45,2,—,—,—,—,Poly trinome avec 4309+4310 (rattrap),—,Poly trinome avec 4309+4310 (rattrap),—,Pédo-soin (PEDO-A2),Urgences (6/5)
+46,2,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4309+4310 (rattrap),Poly trinome avec 4309+4310 (rattrap),Pédo-soin (PEDO-A2),—
+47,2,—,—,Urgences (6/5),COMO,Poly trinome avec 4309+4310,—,Poly trinome avec 4309+4310,—,Pédo-soin (PEDO-A2),—
+48,2,—,—,—,Urgences (6/4),Poly trinome avec 4309+4310,—,—,—,Pédo-soin (PEDO-A2),—
+49,2,—,—,—,—,Poly trinome avec 4309+4310,—,Urgences (6/4),—,Pédo-soin (PEDO-A2),—
+50,2,—,—,—,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),Pédo-soin (PEDO-A2),—
+51,2,—,Urgences (6/4),—,—,Poly trinome avec 4309+4310,—,—,Pano/CBCT,Pédo-soin (PEDO-A2),—
+52,2,—,—,—,—,Poly trinome avec 4309+4310 (rattrap),Poly trinome avec 4309+4310 (rattrap),—,cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,S,S,S,S,S,S,S,S,S,S
+3,3,S,S,S,S,S,S,S,S,S,S
+4,3,S,S,S,S,S,S,S,S,S,S
+5,3,S,S,S,S,S,S,S,S,S,S
+6,3,S,S,S,S,S,S,S,S,S,S
+7,3,S,S,S,S,S,S,S,S,S,S
+8,3,S,S,S,S,S,S,S,S,S,S
+9,4,Urgences (6/4),COMO,—,—,Poly trinome avec 4309+4310 (rattrap),—,Poly trinome avec 4309+4310 (rattrap),—,Pédo-soin (PEDO-B2),Urgences (6/4)
+10,4,—,—,—,—,Urgences (6/4),—,Poly trinome avec 4309+4310 (rattrap),—,Pédo-soin (PEDO-B2),—
+11,4,Urgences (6/4),—,—,—,Poly trinome avec 4309+4310 (rattrap),—,Poly trinome avec 4309+4310 (rattrap),—,Pédo-soin (PEDO-B2),Urgences (6/5/4)
+12,4,—,—,—,—,Urgences (6/4),—,Poly trinome avec 4309+4310 (rattrap),—,Pédo-soin (PEDO-B2),—
+13,4,COMO,—,—,Pano/CBCT,Urgences (6/4),—,Poly trinome avec 4309+4310 (rattrap),—,Pédo-soin (PEDO-B2),—
+14,4,cours/indispo promo (F),cours/indispo promo (F),—,Urgences (6/4),Poly trinome avec 4309+4310,—,—,—,Pédo-soin (PEDO-B2),—
+15,4,Urgences (6/4),—,—,—,Urgences (6/4),Poly trinome avec 4309+4310 (rattrap),Poly trinome avec 4309+4310 (rattrap),—,Pédo-soin (PEDO-B2),—
+16,4,—,—,—,—,Poly trinome avec 4309+4310,—,—,Poly trinome avec 4309+4310 (débord),Pédo-soin (PEDO-B2),—
+17,4,—,—,—,—,Poly trinome avec 4309+4310,—,—,—,Pédo-soin (PEDO-B2),—
+18,5,—,Poly trinome avec 4309+4310 (examen),Poly trinome avec 4309+4310 (examen),—,—,—,—,—,—,—
+19,5,—,—,Poly 6A seul (examen),—,Poly 6A seul (examen),—,cours/indispo promo (F),cours/indispo promo (F),—,—
+20,5,—,—,—,—,Poly trinome avec 4309+4310,—,Poly trinome avec 4309+4310,—,COMO,—
+21,5,cours/indispo promo (F),cours/indispo promo (F),—,—,Poly trinome avec 4309+4310,—,Poly trinome avec 4309+4310,—,—,—
+22,5,Urgences (6/4),Poly trinome avec 4309+4310 (examen),—,—,Poly trinome avec 4309+4310,Pano/CBCT,—,—,—,—
+23,5,—,—,—,—,Poly trinome avec 4309+4310,—,—,Poly trinome avec 4309+4310 (débord),—,—
+24,5,—,—,—,—,Poly trinome avec 4309+4310,—,—,—,—,—
+25,5,—,—,—,—,Poly trinome avec 4309+4310,—,—,Poly trinome avec 4309+4310 (débord),Urgences (6/4),—
+26,5,—,—,—,—,Poly trinome avec 4309+4310,—,—,—,—,—
+27,5,—,—,—,—,Poly trinome avec 4309+4310,—,—,—,Urgences (6/4),—
+28,6,—,—,—,—,Poly trinome avec 4309+4310,Poly trinome avec 4309+4310 (débord),—,—,—,—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Poly trinome avec 4309+4310 (rattrap),Poly trinome avec 4309+4310 (rattrap),—,—
+30,6,—,—,—,—,Poly trinome avec 4309+4310,—,Urgences (6/5/4),—,—,—
+31,6,—,—,—,—,Poly trinome avec 4309+4310,—,Poly trinome avec 4309+4310,—,—,—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,—,—,Poly trinome avec 4309+4310,—,—,—,Urgences (6/4),—
+35,6,—,—,—,—,Poly trinome avec 4309+4310,—,Poly trinome avec 4309+4310,—,—,—

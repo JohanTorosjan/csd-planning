@@ -1,0 +1,61 @@
+RÉSUMÉ ÉTUDIANT
+Code,6211
+Année,6A
+Type,2
+Groupe,G2_07
+Vacations Poly (total),59
+Détail,normal:41 examen:7 rattrap:4 débord:7
+
+Semaine,Période,lundi M,lundi AM,mardi M,mardi AM,mercredi M,mercredi AM,jeudi M,jeudi AM,vendredi M,vendredi AM
+36,1,cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C),cours/indispo promo (C)
+37,1,cours/indispo promo (C),Radio,Poly 4/6 avec 4210,cours/indispo promo (C),—,—,—,cours/indispo promo (C),cours/indispo promo (C),—
+38,1,cours/indispo promo (C),—,Poly 4/6 avec 4210,cours/indispo promo (C),Poly 4/6 avec 4210,—,Urgences (6/4),cours/indispo promo (C),cours/indispo promo (C),—
+39,1,—,—,Poly 4/6 avec 4210,cours/indispo promo (C),—,—,—,cours/indispo promo (C),—,—
+40,1,—,Stérilisation,Poly 4/6 avec 4210,—,—,—,—,Urgences (6/5),—,—
+41,1,—,—,Poly 4/6 avec 4210,—,Pano/CBCT,—,—,—,—,—
+42,1,—,—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,—,Urgences (6/4),—,—,—
+43,1,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—
+44,1,—,—,Poly 4/6 avec 4210,Urgences (6/5),—,—,—,—,—,—
+45,2,—,—,—,Poly 4/6 avec 4210 (rattrap),Urgences (6/4),—,Pédo-soin (PEDO-A3),—,—,—
+46,2,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-A3),—,Urgences (6/5/4),—
+47,2,—,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210,—,Pédo-soin (PEDO-A3),—,—,Urgences (6/5)
+48,2,—,—,—,Poly 4/6 avec 4210,Pano/CBCT,—,Pédo-soin (PEDO-A3),—,—,—
+49,2,—,Urgences (6/4),—,Poly 4/6 avec 4210,—,—,Pédo-soin (PEDO-A3),—,—,—
+50,2,Urgences (6/4),—,Poly 6A seul,—,cours/indispo promo (E),cours/indispo promo (E),cours/indispo promo (ER),cours/indispo promo (ER),—,—
+51,2,—,—,—,Poly 4/6 avec 4210,Urgences (6/4),—,Pédo-soin (PEDO-A3),—,—,—
+52,2,—,—,—,—,Poly 4/6 avec 4210 (rattrap),Poly 4/6 avec 4210 (rattrap),Pédo-soin (PEDO-A3),cours/indispo promo (F),cours/indispo promo (F),cours/indispo promo (F)
+1,2,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+2,3,—,—,Poly 4/6 avec 4210 (examen),Poly 4/6 avec 4210 (examen),—,—,Pédo-soin (PEDO-6A-B-jeuM),—,Radio,—
+3,3,—,—,—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+4,3,—,—,—,Poly 4/6 avec 4210,—,—,Pédo-soin (PEDO-6A-B-jeuM),—,Urgences (6/5),—
+5,3,—,—,—,Poly 4/6 avec 4210,—,—,Pédo-soin (PEDO-6A-B-jeuM),—,Urgences (6/5),—
+6,3,—,—,—,Poly 4/6 avec 4210 (rattrap),Urgences (6),—,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+7,3,—,—,—,Poly 4/6 avec 4210,Urgences (6/5),—,Pédo-soin (PEDO-6A-B-jeuM),—,—,Pano/CBCT
+8,3,—,—,—,Poly 4/6 avec 4210,Urgences (6/5),Poly 4/6 avec 4210,Pédo-soin (PEDO-6A-B-jeuM),—,—,—
+9,4,S,S,S,S,S,S,S,S,S,S
+10,4,S,S,S,S,S,S,S,S,S,S
+11,4,S,S,S,S,S,S,S,S,S,S
+12,4,S,S,S,S,S,S,S,S,S,S
+13,4,S,S,S,S,S,S,S,S,S,S
+14,4,S,S,S,S,S,S,S,S,S,S
+15,4,S,S,S,S,S,S,S,S,S,S
+16,4,Pédo-soin (PEDO-6A-B-lunM) [remplissage],—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,—,—,Urgences (6/5/4),—
+17,4,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—
+18,5,—,Poly 4/6 avec 4210 (examen),Poly 4/6 avec 4210 (examen),Urgences (6/4),—,—,—,—,Pédo-soin (PEDO-56-venM),—
+19,5,—,Urgences (6/5),Poly 6A seul (examen),Poly 6A seul (examen),—,—,cours/indispo promo (F),cours/indispo promo (F),Pédo-soin (PEDO-56-venM),—
+20,5,—,Urgences (6/4),Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,—,—,Pédo-soin (PEDO-56-venM),—
+21,5,cours/indispo promo (F),cours/indispo promo (F),Poly 4/6 avec 4210 (examen),Pano/CBCT,Poly 4/6 avec 4210,—,Urgences (6/5/4),—,—,—
+22,5,—,—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,—,—,—,Pédo-soin (PEDO-56-venM),—
+23,5,—,—,Poly 4/6 avec 4210,—,—,—,—,—,—,—
+24,5,Urgences (6/4),—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,—,—,—,Pédo-soin (PEDO-56-venM),—
+25,5,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,—,—,—,—
+26,5,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),Urgences (6/4),—,—,—,Pédo-soin (PEDO-56-venM),—
+27,5,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,—,—,—,—
+28,6,—,—,Poly 4/6 avec 4210,—,—,—,—,Urgences (6/4),Pédo-soin (PEDO-56-venM),—
+29,6,—,—,—,—,cours/indispo promo (F),cours/indispo promo (F),—,—,—,—
+30,6,—,—,Poly 4/6 avec 4210,—,Poly 4/6 avec 4210,—,—,—,Pédo-soin (PEDO-56-venM),—
+31,6,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,Urgences (6/5/4),—,—,Pédo-soin (PEDO-56-venM),—
+32,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+33,6,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé,fermé
+34,6,—,—,Poly 4/6 avec 4210,Poly 4/6 avec 4210 (débord),—,—,—,—,—,—
+35,6,—,—,Poly 4/6 avec 4210,—,—,—,—,—,Pédo-soin (PEDO-56-venM),Urgences (6/5/4)
